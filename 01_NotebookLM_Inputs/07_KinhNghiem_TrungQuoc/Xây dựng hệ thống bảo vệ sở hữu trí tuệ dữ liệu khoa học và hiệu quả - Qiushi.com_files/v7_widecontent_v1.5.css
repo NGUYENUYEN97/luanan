@@ -1,0 +1,84 @@
+/* updatetime         : 2018-11-28 */
+/* 报错请联系 */
+/* web development    : 梁竼 */
+/* qq mail            : 121876723 sifinsh@163.com */
+
+/* 结构 */
+html,body { height: 100%; }
+.wrapper { height: 100%; width: 100%; overflow: hidden; }
+.wp_top { background-color: #cc3333; height: 50px; position: fixed; top: 0; left: 0; z-index: 1; width: 100%; }
+.wp_top .icon { width: 69px; height: 31px; float: left; display: inline; margin: 8px 0 0 14px; }
+.wp_top .icon img { width: 100%; }
+.wp_top .menu { float: left; display: inline; font-size: 16px; font-weight: bold; color: #fff; margin: 12px 0 0 20px; line-height: 1.5; }
+.wp_top .menu a { color: #fff; }
+.wp_top .menu a:hover { color: #eee; }
+@media (max-width: 767px) {
+	.wp_top { height: 1rem; }
+	.wp_top .icon { width: 1.5rem; height: auto; margin: 0.2rem 0 0 0.4; }
+	.wp_top .menu { font-size: 0.36rem; margin: 0.25rem 0 0 0.3rem; }
+	.content .inner .pubtime { font-size: 0.32rem; color: #fff; padding-left: 0.2rem; }
+}
+
+/* 视频 */
+#videoArea iframe { width:640px; height:460px; display: block; margin: 20px auto; }
+@media screen and (min-width:0px) and (max-width: 767px) {
+#videoArea iframe{ width:100%; height:200px;}
+}
+.content {}
+.content .inner { width: 100%; margin: 0 auto; padding-top: 100px; position: relative; }
+.content .inner .issue { font-size: 24px; font-weight: bold; }
+.content .inner h1 { font-size: 42px; font-weight: bold; font-family: "微软雅黑","Microsoft YaHei","PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Heiti SC", "SimHei", Arial, sans-serif; color: #000; line-height: 1.2; margin: 30px 0 0 0; text-align:center; }
+.content .inner h2 { font-size:32px; font-weight: bold; font-family: "微软雅黑","Microsoft YaHei","PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Heiti SC", "SimHei", Arial, sans-serif; color: #000; line-height: 1.2; margin: 20px 0; text-align:center; }
+.content .inner .author { font-size: 16px; font-weight: bold; font-family: "微软雅黑","Microsoft YaHei","PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Heiti SC", "SimHei", Arial, sans-serif; color: #000; line-height: 1.2; margin: 30px 0 0 0; display: block; }
+.content .inner .appellation { font-size: 14px; color: #666; padding-top:5px; margin:0 20px 0 0; }
+.content .inner .pubtime { font-size: 14px; color: #ccc; padding-top:5px; }
+.content .inner .line { width: 100%; background-color: #f5f5f5; height: 10px; display: block; margin: 30px 0 0 0; }
+.content .inner .text .clipboard_text { position:relative; margin:0 0 80px 0; }
+.content .inner .text .clipboard_text p { font: 18px/2 "PingFang SC", "Lantinghei SC", "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", STHeitiSC-Light, simsun, "WenQuanYi Zen Hei", "WenQuanYi Micro Hei", sans-serif; color: #2b2b2b; margin: 28px 10px; display: block; }
+.content .inner .text .clipboard_text p img { max-width: 100%; }
+.content .inner .sharebox { position: absolute; top: 180px; right: -100px; width: 43px; }
+.content .inner .sharebox .con { margin: 0 0 5px 0; }
+.content .inner .sharebox .wx { position: relative; }
+.content .inner .sharebox .wxcon { position: absolute; right: 50px; top: 0; display: none; }
+.content .inner .sharebox .wxcon img { width: 140px; height: 140px; }
+@media (max-width: 767px) {
+	.content { width: 100%; }
+	.content .inner { padding: 1.5rem 0.5rem 0; }
+	.content .inner .issue { font-size: 0.44rem; }
+	.content .inner h1 { font-size: 0.8rem; margin: 0.4rem 0 0 0; }
+	.content .inner h2 { font-size: 0.5rem; margin: 0.2rem 0; }
+	.content .inner .author { font-size: 0.38rem; margin: 0.4rem 0 0 0; }
+	.content .inner .appellation { font-size: 0.36rem; padding-top:0.1rem; }
+	.content .inner .pubtime { font-size: 0.36rem; padding:0; }
+	.content .inner .line { height: 0.2rem; margin: 0.3rem 0 0 0; }
+	.content .inner .text { margin: 0; }
+	.content .inner .text .clipboard_text { margin:0 0 0.7rem; }
+	.content .inner .text .clipboard_text p { font-size: 0.5rem; line-height: 2; color: #2b2b2b; margin: 0.8rem 0; display: block; text-align: justify; }
+	.content .inner .text .clipboard_text img { width: 100%; padding: 0; }
+	.content .inner .sharebox { display: none; }
+}
+.xl_ewm { width: 180px; height: 190px; border: solid 1px #e5e5e5; margin: 0 auto 30px; }
+.xl_ewm .pic { width: 120px; height: 120px; margin: 16px 0 0 19px; }
+.xl_ewm .pic img { width: 140px; height: 140px; }
+.xl_ewm .text { font-size: 12px; line-height: 30px; font-weight: bold; color: #000; text-align: center; }
+.fs-text { font-size: 16px; line-height: 1.5; color: #666; padding: 15px 0; }
+.fs-text a { color: #666; }
+.fs-text a:hover { color: #cc3333; }
+.fs-line { background-color: #e5e5e5; height: 1px; line-height: 0px; font-size: 0px; }
+.fs-line_b { width: 100%; background-color: #f5f5f5; height: 10px; display: block; margin: 50px 0 0 0; }
+.fs-pinglun { margin: 30px 0 0 0; text-align: center; }
+.fs-pinglun .big { font-size: 30px; font-weight: bold; color: #000; padding-right: 20px; }
+.fs-pinglun .small { font-size: 16px; font-weight: bold; color: #000; }
+.fs-pinglun .small a { color: #cc3333; }
+@media (max-width: 767px) {
+	.fs-text { font-size: 0.36rem; line-height: 2; color: #ababab; margin: 0 0.7rem; padding: 0.2rem 0; }
+	.fs-text a { color: #ababab; }
+	.fs-line { margin: 0 0.7rem; }
+	.fs-pinglun { margin: 0.5rem 0; }
+	.fs-pinglun .big { font-size: 1rem; padding-right: 0.2rem; }
+	.fs-pinglun .small { font-size: 0.44rem; }
+}
+.footer { background: none; height: 180px; }
+@media (max-width: 767px) {
+	.footer { background: none; height: 100px; }
+}

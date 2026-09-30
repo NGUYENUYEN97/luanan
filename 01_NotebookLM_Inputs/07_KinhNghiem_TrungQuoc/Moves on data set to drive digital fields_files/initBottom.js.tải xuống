@@ -1,0 +1,14 @@
+
+// 设置底部浮动窗高度20231211
+ setTimeout("initBottom()","2000");
+
+// 初始化底部浮动窗高度 20231211
+function initBottom(){
+    var myDivFlag = $('.mFloatWin').length;
+    // console.log("initBottom="+myDivFlag);
+    if(myDivFlag>0){       
+        myHeight=$('.mFloatWin').height();
+        console.log("mFloatWin="+myHeight);
+        $(".Bottom_Float_Div").css("paddingBottom", myHeight+"px");
+    }
+}

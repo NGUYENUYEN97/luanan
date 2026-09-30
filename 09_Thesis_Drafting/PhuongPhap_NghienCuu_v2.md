@@ -1,0 +1,86 @@
+# 1.2. PHƯƠNG PHÁP NGHIÊN CỨU CỦA ĐỀ TÀI LUẬN ÁN
+
+## 1.2.1. Phương pháp thu thập dữ liệu
+
+### 1.2.1.1. Dữ liệu thứ cấp
+
+Luận án sử dụng các dữ liệu thứ cấp đã được kiểm chứng độ tin cậy để hệ thống hóa, xác định và phân tích một số khái niệm sử dụng trong luận án, đặc điểm của quyền sở hữu trí tuệ (SHTT), xác định nội dung quản lý nhà nước (QLNN), các tiêu chí đánh giá, các yếu tố ảnh hưởng đến QLNN về quyền SHTT trong nền kinh tế số (KTS), kinh nghiệm của các quốc gia về QLNN đối với quyền SHTT, xu hướng phát triển của hệ thống bảo hộ SHTT trong bối cảnh chuyển đổi số. Các dữ liệu này được khai thác từ các nguồn cụ thể như sau: giáo trình về QLNN về kinh tế, về quản lý công, sách chuyên khảo, sách tham khảo về SHTT, về KTS, các yếu tố ảnh hưởng đến hiệu quả thực thi quyền SHTT trên không gian số; các luận án đã bảo vệ có liên quan đến quyền SHTT, KTS, QLNN về quyền SHTT; các đề tài nghiên cứu khoa học cấp Bộ, cấp Nhà nước về các vấn đề gắn với quyền SHTT và QLNN đối với quyền SHTT trong KTS; các bài báo liên quan đến QLNN đối với quyền SHTT có chỉ số xuất bản phù hợp, chủ yếu là các bài báo được đăng trên các tạp chí thuộc danh mục Scopus, Web of Science cũng như các tạp chí có tên trong danh mục được Hội đồng chức danh giáo sư Nhà nước công nhận.
+
+Dữ liệu thứ cấp cũng là nguồn dữ liệu quan trọng được sử dụng trong luận án nhằm làm rõ thực trạng bảo hộ quyền SHTT và phân tích thực trạng QLNN đối với quyền SHTT trong KTS tại Việt Nam. Các dữ liệu thứ cấp về kết quả bảo hộ quyền SHTT được thu thập từ các nguồn như: các báo cáo thường niên của Cục Sở hữu trí tuệ (Bộ Khoa học và Công nghệ), Báo cáo của Tổ chức Sở hữu trí tuệ Thế giới (WIPO), Báo cáo chỉ số đổi mới sáng tạo toàn cầu (GII), Tổng cục Thống kê, Báo cáo về kinh tế số của Bộ Thông tin và Truyền thông, Sách trắng công nghệ thông tin và truyền thông Việt Nam, các báo cáo về chuyển đổi số quốc gia, các báo và tạp chí điện tử, kỷ yếu khoa học liên quan đến quyền SHTT và QLNN đối với quyền SHTT trong KTS.
+
+Để phân tích thực trạng QLNN đối với quyền SHTT trong KTS ở Việt Nam, luận án tham khảo từ các nguồn như: Luật Sở hữu trí tuệ (sửa đổi, bổ sung năm 2022), Luật Công nghệ thông tin, Luật An ninh mạng, Luật Giao dịch điện tử; các Nghị định, Thông tư, Quyết định, Chiến lược, Đề án, Quy hoạch, Kế hoạch của cơ quan Nhà nước cấp Trung ương; dữ liệu sử dụng trong nghiên cứu cũng bao gồm các số liệu thống kê từ các báo cáo, cơ sở dữ liệu trên các website: vanban.chinhphu.vn, thuvienphapluat.vn, ipvietnam.gov.vn liên quan đến QLNN đối với quyền SHTT. Việc thu thập dữ liệu thứ cấp được thực hiện tại bàn (thông qua internet), tại thư viện Trường Đại học Thương mại, thư viện Quốc gia, thư viện Học viện Chính trị Quốc gia Hồ Chí Minh, thư viện Học viện Hành chính Quốc gia.
+
+Luận án dự kiến sử dụng các số liệu thống kê về đăng ký, xử lý đơn và thực thi quyền SHTT tại Việt Nam từ năm 2016 đến năm 2024, được công bố bởi Cục Sở hữu trí tuệ (Bộ Khoa học và Công nghệ). Đồng thời, luận án khai thác các dữ liệu về phát triển KTS tại Việt Nam trong cùng giai đoạn từ các nguồn của Bộ Thông tin và Truyền thông, Hiệp hội Thương mại điện tử Việt Nam (VECOM) và các tổ chức quốc tế như WIPO, OECD, World Bank. Cụ thể:
+
+(1) Đối với dữ liệu về thực thi quyền SHTT: Cục Sở hữu trí tuệ công bố định kỳ các báo cáo thống kê về số lượng đơn đăng ký, văn bằng bảo hộ được cấp, số vụ vi phạm quyền SHTT được xử lý theo từng năm. Các dữ liệu này phản ánh năng lực tiếp nhận, thẩm định và cấp văn bằng bảo hộ của cơ quan QLNN cũng như mức độ vi phạm quyền SHTT trên môi trường số. Kết quả thống kê được sử dụng để đánh giá hiệu lực và hiệu quả QLNN đối với quyền SHTT tại Việt Nam trong thời gian qua.
+
+(2) Đối với dữ liệu về phát triển KTS: Bộ Thông tin và Truyền thông, Bộ Kế hoạch và Đầu tư cùng các tổ chức quốc tế công bố các báo cáo về quy mô KTS, mức độ chuyển đổi số của doanh nghiệp, tỷ lệ ứng dụng công nghệ số trong hoạt động kinh doanh. Các dữ liệu này được sử dụng để phân tích bối cảnh KTS và tác động của nó đến yêu cầu đổi mới QLNN về quyền SHTT.
+
+### 1.2.1.2. Dữ liệu sơ cấp
+
+Để có thêm thông tin bổ sung cho nghiên cứu đánh giá QLNN đối với quyền SHTT trong KTS cũng như một số vấn đề liên quan trong luận án, nghiên cứu sinh (NCS) dự kiến thu thập dữ liệu sơ cấp bằng cách khảo sát qua bảng hỏi.
+
+**Nội dung bảng hỏi**
+
+Câu hỏi khảo sát được thiết kế hỗn hợp bao gồm cả dạng câu hỏi đóng và câu hỏi mở, trong đó chủ yếu là câu hỏi đóng. Bảng câu hỏi khảo sát được thiết kế bao gồm các câu hỏi đánh giá về chính sách ban hành và thực thi QLNN đối với quyền SHTT trong KTS và các vấn đề liên quan. Các câu hỏi được thiết kế theo hướng tập trung đánh giá dựa vào 5 tiêu chí: (i) Hiệu lực của QLNN; (ii) Hiệu quả của QLNN; (iii) Tính phù hợp của QLNN; (iv) Tiêu chí đồng bộ, hệ thống và thống nhất; (v) Tiêu chí minh bạch và công bằng, từ đó đề xuất các giải pháp hoàn thiện công tác QLNN đối với quyền SHTT trong KTS.
+
+Các đối tượng khác nhau được khảo sát bởi bảng câu hỏi được thiết kế khác nhau, đảm bảo phù hợp với đối tượng khảo sát và các nội dung nghiên cứu đã được đề xuất. Khảo sát sử dụng thang đo Likert 5 mức độ (Hoàn toàn không đồng ý; Không đồng ý; Không ý kiến; Đồng ý; Hoàn toàn đồng ý) và để phân tích dữ liệu khảo sát sẽ tính điểm trung bình để xác định mức độ chung của cảm nhận, thái độ, hoặc sự đồng ý của một nhóm người tham gia khảo sát đối với một vấn đề cụ thể.
+
+Tính điểm trung bình (Mean Score):
+
+Công thức: Điểm trung bình = ∑(Điểm của mỗi câu trả lời) / Số lượng câu trả lời
+
+Các mức điểm được giải thích như sau:
+
+- Mức điểm (1,0 - 2,0): Rất không đồng ý hoặc không hài lòng, cho thấy phần lớn người tham gia có phản hồi tiêu cực, thể hiện đánh giá rất thấp đối với khía cạnh được khảo sát.
+- Mức điểm (2,1 - 3,0): Không đồng ý hoặc không hài lòng, phản ánh một mức độ không đồng tình nhưng không hoàn toàn tiêu cực như mức trước đó.
+- Mức điểm (3,1 - 4,0): Trung lập hoặc đồng ý nhẹ, thể hiện sự đánh giá trung tính hoặc chỉ đồng ý ở mức độ vừa phải.
+- Mức điểm (4,1 - 5,0): Đồng ý hoặc rất hài lòng, biểu thị mức độ đồng tình cao và sự đánh giá tích cực.
+
+Tính độ lệch chuẩn (Standard Deviation):
+
+Công thức: Độ lệch chuẩn = √[∑(Xi − X̄)² / N]
+
+Trong đó Xi là điểm của mỗi câu trả lời, X̄ là điểm trung bình, và N là số lượng câu trả lời. Với các câu trả lời trên thang Likert, độ lệch chuẩn cho thấy mức độ nhất trí hay phân tán trong phản hồi của người tham gia. Độ lệch chuẩn thấp (nhỏ hơn 1) thể hiện sự nhất trí cao giữa các người tham gia, trong khi độ lệch chuẩn cao (trên 1) cho thấy sự phân tán ý kiến rộng hơn.
+
+**Cách thức thực hiện**
+
+Xây dựng các bảng câu hỏi được hoàn thiện, phiếu khảo sát được gửi đến cho các đối tượng nhằm thu thập ý kiến đánh giá theo mục tiêu đã đề ra (xem phụ lục ...).
+
+- Về đối tượng khảo sát: khảo sát dự kiến thực hiện với hai nhóm đối tượng chính: (i) đại diện cơ quan QLNN về quyền SHTT; (ii) đại diện lãnh đạo các doanh nghiệp hoạt động trong lĩnh vực có liên quan đến quyền SHTT trong KTS (giám đốc, phó giám đốc, trưởng phó phòng pháp chế, trưởng phó phòng quản lý SHTT).
+- Về thời gian khảo sát: dự kiến thời gian khảo sát từ tháng .../20... đến tháng .../20.... Đây là giai đoạn Việt Nam đang đẩy mạnh chuyển đổi số quốc gia, nền KTS phát triển nhanh chóng kéo theo nhiều vấn đề phát sinh trong bảo hộ và thực thi quyền SHTT trên môi trường số. Do đó, việc tiếp cận khảo sát các doanh nghiệp và cán bộ QLNN đối với quyền SHTT trong thời điểm này sẽ có được những góp ý sát với thực tiễn.
+- Về phương pháp chọn mẫu: Hoạt động bảo hộ và thực thi quyền SHTT trong KTS diễn ra chủ yếu ở những thành phố có điều kiện kinh tế, xã hội phát triển, có mức độ chuyển đổi số cao, do vậy khảo sát dự kiến tập trung ở các thành phố lớn có hoạt động đăng ký và thực thi quyền SHTT phát triển mạnh. NCS dự kiến lựa chọn địa bàn khảo sát tập trung chủ yếu ở các tỉnh, thành phố: Hà Nội, Tp. Hồ Chí Minh, Đà Nẵng. Đây là những địa phương có số lượng đơn đăng ký SHTT lớn nhất cả nước và có mức độ phát triển KTS cao, thuận lợi cho việc khảo sát và thu thập dữ liệu liên quan đến QLNN về quyền SHTT.
+- Về quy mô mẫu: Với các đối tượng khảo sát là các nhà QLNN đối với quyền SHTT và đại diện doanh nghiệp, phương pháp chọn mẫu phù hợp nhất là sử dụng kỹ thuật lấy mẫu thuận tiện. Với kỹ thuật này, kích cỡ mẫu chủ yếu phụ thuộc vào nội dung câu hỏi và mục tiêu nghiên cứu, kết quả khảo sát phụ thuộc vào kỹ năng khảo sát và phân tích dữ liệu nhiều hơn là kích cỡ mẫu (Patton, M. Q, 2002).
+
+NCS cũng tham khảo thêm cách xác định quy mô mẫu của Hair và cộng sự (2014) và Bollen, K. A. (1989). Theo đó, kích thước mẫu theo quy tắc thông thường cần phải lớn hơn hoặc bằng 100 và mẫu nhỏ nhất phải có tỷ lệ tương ứng với kích thước n = 5*k (k = số biến quan sát). Vì vậy, tổng quy mô mẫu dự kiến là 100 phiếu, được phân bổ cụ thể như sau:
+
+(i) Bảng hỏi doanh nghiệp: NCS dự kiến khảo sát 60 doanh nghiệp có hoạt động liên quan đến quyền SHTT trong KTS tại 3 tỉnh, thành phố.
+
+**Bảng 1.1. Dự kiến cơ cấu phiếu khảo sát đối với các doanh nghiệp tại các tỉnh được lựa chọn khảo sát**
+
+| STT | Địa phương       | Số phiếu dự kiến |
+|-----|-------------------|-------------------|
+| 1   | Hà Nội            | 25                |
+| 2   | Tp. Hồ Chí Minh   | 25                |
+| 3   | Đà Nẵng           | 10                |
+|     | **Tổng**          | **60**            |
+
+*Nguồn: Dự kiến của nghiên cứu sinh*
+
+(ii) Bảng hỏi cán bộ quản lý SHTT: NCS dự kiến phát phiếu điều tra cho các cán bộ ở các bộ phận liên quan đến QLNN về quyền SHTT như: Cục Sở hữu trí tuệ (Bộ Khoa học và Công nghệ), Bộ Thông tin và Truyền thông, Bộ Văn hóa, Thể thao và Du lịch, Thanh tra Bộ Khoa học và Công nghệ, Sở Khoa học và Công nghệ các tỉnh tại các địa phương được lựa chọn khảo sát. Qua tìm hiểu sơ bộ của NCS, mỗi cơ quan QLNN trung bình có khoảng 5-6 cán bộ trực tiếp tham gia các hoạt động quản lý đối với quyền SHTT. Vì thế, NCS dự kiến số phiếu phát ra ở mỗi cơ quan là từ 6-8 phiếu, tổng số phiếu dự kiến là 40 phiếu.
+
+**Hình thức khảo sát**
+
+Để tiến hành khảo sát, NCS dự kiến lập danh sách các doanh nghiệp có hoạt động liên quan đến quyền SHTT trong KTS, các cán bộ quản lý SHTT ở các địa phương được lựa chọn để khảo sát. Sau đó, liên hệ qua điện thoại để xác nhận tính xác thực của các cán bộ trong danh sách và các doanh nghiệp. NCS dự kiến sử dụng ba kênh để thu thập phiếu điều tra chính thức: (i) phiếu khảo sát được thiết kế dưới dạng Google Form và gửi cho đại diện lãnh đạo các doanh nghiệp và các cán bộ quản lý SHTT theo địa chỉ email; (ii) gửi phiếu khảo sát tới cán bộ quản lý SHTT ở các tỉnh qua đường bưu điện; (iii) NCS tham dự các hội nghị, hội thảo liên quan đến SHTT và KTS để gặp gỡ đại diện lãnh đạo các doanh nghiệp, các cán bộ quản lý SHTT và phát phiếu điều tra khảo sát trực tiếp.
+
+Đối với khảo sát dành cho doanh nghiệp, ban lãnh đạo hoặc bộ phận pháp chế, quản lý SHTT của doanh nghiệp thường có trung bình 3-5 thành viên nhưng nghiên cứu chỉ thực hiện gửi phiếu khảo sát nhằm thu thập ý kiến đại diện, vì vậy phiếu khảo sát được ưu tiên gửi đến thành viên phụ trách trực tiếp lĩnh vực SHTT hoặc pháp chế của doanh nghiệp.
+
+## 1.2.2. Phương pháp phân tích dữ liệu
+
+Luận án dự kiến sử dụng công cụ Excel để thống kê dữ liệu khảo sát và sử dụng phần mềm SPSS để tính toán một số chỉ số thống kê. Ngoài ra, luận án còn sử dụng các phương pháp nghiên cứu cụ thể như sau:
+
+- Phương pháp tổng hợp: phương pháp này được sử dụng trong quá trình nghiên cứu tổng quan tài liệu; hệ thống hóa, hoàn thiện cơ sở lý luận về QLNN đối với quyền SHTT trong KTS. Phương pháp này còn được dùng để xây dựng các luận cứ khoa học có tính độc lập và rút ra các kết luận cho từng vấn đề của luận án.
+- Phương pháp thống kê mô tả: phương pháp này được sử dụng chủ yếu ở Chương 3 để xử lý, tính toán các trị số thể hiện đặc tính của các hiện tượng, mô tả mức độ, sự biến động của các chỉ số thống kê phục vụ cho việc nghiên cứu thực trạng QLNN đối với quyền SHTT trong KTS.
+- Phương pháp thống kê so sánh: được sử dụng kết hợp cùng phương pháp phân tích tổng hợp để so sánh kết quả bảo hộ và thực thi quyền SHTT ở Việt Nam qua các năm; so sánh QLNN đối với quyền SHTT giữa các quốc gia trên thế giới nhằm tổng kết kinh nghiệm các nước trong việc QLNN đối với quyền SHTT trong KTS và giải quyết các vấn đề liên quan.
+
+Bên cạnh đó, luận án sử dụng phương pháp sơ đồ, biểu đồ, bảng số liệu nhằm thực hiện phân tích mô tả, đánh giá kết quả bảo hộ quyền SHTT, đánh giá thực trạng QLNN đối với quyền SHTT trong KTS dựa trên các dữ liệu đã thu thập được.

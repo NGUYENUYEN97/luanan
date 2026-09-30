@@ -1,0 +1,1126 @@
+--- Các yếu tố ảnh hưởng đến hành vi cá nhân vi phạm bản quyền số ở Việt Nam.pdf ---
+78                                                   Science and Technology Development Journal, vol 20, No.Q4- 2017  
+   Tóm tắt–Nghiên cứu này nhằm tìm hiểu các yếu tố ảnh hưởng đến hành vi cá nhân vi phạm bản quyền số ở Việt Nam, và đưa ra khuyến nghị nhằm hạn chế tình trạng này. Dựa trên mô hình lý thuyết hành vi hoạch định (Theory of Planned Behavior - TPB), và mô hình chấp nhận công nghệ hợp nhất (Unified Theory of Acceptance and Use of Technology - UTAUT), nghiên cứu đề xuất một mô hình tích hợp các khía cạnh tâm lý, đạo đức, và công nghệ để khảo sát các yếu tố ảnh hưởng đến hành vi vi phạm bản quyền số (VPBQS) ở Việt Nam. Mẫu khảo sát bao gồm 264 sinh viên, học viên cao học, nhân viên kỹ thuật, phi kỹ thuật cũng như quản lý các cấp tại thành phố Hồ Chí Minh. Mô hình nghiên cứu được kiểm định bằng các công cụ thống kê như: Cronbach Alpha, phân tích nhân tố khám phá (EFA), phân tích nhân tố khẳng định (CFA), mô hình cấu trúc tuyến tính (SEM) và phân tích khác biệt nhóm (ANOVA). Kết quả cho thấy ý định vi phạm ảnh hưởng lớn đến hành vi, và nhận thức kiểm soát hành vi ảnh hưởng mạnh nhất đến ý định. Mặt khác, nhận thức kiểm soát hành vi chịu chi phối từ những yếu tố khách quan như sự phát triển công nghệ và nhận thức về rủi ro. Trên cơ sở các kết quả nghiên cứu, nhóm nghiên cứu đã có một số đề xuất và gợi ý trong việc giúp các cơ quan quản lý cũng như doanh nghiệp có những chiến lược phù hợp nhằm ngăn cản hành vi VPBQS ở Việt Nam. Từ đó, thúc đẩy sự phát triển lành mạnh của nền kinh tế trong thời đại kỹ thuật số, và giúp Việt Nam có thể chuyển đổi thành công sang nền kinh tế tri thức.  Bài nhận ngày 20 tháng 07 năm 2017, hoàn chỉnh sửa chữa ngày 06 tháng 11 năm 2017.  Nghiên cứu được tài trợ bởi Đại học Quốc gia Thành phố Hồ Chí Minh (ĐHQG-HCM) trong khuôn khổ Đề tài mã số C2017-20-41. Phạm Quốc Trung, Trường Đại học Bách khoa - ĐHQG-HCM (e-mail: pqtrung@hcmut.edu.vn). Đặng Nhựt Minh, Trường Đại học Bách khoa - ĐHQG-HCM (e-mail: dangnhutminh@gmail.com).  Từ k
+
+--- Các yếu tố ảnh hưởng đến phát triển kinh tế số ở Việt Nam.pdf ---
+ 
+VIỆN HÀN LÂM  
+ KHOA HỌC XÃ HỘI VIỆT NAM  
+HỌC VIỆN KHOA HỌC XÃ HỘI  
+-------- ---------------- -- 
+ 
+ 
+ 
+TRẦN THỊ LAN  
+ 
+ 
+ 
+CÁC YẾU TỐ ẢNH HƢỞNG ĐẾN PHÁT TRIỂN 
+KINH TẾ SỐ Ở VIỆT NAM  
+ 
+     
+ 
+LUẬN ÁN TIẾN SĨ KINH TẾ  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hà Nội  - Năm  2025  
+ 
+VIỆN HÀN LÂM  
+ KHOA HỌC  XÃ HỘI VIỆT NAM  
+HỌC VIỆN KHOA HỌC XÃ HỘI  
+-------- ---------------- -- 
+ 
+ 
+TRẦN THỊ LAN  
+ 
+ 
+CÁC YẾU TỐ ẢNH HƢỞNG ĐẾN PHÁT TRIỂN 
+KINH TẾ SỐ Ở VIỆT NAM  
+ 
+    Ngành:  Kinh tế phát triển  
+    Mã số:  9 31 01 05  
+ 
+ 
+LUẬN ÁN TIẾN SĨ KINH TẾ  
+ 
+ 
+ NGƯỜI HƯỚNG DẪN KHOA HỌC:  
+   1. TS. Phạm Anh Tuấn  
+   2. TS. Bùi Duy Hƣng  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hà Nội  - Năm  2025
+
+
+--- Hoàn thiện pháp luật về trí tuệ nhân tạo trong nền kinh tế số tại Việt Nam.pdf ---
+  Tháng 10/2025 (kì 1)  GIÁO DỤC
+            XÃ HỘI
+&296HOÀN THIỆN PHÁP LUẬT VỀ TRÍ TUỆ NHÂN TẠO
+TRONG NỀN KINH TẾ SỐ TẠI VIỆT NAM
+NGUYỄN TRỌNG QUANG 
+Khoa Luật, Trường Đại học Thành Đông
+Nhận bài ngày 19/9/2025. Sửa chữa xong 29/9/2025. Duyệt đăng 05/10/2025.
+Abstract
+This article analyzes the current status of Vietnamese legislation governing artificial intelligence (AI) in the 
+digital economy, while drawing insights from international practices in the European Union, the United States, 
+China, and Singapore. It proposes several solutions to strengthen the legal framework, including the enactment 
+of the Personal Data Protection Law, amendments to the Intellectual Property Law, the establishment of an AI 
+sandbox mechanism, the addition of legal liability provisions, enhanced competition oversight, and alignment 
+with international standards. The study emphasizes the urgency of developing a comprehensive and adaptive 
+legal system that both promotes technological innovation and safeguards legal certainty and the rights of 
+stakeholders in Vietnam’s digital economy.
+Keywords:  Artificial intelligence, data protection, digital economy, intellectual property, Vietnamese law.
+1. Đặt vấn đề
+Trong thập niên qua, trí tuệ nhân tạo (AI) đã trở thành một trong những công nghệ đột phá quan 
+trọng nhất, tác động sâu rộng đến kinh tế, xã hội và quản trị quốc gia. Theo PwC (2019), AI có thể đóng 
+góp tới 15,7 nghìn tỷ USD cho GDP toàn cầu vào năm 2030, vượt xa đóng góp của bất kỳ công nghệ 
+nào trước đây [3, tr. 5]. Trong bối cảnh đó, nhiều quốc gia đã coi AI là động lực cốt lõi cho chuyển đổi 
+số, đồng thời là lĩnh vực chiến lược cần được điều chỉnh bởi khuôn khổ pháp lý phù hợp. Tại Việt Nam, 
+Chính phủ đã ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng trí tuệ nhân tạo 
+đến năm 2030 (Quyết định số 127/QĐ-TTg ngày 26/01/2021), xác định mục tiêu đưa Việt Nam trở thành 
+trung tâm đổi mới sáng tạo và phát triển AI hàng đầu trong khu vực ASEAN. Bên cạnh đó, Lu
+
+--- Phát triển kinh tế số tại Việt Nam Thực trạng và giải pháp.pdf ---
+Phát triển kinh tế số tại Việt Nam:  
+Thực trạng và giải pháp1
+Trần Nguyễn Mỹ Linh(*)2
+Nguyễn Thị Hồ Điệp(**)3, 
+Vũ Kiều Oanh(***) 4,
+Tóm tắt:  Phát triển kinh tế số đang dần trở thành vấn đề quan tâm hàng đầu của 
+nhiều quốc gia. Hiện nay, kinh tế số là một trong ba trụ cột chính trong chuyển đổi 
+số quốc gia của Việt Nam, đóng vai trò quan trọng trong phát triển kinh tế. Các hoạt 
+động kinh tế số đã có sự tăng trưởng nhanh chóng, công nghệ kỹ thuật số hiện diện 
+trên tất cả các lĩnh vực của nền kinh tế như nông nghiệp, công nghiệp, dịch vụ, sản 
+xuất, giao thông vận tải, tài chính ngân hàng… Trong bối cảnh đó, việc nắm bắt và 
+hiểu rõ những xu hướng, cơ hội và thách thức của kinh tế số là vô cùng quan trọng để 
+hướng tới mục tiêu phát triển bền vững. Bài viết phân tích thực trạng kinh tế số ở Việt 
+Nam, chỉ ra những tồn tại, từ đó đề xuất một số giải pháp nhằm phát triển kinh tế số 
+của Việt Nam trong thời gian tới.
+Từ khóa: Kinh tế số, Chuyển đổi số, Cách mạng 4.0
+Abstract: Developing the digital economy is gradually becoming a top concern of 
+many countries, and one of the three main pillars in national digital transformation 
+that plays an important role in the economic development of Vietnam. Digital economic 
+activities have grown rapidly, with the strong presence of digital technologies in 
+all of the economy’ s areas such as agriculture, industry, services, manufacturing, 
+transportation, finance and banking. In that context, grasping and understanding the 
+trends, opportunities and challenges of the digital economy is essential to achieve 
+the goal of sustainable development. The article provides information on the actual 
+situation of the digital economy in Vietnam, the problems and solutions to develop 
+Vietnam’ s digital economy in the coming time.
+Keywords : Digital Economy, Digital Transformation, Revolution 4.0
+Ngày nhận bài: 26/5/2025; Ngày duyệt đăng: 15/7/2025
+1  Bài viết là kết quả nghiên cứu của Đề tài cấp cơ sở năm 2025 “ Tổng quan nghiên cứu v
+
+--- Phat-trien-kinh-te-so-o-Viet-Nam--Thuc-trang-va-giai-phap.pdf ---
+5
+Taïp chí nghieân cöùu Taøi chính keá toaùn
+KINH TEÁ, TAØI CHÍNH VÓ MOÂ
+Kỳ1tháng03(số283)-2025
+1. 
+Đặtvấnđề
+Kinhtếsốlàxuhướngtấtyếutrongbốicảnh
+Cách mạng công nghiệp 4.0. Ngày 08/01/2025
+ChínhphủbanhànhNghịquyếtsố01/NQ-CPvề
+nhiệmvụ,giảiphápchủyếuthựchiệnkếhoạchphát
+triểnkinhtế-xãhộivàdựtoánngânsáchnhànước
+năm2025.Mộttrongnhữngnhiệmvụgiảiphápchủ
+yếulà:“Thúcđẩy,tạođộtpháchocácđộnglựctăng
+trưởngmới,pháttriểnkinhtếxanh,kinhtếtuần
+hoàn,thươngmạiđiệntử,cácmôhìnhkinhdoanh
+mới,hiệuquả…Hoànthiệncơchếthửnghiệm
+(sandbox)đểhỗtrợpháttriểnkinhtếsố,kinhtế
+xanhvàkinhtếtuầnhoàn.Hỗtrợdoanhnghiệpứng
+dụngtrítuệnhântạo,chuyểnđổisố,chuyểnđổi
+xanh,tuầnhoàn,…”.Vớitiềmnănglớntừdânsố
+trẻ,tỷlệsửdụnginternetcaovàsựpháttriểnmạnh
+mẽcủacáccôngnghệsố,ViệtNamcóđiềukiện
+thuậnlợiđểpháttriểnkinhtếsố.Tuynhiên,đểphát
+huytốiđatiềmnăngnày,cầncócácgiảiphápphù
+hợpvớithựctiễnvàmộtchiếnlượctổngthể
+2.ThựctrạngkinhtếsốởViệtNam
+Kinhtếsốđangpháttriểnmạnhmẽtrênthế
+giới,vừalàtháchthức,vừalàcơhộiđểViệtNam
+cóthểtậndụngpháttriểnkinhtếđấtnướctrongkỷ
+nguyênvươnmình.Mặcdùđãđượcđềcậpđếntừ
+giữanhữngnăm90củathếkỷXX,nhưngđếnnay
+vẫncònnhiềuquanđiểmkhácnhauvềkinhtếsố.
+TạiViệtNam,Thôngtư13/2021/TT-BKHĐT
+ngày31/12/2021quyđịnhhệthốngchỉtiêuthống
+kếkinhtếsốxácđịnh:“Kinhtếsốlàcáchoạtđộng
+kinhtếcósửdụngthôngtinsố,trithứcsốnhưlà
+yếutốsảnxuấtchính;sửdụngmạngInternet,mạng
+thôngtinlàmkhônggianhoạtđộng;vàsửdụng
+côngnghệthôngtinvàtruyềnthông,tứclàđiệntử,
+viễnthôngvàcôngnghệthôngtinđểtăngnăngsuất
+laođộngvàđểtốiưunềnkinhtế".Kinhtếsốbao
+gồmcáchoạtđộngcungcấpdịchvụ:hạtầngsố,nền
+tảngsốvàứngdụngsố.Trongđó:
+Hạtầngsốlàhạtầngkỹthuậtvậtlý(hạtầng
+
+--- (Final) BCTN SHTT 2024-20.8B.pdf ---
+BỘ KHOA H ỌC VÀ CÔNG NGH Ệ
+CỤC SỞ HỮU TRÍ TU Ệ
+MINISTRY OF SCIENCE AND TECHNOLOGY
+INTELLECTUAL PROPERTY OFFICE OF VIETNAM
+٪٪½OÎvG٪vU2v
+INTELLECTUAL PROPERTY ACTIVITIES 
+ANNUAL REPORT¯٪OÓÄ٪½§W٪½Ä4
+2024O½)٪vG
+٪٪½OÎvG٪vU2v
+INTELLECTUAL PROPERTY ACTIVITIES 
+ANNUAL REPORT¯٪OÓÄ٪½§W٪½Ä4
+2024O½)٪vG
+
+Ảnh / Photo by: M ạnh Nguy ễnBÁO CÁO TH ƯỜNG NIÊN HO ẠT ĐỘNG S Ở HỮU TRÍ TU Ệ 2024  
+ANNUAL REPORT OF INTELLECTUAL PROPERTY OF VIET NAM 2024
+2In 300 cu ốn, kh ổ 21 x 29,5 cm, t ại CÔNG TY TNHH TM&DV HOÀNG B ẢO CHÂU
+Địa ch ỉ: Số 43/269/22 L ạc Long Quân, P . Ngh ĩa Đô, Q. C ầu Gi ấy, Hà N ội
+Số ĐKXB: 534-2025/CXBIPH/59 - 46/HN, ngày 30/06/2025
+Số QĐXB: 2436/Q Đ-HN c ấp ngày 30 tháng 06 n ăm 2025 
+Số ISBN: 978-604-44-5073-5
+In xong và n ộp lưu chi ểu năm 2025.Chịu trách nhi ệm xu ất bản: 
+Tổng Giám đốc - Tổng Biên t ập: TS. V Ũ VĂN VIỆT
+Biên t ập: NGUY ỄN TIẾN TH ĂNG
+Vẽ bìa & Trình bày: VƯƠNG TOÀN HOÀNG
+Sửa bản in: NGUY ỄN THÁI ANH 
+BÁO CÁO TH ƯỜNG NIÊN
+HOẠT ĐỘNG S Ở HỮU TRÍ TU Ệ 2024
+NHÀ XU ẤT BẢN HÀ N ỘI
+Số 4 - T ống Duy Tân - Hàng Bông - Hoàn Ki ếm - Hà N ội
+Điện tho ại: 024.38252916   *   Website: nxbhanoi.com.vn
+
+
+--- wipo-pub-941-2022-en-world-intellectual-property-indicators-2022.pdf ---
+World 
+Intellectual 
+Property 
+Indicators 
+2022
+World Intellectual Property Indicators 2022
+World Intellectual 
+Property Indicators
+2022
+
+
+--- SWD(2025)131_0.pdf ---
+ 
+EN   EN 
+ 
+ 
+ EUROPEAN  
+COMMISSION   
+Brussels, 22.5.2025  
+SWD(2025) 131 final  
+ 
+COMMISSION STAFF WORKING DOCUMENT  
+Report on the protection and enforcement of intellectual property rights in third 
+countries   
+ 
+0 Table of Contents  
+1. INTRODUCTION  ................................ ................................ ................................ ................  1 
+2. METHODOLOGY  ................................ ................................ ................................ ...............  2 
+2.1. Sources  ................................ ................................ ................................ ............................  2 
+2.2. Selection  ................................ ................................ ................................ ..........................  4 
+3. UPDATED LIST OF PRIORITY COUNTRIES  ................................ ..............................  4 
+4. MAIN FINDINGS IN THIRD COUNTRIES  ................................ ................................ .... 5 
+5. EU ACTIVITIES IN THE CONTEXT OF IPR  ................................ ................................  7 
+5.1. Bilateral and Regional Level  ................................ ................................ ........................  7 
+5.1.1. Trade negotiations  ................................ ................................ ................................ ..... 7 
+5.1.2. IP Dialogues and IP Working Groups  ................................ ................................ ...... 8 
+5.1.3. Technical assistance and international cooperation programmes  .............................  8 
+5.1.4. Other initiatives  ................................ ................................ ................................ ....... 10 
+5.2. Multilateral Level  ................................ ................................ ................................ ........  10 
+5.2.1. WTO  ................................ ................................ ........................
+
+--- wipo_ace_12_9_rev_2.pdf ---
+ 
+  
+WIPO/ACE/12/ 9 REV.  2 
+ORIGINAL: ENGLISH  
+DATE:  SEPTEMBER 1 , 2017  
+ 
+ 
+ 
+ 
+ 
+Advisory Committee on Enforcement  
+ 
+ 
+Twelfth Session  
+Geneva, September 4 to 6, 2017  
+ 
+ 
+ 
+STUDY ON APPROACHES TO ONLINE  TRADEMARK INFRINGEME NTS* 
+ 
+Document prepared by D r. Frederick Mostert,  Research Fellow, University of Oxford, Visiting 
+Professor, King’s College, London, United Kingdom**  
+ 
+ 
+ 
+ABSTRACT  
+ 
+This study provides an overview of current approaches to online trademark infringements, 
+focusing specifically on possib le responses to online sales of counterfeits throughout the world.  
+The study reviews the nature of the global problem of online counterfeits, the common 
+approaches to voluntary measures and the “ratio” principles of intermediary responsibility, the 
+issues of proportionate costs borne by brand owners and platforms, blocking injunctions and 
+other remedies, jurisdiction, the international and cross -border enforcement of judgments, 
+voluntary arbitration, criminal measures , administrative and customs measures, blacklisting and 
+whitelisting.  The study also highlights the gaps in the legal measures used in the current online 
+                                                
+* This study was undertaken with the aid of funds provided by the Korean Intellectual Property Office (KIPO).  
+The Executive Summary is available at:  http://www.wipo.int/meetings/en/doc_details.jsp?doc_id=381836 . 
+**  The views expressed in this document are those of the author and not necessarily those of the Secretariat, the 
+Member States of WIPO or the institutions the author may represent.  Apologies for any shortcomings which may 
+remain - the responsibility for whi ch is the author’s alone.  My gratitude to Sabesh Asokan, LLB (Hons) (First Class), 
+King’s College London, founder of King’s College London Information Law and Intellectual Property Society, for his 
+tremendously helpful research and contribution to this st udy. The author is also indebted to the m
+
+--- The_Enforcement_of_Intellectual_Property_Rights_in.pdf ---
+ E-ISSN 2039-2117 
+ISSN 2039-9340        Mediterranean Journal of Social Sciences
+   MCSER Publishing, Rome-Italy Vol 4 No 11 
+October 2013 
+          
+ 615  
+The Enforcement of Intellectual Property Rights in Digital Environment Based on ACTA1 
+ 
+Mohammad Bagherpour 
+ 
+Iran Islamic republic   judiciary organization, Tehran, Iran 
+Email:mohammad5921@yahoo.com 
+ 
+Doi:10.5901/mjss. 2013.v4n11p615 
+ Abstract 
+ The most essential feature of Right in Law's domain is the appropriate enforcement of  that and prohibition of third party 
+infringement due to applying proper actions toward the right. T he appropriate enforcement of the intellectual property rights 
+since its existence either nationally or  internationally- has been one of the most cr ucial concerns of the legislators and juri stic. 
+The intellectual property rights in physical environment did not mainly concern with its true enforcement, but by the advent of  
+internet and the wide speared e-commerce and the simplicity of rights infringement through internet, right holders face with th e 
+new challenge has not proposed yet. Due to complexity of intellectual property in cyberspace, discuss ing the enforcement of it 
+is complex too, so as TRIPS agreeme nt has not been successful to provide an e ffective enforcement in this field. ACTA 
+agreement- assigned by 8 like- minded countries in October 2011- in a particular section refers to the enforcement of the 
+intellectual property rights in digital environment in order to provide efficient solutions against right infringement. The pre sent 
+article tries to study the enforcement of the intellectual property rights in cyber space focusing on the recent agreement.  
+ 
+Keywords: intellectual property rights, ACTA agreement, enforcement, digital environment  
+ 
+ 
+1. Introduction  
+ 
+The most fundamental quality for a right recognized in the realm of law is its enforcement and its power to stop the third 
+parties from violating such rights by utilizing proper mechanisms
+
+--- The Liability of Internet Intermediaries in Online Copyright Law Enforcement.pdf ---
+ TALLINN UNIVERSITY OF TECHNOLOGY School of Business and Governance Department of Law    
+Raissa Blat THE LIABILITY OF INTERNET INTERMEDIARIES IN ONLINE COPYRIGHT LAW ENFORCEMENT: EVOLUTION AND COMPARISON OF THE EU’S AND THE USA’S APPROACH Bachelor’s thesis Programme HAJB08/17, specialisation European Union and inernational law     Supervisor: Pawan Kumar Dutt, MA         Tallinn 2023  
+2 AUTHOR’S DECLARATION OF ORIGINALITY I hereby certify that I am the sole author of this thesis. All the used materials, references to the literature and the work of others have been referred to. This thesis has not been presented for examination anywhere else. Author: Raissa Blat ……………………………………… (signature, date) 02.04.2023  Supervisor: Pawan Kumar Dutt, MA The paper conforms to requirements in force ………………………………………. (signature, date)  Chairman of the Defense Committee: Permitted to the defense ……………………………………………………. (Name, signature, date)  
+
+
+--- GOV-PGC-HLRF-TFCIT(2020)3.en Illicit Trade in a Time of Crisis.pdf ---
+ 
+  
+   
+Organisation for Economic Co -operation and Development  
+GOV/PGC/HLRF/TFCIT(2 020)3  
+Unclassified  English - Or. English  
+26 May 2020  
+PUBLIC GOVE RNANCE DIRECTORATE  
+PUBLIC GOVERNANCE COMMITTEE  
+ 
+ 
+  
+ 
+ 
+High Level Risk Forum  
+ 
+ 
+ 
+Illicit Trade in a time of crisis  
+Chair’s Note  
+ 
+ 
+ 23 Ap ril 2020  
+ 
+ 
+This document presents a Chair’s Summary of the webinar “Illicit Trade in a time of crisis” organi sed by 
+the OECD Task Force on Countering Illicit Trade  on 23 April 2020.  
+ 
+  
+ 
+ 
+  
+JT03462128  
+OFDE  
+ 
+This document, as well as any data and map included herein, are without prejudice to the status of or sovereignty over any territory, to the 
+delimitation of international frontiers and boundaries and to the name of any territory, city or area.  
+2  GOV/PGC/HLRF/TFCIT(2 020)3  
+ILLICIT TRADE IN A T IME OF CRISIS  
+Unclassified  Table of contents  
+Key messages  3 
+1 Illicit trade in a time of crisis  4 
+COVID -19 changes the i llicit trade environment  4 
+Illicit trade goes online  5 
+As world trade is poised to plummet, COVID -19 poses new illicit trade threats  5 
+Maritime industry needs to adapt  5 
+Lockdown reshapes trade routes  5 
+Pharmaceutical industry is at risk  6 
+Other industries being hit too, suffering from broken supply chains  6 
+COVID -19 re -shapes supply chains in the medium term.  6 
+Enforcement authorities in OECD countries react.  6 
+2 Key me ssages for industry and policymakers to consider  8 
+ 
+  
+
+
+--- Intellectual Property Rights in the Digital Age Challenges and Solutions.pdf ---
+Journal of International Business Research                                                                                             Volume 23, Issue 1, 2024  
+ 
+                                                                             1                                                                        1544 -0230 -23-1-216 
+ 
+Citation Information : Torous . M. (2024). Intellectual property rights in the digital age: challenges and solutions . Journal 
+of International Business Research , 23(1), 1-3 INTELLECTUAL PROPERTY RIGHTS IN THE 
+DIGITAL AGE: CHALLENGES AND SOLUTIONS  
+Mark Torous , Johns Hopkins University, United States  
+ABSTRACT  
+The advent of the digital age has revolutionized the way intellectual property (IP) is 
+created, distributed, and protected. The proliferation of online platforms and the ease of 
+digital reproduction have heightened concerns over piracy, copyright infringem ent, and 
+unauthorized use of creative works. This abstract explores various legal, technological, and 
+policy -driven solutions aimed at addressing these challenges. Strategies such as digital rights 
+management systems, legal frameworks for online copyright enforcement, and international 
+collaborations are discussed in the context of mitigating IP infringements. By highlighting 
+these challenges and proposing innovative solutions, this abstract contributes to the ongoing 
+discourse on the protection of intellec tual property rights in the digital age.  
+Keywords:  Digital Age, Digital Piracy, Online Platforms, Ethical Behavior, Policy -driven 
+Solutions . 
+INTRODUCTION  
+The rapid advancement of digital technologies has brought about a paradigm shift in 
+the way intellectual property (IP) is created, disseminated, and protected  (Adams,  2023) . In 
+this digital age, the challenges faced by stakeholders in safeguarding intellectual property 
+rights have become increasingly complex and multifaceted. From the proliferation of online 
+platforms to the ease of digital
+
+--- Intellectual Property Rights in the Digital Age Challenges and Opportunities.pdf ---
+IOSR Journal of Business and Management (IOSR -JBM)  
+e-ISSN: 2278 -487X, p -ISSN: 2319 -7668 PP 39-44  
+www.iosrjournals.org  
+Prudence'25 Two Days International Conference "Innovation and Excellence: Managing the                39 | Page  
+Digital Revolution (IEMDR -2025), DOI: 10.9790/487X -conf3944                                Intellectual Property Rights in the Digital Age: Challenges and 
+Opportunities  
+ 
+Dr. Pallavi Bhardwaj  
+Assistant Professor, Quantum University, Roorkee  
+ 
+Dr. Kiran Sharma  
+Assistant Professor  
+Chaman Lal Mahavidhyalaya Landhaura Haridwar  
+ 
+Abstract  
+In the contemporary digital era, the domain of Intellectual Property Rights (IPR) faces unprecedented 
+challenges and transformative opportunities. The rapid proliferation of digital technologies and platforms has 
+revolutionized how content is created, disseminated, and consumed, thereby testing the adequacy of traditional 
+IPR frameworks. This paper critically explores the shifting paradigms of IPR in the digital age, focusing on 
+pressing concerns such as digital piracy, copyright infringement, jurisdictional complexities, and the 
+implications of emerging technologies like artificial intelligence (AI) and blockchain. While the online platforms 
+and internet  have democratized content creation and broadened access to global audiences, they have also 
+exacerbated unauthorized distribution and weakened enforcement mechanisms. Additionally, content created by 
+AI questions traditional ideas of authorship and ownership  demanding legal innovation to address machine -
+created works. In contrast, blockchain offers many solutions for secure and transparent management of digital 
+ownership and licensing. Social media, too, emerges as a double -edged sword —amplifying reach while 
+complicating copyright enforcement. The paper further examines the historical evolution of IPR and the 
+influence of global treaties and conventions. It highlights the necessity to  updated legal frameworks, 
+in
+
+--- Liability of Internet Intermediaries and Legal Challenges.pdf ---
+Received: 3 March 2025 / Accepted: 11 August 2025 / Published online: 8 September 2025
+© The Author(s) 2025
+ Suzarika Sahak
+erikasahak@gmail.com
+Ramalinggam Rajamanickam
+rama@ukm.edu.my
+Muhamad Sayuti Hassan
+sayutihassan@ukm.edu.my
+1 Attorney General’s Chambers of Malaysia, Putrajaya, Malaysia
+2 Faculty of Law, Universiti Kebangsaan Malaysia, Selangor, MalaysiaLiability of internet intermediaries and legal challenges: a 
+comprehensive systematic review
+Suzarika Sahak1 · Ramalinggam Rajamanickam2 · Muhamad Sayuti Hassan2Quality & Quantity (2026) 60:2435–2457
+https://doi.org/10.1007/s11135-025-02344-y
+Abstract
+This systematic literature review examines the liability of internet intermediaries and the 
+legal challenges associated with their role in the digital ecosystem. The study begins 
+by outlining the significance of understanding intermediary liability in light of increas -
+ing concerns regarding online content, misinformation and user protection. The problem 
+statement highlights the inconsistencies in legal frameworks across jurisdictions, which 
+complicate the accountability of internet intermediaries for third-party content. To achieve 
+this, the authors conducted an extensive search of scholarly articles from reputable data -
+bases such as Scopus and Web of Science focusing on studies published between 2023 
+and 2025. The study follows the PRISMA framework. The database found ( n = 26) is the 
+final primary data that has been analyzed. The findings are divided into four (4) themes, 
+namely: (1) legal liability and regulation, (2) emerging technologies and online harm, (3) 
+human rights and governance in the digital age, and (4) cybersecurity and digital gover -
+nance. The analysis reveals that despite the challenges, there are emerging best practices 
+that could influence future regulatory developments. In conclusion, addressing the legal 
+challenges faced by internet intermediaries requires a collaborative effort among lawmak -
+ers, industry players and civ
+
+--- ip-enforcement-manual-vietnam.pdf ---
+Intellectual Pr operty
+Enforcemen t Guide:
+Vietnam
+
+01Vietnam, as a civil law c ountry, enf orces the
+rules and proc edures f or IP enf orcemen t through
+written laws. B y joining the WT O, Vie tnam
+commit ted to pro viding enf orcemen t measures
+in ac cordanc e with the TRIPS Agreemen t. 
+A primar y feature of Vie tnam's IP prot ection is
+the use of an adminis trative enf orcemen t
+system. Legal c omplain ts are filed t o a
+governmen t departmen t that inspects,
+investigat es, and f orms a decision on disput es.
+
+
+--- fsip_bbgv-ip-enforcement-manual_final-version_12-june-2020.pdf ---
+                                                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ INTELLECTUAL 
+PROPERTY RIGHTS 
+ENFORCEMENT 
+MANUAL FOR VIETNAM  
+
+INTELLECTUAL PROPERTY RIGHTS ENFORCEMENT MANUAL FOR VIETNAM  
+ 
+ 
+ 
+B B G V  I N T R O D U C T I O N  
+ 
+The British Business Group Vietnam (“BBGV”), started as a luncheon club in 1991 and was first licensed in 1998 
+as the first foreign business group to obtain formal recognition in Vietnam. The BBGV now boasts more than 
+450 members. BBGV’s main objective is to promote members’ business interests in Vietnam, through various 
+business and social events. BBGV Business Centre aims to facilitate better trade ties between British and 
+Vietnamese companies via trade services.  
+ 
+This Manual was developed under the Fina ncial Sector and Intellectual Property (FSIP) programme, a 
+component of the ASEAN Economic Reform Programme funded by the United Kingdom’s cross government 
+Prosperity Fund 1. The Manual was created and coordinated by Rouse & Co International, in conjuncti on with 
+PwC, the FSIP Programme manager. The Manual is for informational purposes only and t he views 
+recommendations and contents of this Manual do not necessarily represent and  are not necessarily endorsed 
+by BBGV, PwC or Rouse.  So, users of this Manual s hould take local legal advice on specific cases.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This Manual was drafted by Rouse & Co International under the United Kingdom Foreign & Commonwealth 
+Office Prosperity Fund Financial Sector and Intellectual Property Programme. The authors are Yen Vu, Trung 
+Tran, Da Lam Nguyen, Van Anh Pham, Bao Nguyen, Nicholas Redfearn and Anushka A.  
+ 
+ 
+1 https://www.gov .uk/government/collections/cross -government -prosperity -fund -programmes  
+
+
+--- ASEAN-IPR-Enforcement-Handbook_with-ISBN-and-Logo-Final.pdf ---
+1 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ASEAN INTELLECTUAL 
+PROPERTY RIGHTS 
+ENFORCEMENT HANDBOOK  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                              
+one vision  
+one identity  
+one community  
+ 
+2 
+ The Association of Southeast Asian Nations (ASEAN) was established on 8 August 1967. The Member 
+States are Brunei Darussalam, Cambodia, Indonesia, Lao PDR, Malaysia, Myanmar, Philippines, 
+Singapore, Thailand and Viet Nam.  
+The ASEAN Secretariat is based in  Jakarta, Indonesia.  
+ 
+For inquiries, contact:  
+The ASEAN Secretariat  
+Community Relations Division (CRD)  
+70A Jalan Sisingamangaraja  
+Jakarta 12110, Indonesia  
+Phone:  (62 21) 724 -3372, 726 -2991  
+Fax:  (62 21) 739 -8234, 724 -3504  
+E-mail:  public@asean.org   
+ 
+Catalogue -in-Publication Data  
+ 
+ASEAN Intellectual Property Rights Enforcement Handbook   
+Jakarta, ASEAN Secretariat, September  2020  
+ 
+341.758  
+1. ASEAN – Intellectual Property – Action Plan 2016 -2025  
+2. IP enforcement – Procedures   
+ 
+ISBN  978-602-5798 -86-3 
+ 
+ 
+ 
+ 
+ 
+ 
+ASEAN: A Community of Opportunities for All  
+ 
+ 
+The text of this publication may be freely quoted or reprinted, provided proper acknowledgement is 
+given and a copy containing the reprinted material is sent to the C ommunity Relations Division (CRD) 
+of the ASEAN Secretariat, Jakarta.  
+ 
+General information on ASEAN appears online at the ASEAN Website: www.asean.org  
+ 
+Copyright Association of Southeast Asian Nations (ASEAN) 2020.  
+All rights reserved.  
+ 
+ 
+ 
+ 
+        
+The manual was developed under the Financial Sector and Intellectual Property (FSIP) programme, a 
+component of the ASEAN Economic Reform Programme funded by the United Kingdom’s cross 
+government Prosperity Fund . The Manual was created and coordinated by Rouse & Co International, in 
+conjunction with PwC. The views recommendations and contents of this Manual do not necessarily 
+represent or are not necessarily endorsed by the relevant agencies in ASEAN member states.  
+ 
+ 
+
+
+
+--- wipo_pub_791_2018.pdf ---
+A Casebook on the Enforcement of Intellectual Property Rights – 4th Edition L.T.C. Harms
+4th Edition
+L.T.C. HarmsA Casebook on the Enforcement
+of Intellectual Property Rights 
+4th Edition
+L.T.C. HarmsA Casebook on the Enforcement
+of Intellectual Property Rights 
+
+
+--- Cross-Border Enforcement of Copyright, Patent and Trademark in the Digital Era.pdf ---
+ International Journal for Multidisciplinary Research (IJFMR)  
+ 
+E-ISSN: 2582 -2160   ●   Website: www.ijfmr.com        ●   Email: editor@ijfmr.com  
+ 
+IJFMR2505 59407  Volume 7, Issue 5, September -October 2025  1 
+ 
+Cross -Border Enforcement of Copyright , Patent 
+and Trademark in the Digital Era : Challenges , 
+Litigative Trends  and Emerging Market 
+Perspectives  
+ 
+Ms. Deeksha Sharma1, Dr. Devinder Singh Anand2 
+ 
+1Student University Institute Of Legal Studies Chandigarh University  
+2Asst. Prof. University Institute Of Legal Studies Chandigarh University  
+ 
+Abstract  
+This paper presents an in -depth examination of the transformation of copyright, patent, trademark 
+protection regulations (and other intellectual property rights) across national boundaries due to digital 
+trade and communication. This paper is based on the resources of the institution, the decisions of recent 
+courts, and comparisons of policies. It notes three major shifts that affect enforcement: (1) enforcement 
+influenced by platform mediated infringement and the deployment of various forms of a private ta kedown 
+systems that can be coupled with or instead of state enforcement; (2) an emergent category of judicial 
+remedies that have off -country and transnational effects, including global and registry wide injunctions, 
+leading to jurisdictional conflicts and forum shopping; and (3) significantly different enforcement 
+practices across different regions of the IP developed and developing markets due to differences in 
+procedural capabilities, intermediate functions, and legal systems. Such developments are appare nt not 
+only in international trends of IP and the study of governance, but also in landmark cases. According to 
+WIPO and WTO documentation, cross border IP applications are growing and the importance of digital 
+platforms as IP business is increasing. Nonet heless, there are still difficulties in applying TRIPS based 
+mechanisms of enforcement to provide uniform solutions acr
+
+--- Pháp luật về quyền sở hữu trí tuệ trong các giao dịch thương mại xuyên biên giới trong bối cảnh chuyển đổi số.pdf ---
+NGHIÊN C ỨU - TRAO Đ ỔI 
+TẠP CHÍ LU ẬT HỌC SỐ 1/2025 78  
+ 
+ 
+ 
+ 
+NGUYỄN HỒ BÍCH HẰNG *  
+Tóm tắt: Trong bối cảnh chuyển đổi số toàn cầu, việc bảo vệ quyền sở hữu trí tuệ trong các giao 
+dịch thương mại xuyên biên giới trở nên cấp thiết. Việt Nam đã triển khai các chính sách  liên quan 
+đến chuyển đổi số và sở hữu trí t uệ nhằm  thích ứng với cuộc  Cách mạng công nghiệp lần thứ  Tư. Mặc 
+dù vậy,  việc thực thi , bảo vệ quyền sở hữu trí tuệ vẫn còn tồn tại nhiều thách thức và bất cập . Những  
+công nghệ như chuỗi  khối (blockchain) , hợp đồng thông minh  (smart contract)  và trí tuệ nh ân tạo  (AI) 
+có thể hỗ trợ hiệu quả trong việc bảo vệ quyền  sở hữu trí tuệ sở hữu trí tuệ song vẫn cần khắc phục 
+các khoảng cách về pháp lí và công nghệ để nâng cao hiệu quả bảo vệ quyền sở hữu trí tuệ  trong thời 
+đại số.  Bài viết làm rõ vai trò và tác động của pháp luật về quyền sở hữu trí tuệ đối với các giao dịch 
+thương mại quốc tế trong bối cảnh số hoá toàn cầ u, phân  tích những vấn đề còn tồn đọng  trong  việc 
+thực thi quyền sở hữu trí tuệ tại Việt Nam , trên cơ sở đó đề xuất một số giải pháp  trong việc bảo hộ 
+quyền sở hữu trí tuệ đối với các giao dịch thương  mại xuyên biên giới trong bối cảnh chuyển đổi số.  
+Từ khoá : Sở hữu trí tuệ ; chuyển đổi số ; giao dịch thương mại xuyên biên giới ; trí tuệ nhân tạo ; 
+blockchain  
+ Nhận bài: 24/10/202 4  Hoàn thành biên t ập: 27/01/2025               Duyệt đăng: 27/01/2025  
+LEGISLATION ON INTELLECTUAL PROPERTY IN CROSS -BORDER COMMERCIAL 
+TRANSACTIONS  IN THE CONTEXT OF DIGITAL TRANSFORMATION  
+Abstract : In the context of global digital transformation, the protection of intellectual p roperty 
+rights (IPR) in cross -border commercial transactions has become increasingly urgent. Vietnam has 
+implemented policies related to digital transformation and intellectual property to adapt to the Fourth 
+Industrial Revolution. However, challenges and limitations remain in the enforcement and protection 
+of IPR. Although technologies suc
+
+--- Bảo vệ quyền sở hữu trí tuệ trong thương mại điện tử.pdf ---
+20
+Diễn đàn Khoa học và Công nghệ
+Số 6 năm 2023TMĐT và quyền SHTT của doanh 
+nghiệp
+TMĐT đang phát triển mạnh 
+mẽ trên toàn cầu và một quốc 
+gia trẻ như Việt Nam cũng không 
+nằm ngoài xu thế đó. Các nền 
+tảng mạng xã hội phổ biến tại Việt 
+Nam như Facebook, Instagram, 
+YouTube, TikTok hoặc sàn giao dịch TMĐT như Shopee, Tiki, 
+Lazada… đã thu hút hàng triệu 
+lượt truy cập mỗi ngày. Theo báo 
+cáo của Bộ Công Thương, doanh 
+thu TMĐT Việt Nam năm 2021 
+ước đạt 13,7 tỷ USD, tăng 16% 
+so với năm 2020 và chiếm 6,5% 
+tổng doanh thu bán lẻ cả nước. 
+Việt Nam trở thành 1 trong 3 
+quốc gia có tốc độ tăng trưởng thị phần bán lẻ trực tuyến cao nhất 
+khu vực Đông Nam Á. Khoảng 
+51% người Việt Nam coi Shopee 
+là nền tảng mua sắm yêu thích, 
+Lazada đứng thứ hai (18%), tiếp 
+theo là Facebook (8%), Tiki (7%). 
+Hơn 70% người dùng trẻ tuổi Việt 
+Nam (17-25 tuổi) coi Shopee là 
+sàn giao dịch TMĐT tốt nhất hiện 
+nay.BẢO VỆ QUYỀN SỞ HỮU TRÍ TUỆ TRONG THƯƠNG MẠI ĐIỆN TỬ
+TS Khổng Quốc Minh
+Cục Sở hữu Trí tuệ
+Trong bối cảnh phát triển của Cách mạng công nghiệp 4.0, các sàn thương mại điện tử (TMĐT) đã thu 
+hút hàng triệu lượt truy cập mỗi ngày, tạo nên số lượng người dùng đông đảo và khó kiểm soát. Điều 
+này đã tạo ra nhiều kẽ hở cho việc mua bán hàng giả, hàng nhái, xâm phạm quyền sở hữu trí tuệ (SHTT). 
+Bài viết đưa ra nhận diện tranh chấp quyền SHTT trong TMĐT và một số kiến nghị, giải pháp liên quan 
+đến xác lập, bảo vệ quyền SHTT trong TMĐT hiện nay.
+Thương mại điện tử đang ngày càng trở nên gần gũi với mọi người dân.
+21
+Diễn đàn Khoa học và Công nghệ
+Số 6 năm 2023Doanh nghiệp tham gia hoạt 
+động TMĐT với tư cách người bán 
+và hoạt động thương mại dựa trên 
+dịch vụ trung gian trên internet. 
+Khi đó, với tư cách người bán (bên 
+thứ nhất), để tiếp cận khách hàng 
+mua sắm trực tuyến (bên thứ 2), 
+doanh nghiệp thường chỉ có 2 lựa 
+chọn: 1) Tự mình tạo lập sự hiện 
+diện thương mại trên mạng viễn 
+thông, thường là qua website trên 
+mạng internet (website TMĐT) 
+và có thể bao gồm cả các ứng 
+d
+
+--- Quyền sở hữu trí tuệ trong môi trường thương mại điện tử Thực trạng và một số đề xuất.pdf ---
+18
+Diễn đàn Khoa học và Công nghệ
+Số 12 năm 2022Thực trạng áp dụng pháp luật về SHTT 
+trong môi trường TMĐT
+Tác động của đại dịch 
+Covid-19 kéo theo xu hướng 
+mua sắm trực tuyến đa kênh và 
+sự tăng trưởng nhanh chóng của 
+thị trường TMĐT. Theo báo cáo 
+thống kê của Bộ Công thương 
+năm 2021, doanh thu TMĐT Việt 
+Nam đạt 13,7 tỷ USD (tăng 16% 
+so với năm 2020), trở thành 1 
+trong 3 quốc gia có tốc độ tăng 
+trưởng thị phần bán lẻ trực tuyến 
+cao nhất khu vực Đông Nam Á. 
+Hiện nay, việc kinh doanh thương 
+mại không chỉ dừng lại trên các 
+sàn TMĐT như Shopee, Lazada, 
+Tiki hay Sendo, mà còn mở 
+rộng sang các mạng xã hội như 
+Facebook, Zalo, Tiktok. Điều này 
+đã tạo ra nhiều kẽ hở cho hành 
+vi giả mạo nhãn hiệu, kiểu dáng, 
+xâm phạm quyền SHTT gia tăng. 
+Chỉ riêng năm 2021, lực lượng 
+quản lý thị trường phối hợp với 
+Cục Thương mại điện tử và Kinh 
+tế số đã tiến hành kiểm tra hơn 
+3.000 vụ việc lợi dụng TMĐT để 
+kinh doanh hàng hóa giả mạo, 
+không rõ nguồn gốc, xuất xứ, xâm phạm quyền SHTT với số 
+tiền xử phạt lên tới 20 tỷ đồng.
+Vậy đâu là nguyên nhân dẫn 
+tới thực trạng này? Có thể thấy 
+rằng, bên cạnh nguyên nhân chủ 
+quan về ý thức của các tổ chức, cá 
+nhân thì thực trạng quyền SHTT 
+bị xâm phạm nghiêm trọng trên 
+các nền tảng TMĐT xuất phát từ 
+việc hiện nay Việt Nam vẫn chưa 
+có một hành lang pháp lý vững 
+chắc và bắt kịp với sự thay đổi 
+của thực tiễn. Thứ nhất,  hệ thống quy định 
+pháp luật về SHTT trong môi 
+trường TMĐT còn quy định rải rác 
+tại nhiều văn bản, thiếu đồng bộ, 
+thiếu tính khả thi trên thực tế. Việc 
+quy định các điều luật thiếu tính 
+thống nhất khiến việc áp dụng 
+pháp luật gặp nhiều khó khăn và 
+vướng mắc. Pháp luật Việt Nam 
+đã xây dựng được rất nhiều văn 
+bản quy phạm điều chỉnh hoạt 
+động TMĐT. Đến nay, Quốc hội 
+đã thông qua 4 văn bản luật có 
+tính chất đặt nền tảng pháp lý Quyền sở hữu trí tuệ trong môi trường thương mại điện tử: 
+THỰC TRẠNG VÀ MỘT SỐ ĐỀ XUẤT
+Nguyễn Thu Phương, Nguyễn Thị Linh
+Công ty CP Công nghiệp văn hóa Ngũ Đức Legend
+Cùn
+
+--- Pháp luật về sở hữu trí tuệ trong kỷ nguyên mới.pdf ---
+số 371 - tháng 10/2025 23VẤn đỀ Lý LuẬn từ thỰc tiễn Phát triển VÀ hỘi nhẬP
+PháP LuẬt VỀ sỞ hỮu trÍ tuỆ 
+trong Kỷ nguyên Mới
+@ TS. Lâm Xuân Hùng
+l Tóm TắT : Trong bối cảnh toàn cầu hóa, chuyển đổi số và cách mạng công nghiệp 4.0, 
+sở hữu trí tuệ (SHTT) ngày càng trở thành yếu tố then chốt trong phát triển kinh tế - xã hội, 
+khoa học - công nghệ và văn hóa. Pháp luật về SHTT không chỉ đóng vai trò bảo hộ quyền 
+lợi của tác giả, chủ sở hữu mà còn là động lực thúc đẩy đổi mới sáng tạo, cạnh tranh lành 
+mạnh và hội nhập quốc tế.  Ở Việt Nam, mặc dù pháp luật SHTT đã có nhiều bước tiến, 
+nhưng hệ thống hiện hành vẫn tồn tại những “điểm nghẽn” như: Thiếu định nghĩa thống nhất về tài sản trí tuệ và tài sản số; bất cập trong cơ chế sở hữu, định giá và thương mại 
+hóa tài sản từ ngân sách nhà nước; hạ tầng đổi mới sáng tạo và dữ liệu còn manh mún; khó 
+khăn trong thực thi quyền và xử lý vi phạm trên môi trường số, đặc biệt với các sản phẩm do AI tạo ra; cũng như hạn chế trong phân quyền và nguồn nhân lực... Bài viết phân tích 
+cơ sở lý luận và thực tiễn của pháp luật về SHTT, chỉ ra những cơ hội và thách thức trong 
+kỷ nguyên mới, đồng thời đề xuất định hướng và giải pháp hoàn thiện pháp luật SHTT ở Việt Nam, gắn với chuẩn mực quốc tế và yêu cầu phát triển bền vững.
+l Từ khóa:  Sở hữu trí tuệ, đổi mới sáng tạo, hoàn thiện pháp luật SHTT,  hội nhập quốc 
+tế, chuyển đổi số, kỷ nguyên mới.
+l aBSTraCT: In the context of globalization, digital transformation, and Industry 
+4.0, intellectual property (IP) has increasingly become a key factor in economic-social 
+development, science-technology, and culture. IP law not only plays a role in protecting 
+the rights of authors and owners but also serves as a driving force for innovation, healthy competition, and international integration. In Vietnam, although IP law has made significant progress, the current system still has several “bottlenecks,” such as: the lack of a unified definition of intellectual property and digital assets; ina
+
+--- Thực trạng và giải pháp phát triển kinh tế số ở Việt Nam.pdf ---
+34   
+NGHIÊN CỨU-TRAO ĐỔI
+THỰC TRẠNG VÀ GIẢI PHÁP PHÁT TRIỂN  
+KINH TẾ SỐ Ở VIỆT NAM
+LÊ THU HÀ
+Phát triển kinh tế số là xu thế tất yếu trong bối cảnh cuộc Cách mạng công nghiệp 4.0 hiện nay. Thời gian qua, 
+Việt Nam đã có nhiều cơ chế, chính sách nhằm khuyến khích và đẩy mạnh phát triển kinh tế số. Cùng với những 
+kết quả quan trọng bước đầu, thực tiễn phát triển kinh tế số còn bộc lộ những hạn chế. Do vậy, đẩy mạnh và 
+nâng cao hiệu quả phát triển kinh tế số ở Việt Nam hiện nay là yêu cầu tất yếu. Bài viết nghiên cứu thực trạng 
+và đề xuất một số giải pháp nhằm đẩy mạnh và nâng cao hiệu quả phát triển kinh tế số ở Việt Nam.
+Từ khóa: Kinh tế số, phát triển kinh tế số, kinh tế số ở Việt Nam
+CURRENT SITUATION AND SOLUTIONS FOR DIGITAL ECONOMY 
+DEVELOPMENT IN VIETNAM
+Le Thu Ha
+The digital economy is an inevitable trend in the 
+context of the Fourth Industrial Revolution. Vietnam 
+has implemented various policies to encourage digital 
+economy development, achieving initial successes 
+but also facing challenges. Therefore, promoting 
+the efficiency and effectiveness of digital economy in 
+Vietnam is very important today. This article examines 
+the current situation and proposes solutions to enhance 
+the effectiveness of digital economy development in 
+Vietnam.
+Keywords: Digital economy, development, Vietnam
+Ngày nhận bài: 6/5/2024
+Ngày hoàn thiện biên tập: 21/5/2024
+Ngày duyệt đăng: 30/5/2024
+Đặt vấn đề
+Tại Việt Nam, đẩy mạnh phát triển kinh tế số 
+là chủ trương lớn của Đảng và Nhà nước ta. 
+Thực tiễn phát triển kinh tế số tại Việt Nam đã 
+ghi nhận những kết quả bước đầu quan trọng, 
+các hoạt động và các lĩnh vực chủ yếu của nền 
+kinh tế hiện nay đều đẩy mạnh quá trình chuyển 
+đổi số. Song, thực tiễn cũng cho thấy, những 
+hạn chế như về nhận thức, môi trường pháp lý, 
+nguồn nhân lực số, hạ tầng số… Vì vậy, nghiên 
+cứu thực trạng và đề xuất một số giải pháp đẩy 
+mạnh phát triển kinh tế số ở Việt Nam hiện nay 
+là cần thiết.Một số vấn đề lý luận về kinh tế số
+Khái niệm kinh
+
+--- Hoàng Kim Oanh 32-37 Thực trạng và giải pháp phát triển kinh tế số ở việt nam.pdf ---
+321.Ñaëtva Niñ\,
+Kinh teá soá ñang laø moät xu höôùng toaøn caàu vaø
+Vieät Nam cuõng khoâng naèm ngoaøi xu höôùng naøy.
+Vôùisöïphaùttrieånnhanhchoùngcuûacoângngheäthoâng
+tin vaø söï giataêng cuûa ngöôøiduønginternet,KTSñaõ
+vaø ñang mang laïi nhöõng thay ñoåi saâu saéc cho neàn
+kinhteáVieätNam.KTSñoùnggoùpmoättyûleäñaùngkeå
+vaøo GDP cuûa Vieät Nam, ñaëc bieät laø trong caùc lónh
+vöïcnhöthöôngmaïiñieäntöû,dòchvuïsoávaøsaûnxuaát
+phaànmeàm.SöïphaùttrieåncuûaKTStaïoranhieàuvieäc
+laømmôùi,giuùpngöôøidaântieápcaänthoângtin,dòchvuï
+moät caùch deã daøng vaø nhanh choùng hôn, goùp phaàn
+naâng cao chaát löôïng cuoäc soáng. Tuy nhieân, vieäc
+phaùt trieån KTSôû VieätNamcoønnhieàuhaïncheá, baát
+caäp. Tìm giaûi phaùp thaùo gôõ nhöõng khoù khaên, thuùc
+ñaåyKTSphaùttrieånbeànvöõngôûVieätNamtrongthôøi
+giantôùilaømoätyeâucaàucaápthieát.2.TRåi^$Taiv\,*biht\NDRN
+Quan nieäm veà KTS ñöôïc ñöa ra töø giöõa nhöõng
+naêm 90 cuûa theá kyû XX, nhaèm phaûn aùnh baûn chaát
+thay ñoåi nhanh choùng cuûa neàn kinh teá döïa treân
+thaønh töïu coâng ngheä, cuõng nhö vieäc söû duïng coâng
+ngheä cuûa caùc doanh nghieäp vaø ngöôøi tieâu duøng.
+Hieän nay, coù nhieàu quan ñieåm khaùc nhau veà KTS.
+TheoKling&Lamb(2000):“KTSlaøsöûduïngcoâng
+ngheä ñeå hoã trôï caùc quy trình saûn xuaát kinh doanh
+nhö giao dòch/thöông maïi” (6). Hoäi nghò thöôïng
+ñænhG20ñònhnghóa:“KTSlaøcaùchoaïtñoängkinhteá
+trong ñoù söû duïng thoâng tin vaø tri thöùc ñöôïc soá hoùa
+laømyeáutoáchínhcuûasaûnxuaát,maïngthoângtinhieän
+ñaïilaøkhoânggianhoaïtñoängquantroïngvaøsöûduïng
+hieäu quaû coâng ngheä thoâng tin truyeàn thoâng, ñoàng
+thôøilaøñoänglöïcquantroïngnhaèmtaêngnaêngsuaátvaø
+toáiöuhoùacôcaáukinhteá”(11).ToåchöùcHôïptaùcvaøtaïpchícoângthöông
+SXá 4- Thaùng 2/2025PHAùTTRieÅnkinHTeásoá
+ôûVieäTnAMHieännAy:
+THöïcTRAïngVAøgiAûiPHAùP
+lhoaøNgKiMoaNh
+HoïcvieänHaønhchínhQuoácgia
+DOI:https://doi.org/10.62831/202504007
+ToùMTAéT:
+Baøivieát ñaùnh giaùkhaùiquaùtthöïctraïngphaùttrieån kinhteá soá (KTS)ôû VieätNam,chæroõ nhöõng
+haïn cheá, baátcaäp,töø 
+
+--- Collaborative Governance in Theory.pdf ---
+Collaborative Governance in Theory
+and Practice
+Chris Ansell
+Alison Gash
+University of California, Berkeley
+ABSTRACT
+Over the past few decades, a new form of governance has emerged to replace adversarial
+and managerial modes of policy making and implementation. Collaborative governance, asit has come to be known, brings public and private stakeholders together in collective
+forums with public agencies to engage in consensus-oriented decision making. In this article,
+we conduct a meta-analytical study of the existing literature on collaborative governancewith the goal of elaborating a contingency model of collaborative governance. After review-
+ing 137 cases of collaborative governance across a range of policy sectors, we identify
+critical variables that will inﬂuence whether or not this mode of governance will produce
+successful collaboration. These variables include the prior history of conﬂict or cooperation,
+the incentives for stakeholders to participate, power and resources imbalances, leadership,and institutional design. We also identify a series of factors that are crucial within the
+collaborative process itself. These factors include face-to-face dialogue, trust building, and
+the development of commitment and shared understanding. We found that a virtuous cycleof collaboration tends to develop when collaborative forums focus on ‘‘small wins’’ that
+deepen trust, commitment, and shared understanding. The article concludes with a discus-
+sion of the implications of our contingency model for practitioners and for future research oncollaborative governance.
+Over the last two decades, a new strategy of governing called ‘‘collaborative governance’’
+has developed. This mode of governance brings multiple stakeholders together in commonforums with public agencies to engage in consensus-oriented decision making. In this
+article, we conduct a meta-analytical study of the existing literature on collaborative
+governance with the goal of elaborating a general model of colla
+
+--- An Integrative Framework for Collaborative Governance.pdf ---
+JPART 22:1–29 ARTICLES
+An Integrative Framework for Collaborative
+Governance
+Kirk Emerson*, Tina Nabatchi†, Stephen Balogh‡
+*The University of Arizona;†Syracuse University;‡State University of New York
+ABSTRACT
+Collaborative governance draws from diverse realms of practice and research in public
+administration. This article synthesizes and extends a suite of conceptual frameworks,
+research ﬁndings, and practice-based knowledge into an integrative framework forcollaborative governance. The framework speciﬁes a set of nested dimensions that
+encompass a larger system context, a collaborative governance regime, and its internal
+collaborative dynamics and actions that can generate impacts and adaptations across thesystems. The framework provides a broad conceptual map for situating and exploring
+components of cross-boundary governance systems that range from policy or program-
+based intergovernmental cooperation to p lace-based regional collaboration with
+nongovernmental stakeholders to public-private partnerships. The framework integrates
+knowledge about individual incentives and barriers to collection action, collaborative social
+learning and conﬂict resolution processes, and institutional arrangements for cross-boundarycollaboration. It is presented as a general framework that might be applied to analyses at
+different scales, in different policy arenas, and varying levels of complexity. The article also
+offers 10 propositions about the dynamic interactions among components within theframework and concludes with a discussion about the implications of the framework for
+theory, research, evaluation, and practice.
+INTRODUCTION
+Collaborative governance has become a common term in the public administration
+literature, yet its deﬁnition remains amorphous and its use inconsistent. Moreover, the var-iation in the scope and scale of perspectives on collaborative governance restricts the ability
+of researchers to further develop and test theory. This article addresses some of th
+
+--- Collaborative Governance Regimes.pdf ---
+624
+Collaborative Governance Regimes
+Informing Practice through Research
+KIRK EMERSON | MIN WOO AHN
+Cross-  sector collaboration takes many forms and works at a variety of scales 
+in multiple policy domains. When issue complexity requires ongoing engage -
+ment of interdependent stakeholders in one or more sectors, systems of cross-  
+boundary cooperation are needed to integrate across institutional structures, 
+design and manage participation of diverse actors, and enable joint action and 
+the creation of public value. These open and dynamic collaborative systems 
+have been referred to as collaborative governance regimes. CGRs are systems 
+of public governance where autonomous organizations work together over 
+time to achieve some collective public purpose; they are specifically defined 
+as “a particular mode of, or system for, public decision making in which cross-  
+boundary collaboration represents the prevailing pattern of behavior and ac -
+tivity.”1 Collaborative governance regimes occur at a variety of scales (local, 
+subnational, national, cross-  national, and global) and across different policy 
+domains, from environmental to public health, emergency management, and 
+public education. 
+This chapter offers a review of research on CGRs and some implications 
+for practice. Following an illustration of the integrative framework for collab -
+Collaborative Governance Regimes 63
+orative governance that encompasses CGRs (their system context, formation, 
+collaboration dynamics, and actions),2 the chapter offers an analysis of CGR 
+research published by a range of social scientists since 2012. Finally, key find -
+ings are highlighted, and the chapter concludes with a discussion of the impli -
+cations of this research for practice.
+Defining the Integrative Framework for Collaborative Governance 
+Public administration scholars have been studying cross-  sector collaboration 
+since the 1990s, trying to understand how it works and what it achieves under 
+what conditions
+
+--- Collaborative Governance Regimes 1.pdf ---
+Collaborative Governance
+A new era of public policy in Australia?
+
+
+
+--- Collaborative Governance in Theory and Practice.pdf ---
+Collaborative Governance in Theory
+and Practice
+Chris Ansell
+Alison Gash
+University of California, Berkeley
+ABSTRACT
+Over the past few decades, a new form of governance has emerged to replace adversarial
+and managerial modes of policy making and implementation. Collaborative governance, asit has come to be known, brings public and private stakeholders together in collective
+forums with public agencies to engage in consensus-oriented decision making. In this article,
+we conduct a meta-analytical study of the existing literature on collaborative governancewith the goal of elaborating a contingency model of collaborative governance. After review-
+ing 137 cases of collaborative governance across a range of policy sectors, we identify
+critical variables that will inﬂuence whether or not this mode of governance will produce
+successful collaboration. These variables include the prior history of conﬂict or cooperation,
+the incentives for stakeholders to participate, power and resources imbalances, leadership,and institutional design. We also identify a series of factors that are crucial within the
+collaborative process itself. These factors include face-to-face dialogue, trust building, and
+the development of commitment and shared understanding. We found that a virtuous cycleof collaboration tends to develop when collaborative forums focus on ‘‘small wins’’ that
+deepen trust, commitment, and shared understanding. The article concludes with a discus-
+sion of the implications of our contingency model for practitioners and for future research oncollaborative governance.
+Over the last two decades, a new strategy of governing called ‘‘collaborative governance’’
+has developed. This mode of governance brings multiple stakeholders together in commonforums with public agencies to engage in consensus-oriented decision making. In this
+article, we conduct a meta-analytical study of the existing literature on collaborative
+governance with the goal of elaborating a general model of colla
+
+--- The Democratic Anchorage of Governance Networks.pdf ---
+ 
+Scandinavian Political Studies, Vol. 28 – No. 3, 2005
+ISSN 0080–6757
+© Nordic Political Science Association 
+195 
+The Democratic Anchorage of 
+Governance Networks 
+Eva Sørensen* and Jacob Torfing 
+† 
+Governance through the negotiated interaction of a plurality of public, semi-public and private
+actors seems to provide an efficient means for governing our increasingly complex, fragmentedand multi-layered societies. However, the big question is whether governance networks alsocontribute to the democratic governance of society. Governance network theory and post-liberal theories of democracy claim that there are both democratic problems and potentialsassociated with interactive network governance. In order to be able to assess, and possibly
+improve, the democratic performance of governance networks, the authors of this article
+develop and substantiate an analytical model for measuring the democratic anchorage ofgovernance networks in different political constituencies and in an appropriate set of democraticrules and norms. In addition, it is argued that politicians should play a key role in efforts toensure the democratic anchorage of governance networks. 
+Introduction 
+Policy making and public governance are incongruent with the formal political
+institutions of parliament and public administration. The formulation andimplementation of policy increasingly takes place in and through interactiveforms of governance such as user boards, quasi-non-governmental agencies,interorganizational networks, public-private partnerships and quasi-markets.However, this does not mean that central and local governments are hollowedout since many of the old state capacities are still in place and new capacitiesare developed (Hirst 1994). Although the state still plays a key role in local,national and transnational policy processes, it is nevertheless to an increasingextent ‘de-governmentalized’ since it no longer monopolizes the governingof the general well-being of the population in th
+

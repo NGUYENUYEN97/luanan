@@ -1,0 +1,44 @@
+    //  Eric huang vol1.25 for GovEn
+
+    // 返回顶部按钮
+    $('.Contact_BackTop').click(function () {
+        $('html , body').animate({
+            scrollTop: 0
+        }, 'slow');
+    })
+    $('.BackTop').click(function () {
+        $('html , body').animate({
+            scrollTop: 0
+        }, 'slow');
+    })
+    
+
+    // 移动菜单关闭按钮
+    $(".Menu_Close_Div").click(function () {
+        $(".mMenu_Box").attr("style", "display:none");
+        $(".mBody").removeClass('blur')
+    })
+    // 移动主界面菜单按钮
+    $(".Menu_MenuIcon").click(function () {
+        $(".mMenu_Box").attr("style", "display:block");
+        $(".mBody").addClass('blur')
+
+    })
+
+    // 点击进入DESKTOP模式
+    $(".Bottom_Div h4").click(function(){
+        var vp = document.querySelector('meta[name=viewport]');
+        var x = 'width=1350';
+        vp.setAttribute('content', x);
+        $(".gwe-dtbackmobile").attr("style", "display:block");
+    })
+
+    // 点击进入Mobile模式
+    $(".gwe-dtbackmobile").click(function(){
+        var vp = document.querySelector('meta[name=viewport]');
+        var x = 'width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=no';
+        vp.setAttribute('content', x);
+        $(".gwe-dtbackmobile").attr("style", "display:none");
+    })
+
+

@@ -1,0 +1,328 @@
+
+--- FILE: Fisher IP Theory.pdf ---
+ 1 THEORIES OF INTELLECTUAL PROPERTY William Fisher*  from:  Stephen Munzer, ed., New Essays in the Legal and Political Theory of Property (Cambridge University Press, 2001), 168-199  The term "intellectual property" refers to a loose cluster of legal doctrines that regulate the uses of different sorts of ideas and insignia.  The law of copyright protects various “original forms of expression,” including novels, movies, musical compositions, and computer software programs.  Patent law protects inventions and some kinds of discoveries.  Trademark law protects words and symbols that identify for consumers the goods and services manufactured or supplied by particular persons or firms.  Trade-secret law protects commercially valuable information (soft-drink formulas, confidential marketing strategies, etc.) that companies attempt to conceal from their competitors.  The “right of publicity” protects celebrities’ interests in their images and identities. The economic and cultural importance of this collection of rules is increasing rapidly.  The fortunes of many businesses now depend heavily on intellectual-property rights.  A growing percentage of the legal profession specializes in intellectual-property disputes.  And lawmakers throughout the world are busily revising their intellectual-property laws.1 Partly as a result of these trends, scholarly interest in the field has risen dramatically in recent years.  In law reviews and in journals of economics and philosophy, articles deploying "theories" of intellectual property have proliferated.  This essay canvasses those theories, evaluates them, and considers the roles they do and ought to play in lawmaking.   I.  A Preliminary Survey Most of the recent theoretical writing consists of struggles among and within four approaches.  The first and most popular of the four employs the familiar utilitarian guideline that lawmakers’ beacon when shaping property rights should be the maximization of net social welfare.  Pursuit of that end in the context of intellectual property, it is generally thought, requires lawmakers to strike an optimal balance between, on one hand, the power of exclusive rights to stimulate the creation of inventions and works of art and, on the other, the partially offsetting tendency of such rights to curtail widespread public enjoyment of those creations.                                                              * This essay has benefited substantially from the comments of Charles Fried, Paul Goldstein, Jim Harris, Ned Hettinger, Edmund Kitch, Ed McCaffery, Stephen Munzer, Samuel Oddi, J.E. Penner, F.M. Scherer, Seanna Shiffrin, John T. Sanders, Stewart Sterk, and a generous group of anonymous outside readers. 1 The history of these doctrines in the United States -- and possible reasons for their growing importance -- are considered in William Fisher, “Geistiges Eigentum – ein ausufernder Rechtsbereich: Die Geschichte des Ideenschutzes in den Vereinigten Staaten,” in Eigentum im internationalen Vergleich (Göttingen: Vandenhoeck & Ruprecht, 1999) (available in English at http://www.law.harvard.edu/Academic_Affairs/coursepages/tfisher/iphistory.html).  
+ 2 A good example of scholarship in this vein is William Landes' and Richard Posner's essay on copyright law.  The distinctive characteristics of most intellectual products, Landes and Posner argue, are that they are easily replicated and that enjoyment of them by one person does not prevent enjoyment of them by other persons.  Those characteristics in combination create a danger that the creators of such products will be unable to recoup their "costs of expression" (the time and effort devoted to writing or composing and the costs of negotiating with publishers or record companies), because they will be undercut by copyists who bear only the low "costs of production" (the costs of manufacturing and distributing books or CDs) and thus can offer consumers identical products at very low prices.  Awareness of that danger will deter creators from making socially valuable intellectual products in the first instance.  We can avoid this economically inefficient outcome by allocating to the creators (for limited times) the exclusive right to make copies of their creations.  The creators of works that consumers find valuable – i.e., for which there are not, in the opinion of consumers, equally attractive substitutes – will be empowered thereby to charge prices for access to those works substantially greater than they could in a competitive market.  All of the various alternative ways in which creators might be empowered to recover their costs, Landes and Posner contend, are, for one reason or another, more wasteful of social resources.  This utilitarian rationale, they argue, should be -- and, for the most part, has been -- used to shape specific doctrines within the field. 2 A related argument dominates the same authors' study of trademark law.  The primary economic benefits of trademarks, they contend, are (1) the reduction of consumers' "search costs" (because it's easier to pick a box of "Cheerios" off the grocery shelf than to read the list of ingredients on each container, and because consumers can rely upon their prior experiences with various brands of cereal when deciding which box to buy in the future) and (2) the creation of an incentive for businesses to produce consistently high-quality goods and services (because they know that their competitors cannot, by imitating their distinctive marks, take a free ride on the consumer good will that results from consistent quality).  Trademarks, Landes and Posner claim, also have an unusual ancillary social benefit:  they improve the quality of our language.  By increasing our stock of nouns and by “creating words or phrases that people value for their intrinsic pleasingness as well as their information value,” they simultaneously economize on communication costs and make conversation more pleasurable.  To be sure, trademarks can sometimes be socially harmful -- for example by enabling the first entrant into a market to discourage competition by appropriating for itself an especially attractive or informative brand name.  Awareness of these benefits and harms should (and usually does), Landes and Posner claim, guide legislators and judges when tuning trademark law;                                                              2 William Landes and Richard Posner, "An Economic Analysis of Copyright Law," Journal of Legal Studies 18 (1989): 325.  This argument is derived in substantial part from Jeremy Bentham, A Manual of Political Economy (New York: Putnam, 1839); John Stuart Mill, Principles of Political Economy, 5th ed. (New York: Appleton, 1862); and A.C. Pigou, The Economics of Welfare, 2d ed. (London: Macmillan & Co., 1924). 
+ 3 marks should be (and usually are) protected when they are socially beneficial and not when they are, on balance, deleterious. 3 The second of the four approaches that currently dominate the theoretical literature springs from the propositions that a person who labors upon resources that are either unowned or “held in common” has a natural property right to the fruits of his or her efforts – and that the state has a duty to respect and enforce that natural right.  These ideas, originating in the writings of John Locke, are widely thought to be especially applicable to the field of intellectual property, where the pertinent raw materials (facts and concepts) do seem in some sense to be “held in common” and where labor seems to contribute so importantly to the value of finished products.4 A good illustration of this perspective is Robert Nozick's brief but influential discussion of patent law in Anarchy, State, and Utopia. 5  After associating himself with Locke's argument, Nozick turns his attention to Locke's famously ambiguous "proviso" -- the proposition that a person may legitimately acquire property rights by mixing his labor with resources held "in common" only if, after the acquisition, "there is enough and as good left in common for others."6  Nozick contends that the correct interpretation of this limitation ("correct" in the senses (a) that it probably corresponds to Locke's original intent and (b) that, in any event, it is entailed by "an adequate theory of justice") is that the acquisition of property through labor is legitimate if and only if other persons do not suffer thereby any net harm.  "Net harm" for these purposes includes such injuries as being left poorer than they would have been under a regime that did not permit the acquisition of property through labor or a constriction of the set of resources available for their use -- but does not include a diminution in their opportunities to acquire property rights in unowned resources by being the first to labor upon them.  Construed in this fashion, the Lockean proviso is not violated, Nozick argues, by the assignment of a patent right to an inventor because, although other persons' access to the invention is undoubtedly limited by the issuance of the patent, the invention would not have existed at all without the efforts of the inventor.  In other words, consumers are helped, not hurt, by the grant of the patent.  Nozick contends, however, that fidelity to Locke's theory would mandate two limitations on the inventor's entitlements.  First, persons who subsequently invented the same device independently must be permitted to make and sell it.  Otherwise the assignment of the patent to the first inventor would leave them worse off.  Second, for the same reason, patents should not last longer than, on average, it would have taken someone else to invent the same device had knowledge of the invention not disabled them from inventing it independently.  Although Nozick may not have been aware of it,                                                              3 William Landes and Richard Posner, "Trademark Law: An Economic Perspective," Journal of Law and Economics 30 (1987): 265.   Other works that address trademark law in similar terms include Nicholas Economides, “The Economics of Trademarks,” Trademark Reporter 78 (1988): 523-39 and Daniel McClure, “Trademarks and Competition:  The Recent History,” Law and Contemporary Problems 59 (1996): 13-43. 4 See, for example, Justin Hughes, "The Philosophy of Intellectual Property," Georgetown Law Journal 77 (1988): 287, at 299-330.  These initial impressions are examined in more detail in part III, below. 5 Robert Nozick, Anarchy, State, and Utopia (New York: Basic Books, 1974), pp. 178-82. 6 John Locke, Two Treatises of Government (P. Laslett, ed., Cambridge: Cambridge University Press, 1970), Second Treatise,  sec. 27. 
+
+--- FILE: National_innovation_systems_a_comparativ.pdf ---
+BOOK REVIEWS 
+around principles formulated by people like 
+Weber, informed by logic and the model of 
+the machine. Network-pathologies will arise 
+in network organizations which are built 
+around principles formulated by people like 
+Nolan and Crosan, informed by logic and the 
+model of the IT system. 
+All that said, I think it is fair to conclude 
+the following. Nolan and Croson provide a 
+useful framework which, at worst, can be 
+used as a coherent, if somewhat general and 
+idealistic, starting point for theoretical 
+development and as a source of ideas for 
+practical management. At best, it has a good 
+lock on what the organization of the future 
+will be like and therefore can be of immense 
+value to both managers and academics. In 
+any event, the book is well written, easy and 
+interesting to read, and a provocative discus- 
+sion of many of the issues that face 
+organizations in the nineties. 
+JOHN W. MEDCOF 
+The Michael G. DeGroote School of 
+Business 
+McMaster University 191 zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+National irinovation systems: a conipurative 
+analysis, Edited by Richard R. Nelson, 
+Oxford University Press, New York, 1993. 
+ISBN 0 19 507616 8 Hdbk, 019 SO7617 6 
+Pbk, Price: E40.00 Hdbk, E25.00 Pbk. 
+It has taken me a long time to read all of this 
+large book! This is not because I am a slow 
+reader or a lazy reviewer (though the reviews 
+editor may take a different line on this!) but 
+because it is not necessary. Indeed one of the 
+strengths of this book is that you should riot 
+want or need to read it all the way through at 
+one go. It is to be dipped into as a series of 
+fascinating (if sometimes over-detailed) 
+essays on how 15 countries have organised, 
+currently organise and might have to re- 
+organise support for the development, com- 
+mercialisation and diffusion of new 
+products, processes and services; in short 
+those nations’ ‘systems’ for the promotion 
+of technological innovation. 
+It is the outcome of an international pro- 
+ject, calling upon a panel of prestigious analysts of technology policy to give an 
+account of their own country’s innovation 
+and research system. Covering 15 countries 
+means that the book does not confine itself 
+to the ‘usual suspects’ dealt with by other 
+books on technology policy in English: 
+namely the USA and/or Britain in compari- 
+son with Japan. There are indeed well- 
+written chapters on these countries but also 
+on other ‘market-oriented’ industrialised, 
+high-income countries, both large (Germany, 
+France and Italy) and small (Denmark, 
+Sweden, Canada and Australia). Even more 
+unusually, there are detailed accounts of 
+the national innovation systems of newly- 
+industrialising countries of East Asia zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA- 
+South Korea and Taiwan - and of Brazil, 
+Argentina and Israel. 
+The accounts follow roughly the same 
+structure: an historical section on the indus- 
+trial and technological development of the 
+country, an outline of the present system 
+(covering trade and industrial output, state 
+education/training and technology support 
+policies) and a brief conclusion of the chal- 
+lenges the country faces in coping with 
+increasing internationalisation of trade and 
+production and assorted political problems. 
+Each chapter has a veritable mine of refer- 
+ences, invaluable for researchers of 
+international technology policy, especially 
+of the least-examined countries. One chap- 
+ter, on Taiwan, was especially useful to your 
+reviewer, in briefing him on that country’s 
+technological strengths and policies for a 
+recent visit. In addition, the chapters have 
+proved very useful for university student 
+seminars: the range of countries discussed 
+counteracts the impression often gained (at 
+least in the UK) that the only system that has 
+anything to teach us about the best way to 
+organise for innovation support is Japan’s. 
+There is much to be learned from Germany 
+in organising industrial innovation at a 
+regional level, from France in malung state- 
+controlled industries successfully innovative 
+and from Italy in networking innovation 
+amongst small firms. 
+The chapters concentrate on the direct 
+factors that constitute an innovation system: 
+education/training; government subsidy of 
+industrial R&D, innovation and diffusion; 
+support for basic research and technology 
+transfer; technological procurement (in 
+R&D zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBAManageineiii zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA26, 2, 1996 zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA 0 Blackwell Publishers Ltd 1996 
+192 
+defence, space. energy, health care, etc.). 
+They only tangentially refer to important 
+influences from more general state policies, 
+such as policies on taxation or financial 
+management and they avoid completely 
+taking refuge in that scoundrel of (non-) 
+explanations of country differences: namely 
+‘culture’. There is however a big omission in 
+the discussion of the direct factors that 
+strongly influence a nation’s innovation, 
+namely zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBAregulation. The particular regimes 
+for preserving the environment, health and 
+safety etc. that a country has in place can be 
+very influential in affecting the rate and 
+direction of innovation, and despite increas- 
+ing global or regional harmonisation of these 
+regclations there are still strong national 
+differences in the regulations themselves and, 
+more crucially, in enforcement. Perhaps 
+another book is needed to deal with this 
+topic. 
+Though readers are expected to make their 
+own comparisons between the countries, they 
+get some excellent guidance in a concluding 
+chapter by Richard Nelson. He admits that 
+the rapidly growing internationalisation of 
+trade, production and even new-technology 
+development could be seen as dissolving the 
+‘National’ basis of Innovation Systems. 
+Internationalisation of technology-based 
+industrial processes/products means that ‘the 
+competitive edge will depend on the details 
+of design, production process, firm strategy 
+and organisation, upstream-downstream 
+connections zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA. . .’. So, some consider that the 
+attempts of national governments to define 
+and support national high-technology indus- 
+try will be frustrated because of this 
+internationalisation. But, as Nelson points 
+out, being ‘constrained’ by factors such as 
+the activity of transnational companies, 
+outside your national boundaries, is hardly 
+novel; since 1945, all countries, and 
+especially small high-income and ‘third 
+world’ countries, have always been obliged 
+to take account of international trading rules 
+and global political realities. Despite the 
+internationalisation trends, much of what 
+influences how new products/processes/ 
+services are innovated and diffused remains 
+nationally-peculiar; this is especially true of 
+scientific and technical education and train- 
+ing, the organisation and funding of basic 
+research and mechanisms of technology BOOK REVIEWS 
+transfer: these remain national almost by 
+definition. Then there are a whole range of 
+other national ‘associated systems’ - for 
+example, the law and taxation - with a 
+strong bearing on innovation systems. Inter- 
+nationalisation or Globalisation may require 
+that national systems change, but they will 
+still be specifically national. zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBAAs such, coun- 
+tries have a lot to learn from each other. This 
+book, read slowly, will help. 
+KENNETH GREEN 
+Manchester School of Management 
+UMIST, Manchester, UK. 
+Simplicity wins. How Germany’s mid-sized 
+industrial companies succeed. G. Rommel 
+et al., Harvard Business School Press, 
+Boston, MA, 1995, ISBN 087-584-504-5. 
+$27.95 hardcover. 
+Company success can be achieved by avoid- 
+ing complexity and by choosing ‘simple 
+goals, structures, and procedures, selected 
+and designed without compromise, and rigor- 
+ously implemented’ (pp. 2, lo). This message 
+is derived from an analysis of the perfor- 
+mance of 39 medium sized companies in the 
+German mechanical engineering and compo- 
+nent manufacturing industries during the late 
+1980’s as well as illustrative case material. 
+Success is a construct made up from return on 
+sales, sales growth, and cash flow over sales 
+(pp. zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA4/5). While the book covers chapters on 
+vertical integration, logistics, production 
+technology and organization, its largest part 
+deals with development. Major messages in 
+this chapter are to avoid overengineering, to 
+invest in predevelopment phases, to imple- 
+ment smallstep innovations continuously, and 
+to establish an appropriate organization struc- 
+ture, particularly to avoid classical functional 
+development organizations. 
+The book is translated from an earlier 
+German publication, and a short chapter is 
+added (8 pages) on a comparison with 21 
+component manufacturers in the US. 
+The book is written for practitioners, and 
+it integrates most of the management wis- 
+dom that is available today in a compressed 
+way. It does not draw on the impressive 
+amount of literature that is available on zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
+0 Blackwell Publishers Ltd 1996 R&D zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBAManagement 26,2, 1996 
+
+--- FILE: LIBRO-Henry-Chesbrough-Open-Innovation.pdf ---
+Open
+Innovationi-xvi Chesbrough FM 3rd  1/28/03  3:16 PM  Page i
+i-xvi Chesbrough FM 3rd  1/28/03  3:16 PM  Page ii
+
+--- FILE: markets-for-technology-and-their-implications-for-corporate-pyuzmh8xa0.pdf ---
+Markets for T echnology and their
+Implications for Corporate Strategy
+ASHISH ARORA ,aANDREA FOSFURIband
+ALFONSO GAMBARDELLAc
+(aHeinz School, Carnegie Mellon University , Pittsburgh, PA, USA,
+bUniversidad Carlos III de Madrid, Spain and CEPR, London, UK and
+cSant’Anna School of Advanced Studies, Pisa, Italy)
+Although market transactions for technologies, ideas, knowledge or information are
+limited by several well-known imperfections, there is evidence that they have become more
+common than in the past. In this paper we analyze how the presence of markets fortechnology conditions the technology and corporate strategy of firms. The first and most
+obvious implication is that markets for technology increase the strategy space: firms can
+choose to license in the technology instead of developing it in-house or they can choose tolicense out their technology instead of (or in addition to) investing in the downstream
+assets needed to manufacture and commercialize the goods. The implications for
+management include more proactive management of intellectual property, greater
+attention to external monitoring of technologies, and organizational changes to supporttechnology licensing, joint-ventures and acquisition of external technology. For
+entrepreneurial startups, markets for technology make a focused business model more
+attractive. At the industry level, markets for technology may lower barriers to entry and
+increase competition, with important implications for the firms’ broader strategy as well.
+1.Introduction
+German chemical companies are thought to have pioneered the institu-
+tionalization of in-house R&D early in the 20th century, an organizationalinnovation that was rapidly adopted by leading firms in technology-basedindustries all over the world (Beer, 1959; Chandler, 1990). This model of
+organizing innovation, where R&D and the complementary assets requiredfor innovation are integrated inside the firm, has emerged as the dominant
+paradigm for many decades. Indeed, it has been held up as a part of the recipe
+© Oxford University Press 2001Industrial and Corporate Change V olume 10 Number 2 2001
+419
+for lasting commercial success (e.g. Chandler, 1990). The theoretical
+underpinnings of this model have been examined by several authors. Forinstance, Nelson and Winter (1982) argue that the development oftechnology and innovations is based on organizational routines which aredifficult to transfer across organizational boundaries. Relatedly , T eece (1988)has highlighted the transaction costs involved in transferring knowledge andtechnological information through arm’s length market-mediated contracts.
+However, in the past two decades or so there has been a rapid growth in a
+variety of arrangements for the exchange of technologies or technological
+services, ranging from R&D joint ventures and partnerships, to licensing andcross-licensing agreements, to contract R&D. Although we lack compre-
+hensive empirical measures over time, all the available evidence suggests that
+the trade in technologies has become more common than in the past (see
+Section 2). Recent studies have documented an increase in licensing revenues
+earned by US firms (Dengan, 1998) and the upsurge in patenting activities,possibly reflecting the increased opportunities for technology licensing (Halland Ham, 1999; Kortum and Lerner, 1999). T eece himself has recently noted
+that under certain conditions trade in technologies is possible and likely
+(Grindley and T eece, 1997; T eece, 1998). In short, markets for technology are
+emerging and developing in several high-tech industries.
+1
+The growth and functioning of markets for technology might be limited
+by several factors, most notably the tacit and context-specific nature of
+technological knowledge.2However, it is undeniable that when markets for
+technology exist they have major implications for firms’ corporate strategies.
+The analysis of such implications is the main goal of this paper.
+Markets for technology affect the role of companies both as technology
+users (they can ‘buy’ technologies) and as technology suppliers (they can ‘sell’
+1This sharp distinction between markets and organizations which is made primarily for expository
+reasons is not completely faithful to history . Indeed, Chandler (1990) provides several examples of firms
+that within the in-house R&D paradigm have relied on external sources of knowledge. A classic reference
+is the reliance of DuPont on external technology until the 1930s (Hounshell and Smith, 1988). There are
+also important differences across sectors and countries. For instance, during the 1950s and the 1960s
+Japanese firms in the machinery construction and chemical industries were heavily licensing technologies,mainly from the USA (Chandler, 1990).
+2Elsewhere (see Arora et al., 2001a) we study the nature and functioning of markets for technology and
+the factors which limit or encourage their growth (see also Pavitt, 2000). W e also discuss in detail how theactions of firms, particularly early in their history, have affected the evolution of markets for technology.
+Sometimes companies have helped, possibly not intentionally, to develop markets for technology. For
+instance, this is the case of oil companies that, with their early reliance on external technological servicesand refining technology, have promoted the rise of specialized suppliers (Arora and Gambardella, 1998).In other industries regulation and anti-trust policy have played a major role, as for instance in technology
+licensing by AT&T and IBM (Grindley and T eece, 1997). Although we acknowledge the importance of
+these issues, the scope of the present paper is already too broad to analyze them here.Markets for T echnology
+420
+technologies). At the very least, markets for technology enlarge the strategy
+space: firms can choose to license in the technology instead of developing it
+in-house; firms can choose to license out the technology instead of (or inaddition to) investing in the downstream assets needed to manufacture and
+commercialize the goods. Thus, for example, entrepreneurial start-ups may
+be able to focus more narrowly on developing technology rather than on its
+application, by relying on licensing and other arrangements to appropri-
+ate the returns on their innovative efforts. Given that manufacturing andcommercialization require substantial resources, which smaller firms may be
+unable to mobilize, markets for technology may be critical for the very exist-
+ence of high-tech start-ups. For technology users monitoring of externally
+available technologies becomes a strategic imperative, although external andinternal research need not be mutually exclusive options. Moreover, markets
+for technology can undermine privileged access to technology that incumbentfirms in an industry may enjoy, because competitors and entrants may acquirethe technology from alternative sources of supply in the market. At theindustry level markets for technology lower entry barriers, increase com-
+petition and compress product life cycles: all changes that require appropriate
+strategic responses.
+This paper contributes to the literature on strategic management of
+technology . David T eece’s seminal paper pointed out that if a firm cannot
+appropriate rents from innovation through licensing (‘weak appropriability’)
+in order to profit from the technology , the firm should acquire assets that are
+co-specialized with the innovation (T eece, 1986). Pisano (1990) argues thatnew product development is more likely to be internalized in those areas
+where the (external) R&D market is less efficient. Iansiti (1997) claims that
+in a world of increasing technological options firms’ competitive advantages
+are rooted in the ability to monitor and quickly seize the external opportunity.
+A somewhat different tradition, influenced perhaps by Schumpeter’s
+vision of even innovation becoming routine inside large firms, has emphasizedthe pay-off from coordinated and large scale investments. Chandler’s accountof commercial success has stressed the importance of complementinginvestments in R&D with coordinated investments in manufacturing and
+marketing (Chandler, 1990). This view, which is closely linked to the
+resource-based theory of the firm, stresses firm growth as a process of
+exploiting slack resources within the company (e.g. Penrose, 1959; Nelsonand Winter, 1982; Shane, 1996). These accounts implicitly assume that such
+slack resources are best employed by the firm itself. In this paper we depart
+from the widespread premise in the technology management literature that
+innovations are best exploited in-house and, instead, we look at theMarkets for T echnology
+421
+
+--- FILE: 944_WIPR_2024_WEB.pdf ---
+Making  
+Innovation Policy  
+Work for 
+Development
+World 
+Intellectual 
+Property 
+Report
+World  
+Intellectual  
+Property  
+Report
+Making 
+Innovation Policy 
+Work for 
+Development

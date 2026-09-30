@@ -1,0 +1,1325 @@
+--- FILE: 6ab84cab4e5c4edca52bae1d473adfd5.marked.pdf ---
+Abstract: The digital economy's rapid growth has ushered society into a new era, where
+data holds immense significance. In the field of legal academia, data can be seen as an
+important carrier of intellectual property rights in a legal sense. Therefore, the research on
+the path and models of intellectual property protection for data in the context of the digital
+economy has become a focus of domestic and foreign scholars. This paper aims to address
+the issues of limited avenues and low effectiveness in the protection of data intellectual
+property rights in China. Through the definition and comparison of the concepts of data and
+intellectual property rights in academic terms, this paper analyzes and compares the data
+protection models in various countries worldwide with the actual data protection situation in
+China, and summarizes the findings. Furthermore, the paper proposes specific measures for
+the protection of data intellectual property rights in China, such as establishing clear
+standards for certifying data compilation works and enacting specialized legislation for data
+protection. These proposed regulations help to alleviate the current challenges in data
+intellectual property rights protection to a certain extent.
+Keywords: intellectual property, data resources, data property rights, digital economy,
+regulatory pathway
+1.
+
+--- FILE: 8. 1-s2.0-S1059056025004794-main.pdf ---
+Converting knowledge into Productivity: The role of intellectual 
+property empowerment and digital economy in enhancing 
+regional new quality productivity forces - Evidence from China
+Yiling Liu, Yu-Cheng Lin *
+Business School, Quanzhou Normal University, No. 398 Donghai Street, Quanzhou City, Fujian Province, 362000, China
+A R T I C L E  I N F O
+Keywords:
+New quality productivity forces
+Intellectual property empowerment
+Digital economy
+Technological innovation
+Regional heterogeneity
+A B S T R A C T
+In the context of China’s ongoing digital transformation and the strengthening of intellectual 
+property protection systems, cultivating new quality productive forces has become a key strategy 
+for promoting high-quality economic development. This study investigates the synergistic effects 
+of intellectual property empowerment and the digital economy on regional new quality pro­
+ductivity forces, drawing upon panel data from 31 Chinese provinces between 2012 and 2022. 
+Utilizing an entropy weighting method, a comprehensive index system is constructed to evaluate 
+new quality productivity forces, focusing on technological innovation, green transformation, and 
+digital productivity. Utilizing a two-way fixed effects model, which controls for time-invariant 
+characteristics and period-specific effects, we empirically examine the impacts of intellectual 
+property empowerment and the digital economy on new quality productivity forces. Control 
+variables include human capital, openness,
+
+--- FILE: 10. 5f8595ae03538.pdf ---
+Abstract 
+Intellectual property is regarded to be the digital economy's hot issue. It ranges from theoretical arguments to own 
+information concerning everyday life relating to the foundation of internet geography. The current study deals with 
+the impact of the digital economy on intellectual property law and proposes that although various countries have 
+given many intellectual property laws, no such implementation has ever been made. Still, the digital world has 
+witnessed the protection of intellectual law through technical protection and contracts. The digital economy has 
+greatly impacted the intellectual property law that can be witnessed through cyber squatter legislation and 
+significant legal and economic protection developments. The endorsement of business methods patents and e-
+commerce would significantly affect freedom, computer as well as privacy. However, some of their personal 
+information has been suggested by giving individual property rights while describing it to protect freedom and 
+privacy. In this study, it has also been concluded that policy is critical to conceive and analyze issues so that it 
+would be technology independent. It would help policymakers to draft legislation and policies in the same way. In 
+addition to this, policymakers' decisions should not base on any business model's specifics only. Moreover, the 
+study suggests the need for other adaptations to ensure that all the essential purposes in copyright laws, such as 
+giving free access to the public for a broader range of information, have been adequately fulfilled in the digital 
+economy context. However, such adaptations are yet to design, and for completing such tasks, the stakeholders' 
+participation is significant. 
+Keywords: copyright issues, digital economy, e-commerce, intellectual property law 
+1.
+
+--- FILE: 2542-3185-cuespol-42-80-136 ky nguyen so.pdf ---
+Abstract
+The development of information and communication 
+technologies, typical of the digital era, is accompanied by 
+the emergence of new objects of civil relations. Some of such 
+objects are the result of intellectual and creative activity and, 
+consequently, become the subject of intellectual property rights. 
+However, technology is developing faster than legislation. 
+Therefore, many problems arise in the field of intellectual 
+property due to contradictions and gaps in national legislation. This paper 
+aims to identify the most important difficulties in the field of intellectual 
+property and find ways to overcome them. The article pays special attention 
+to the problems of copyright infringement on the Internet. The need for 
+the development of virtual libraries is considered as one of the directions 
+of knowledge dissemination with simultaneous protection of copyrights. 
+The preventive means of copyright protection against infringement on the 
+Internet are analyzed. It is concluded that, recently, the innovative or digital 
+economy increasingly prevails over the industrial economy, which indicates 
+the beginning of the transition to a digital society.
+Keywords: 	 intellectual property; copyright; piracy and plagiarism; 
+virtual libraries; protection of intellectual property rights.
+*	
+Doctor of Law, Associate professor, Professor of the Department of Civil and Economic Law and 
+Process of the International Humanitarian University, Odesa, Ukraine. ORCID ID: https://orcid.
+org/0000-0002-6806-5017. Email: t795959@gmail.com
+**	
+PhD., Associate professor of the Department of General Legal Disciplines of the National University 
+"Odesa Maritime Academy", Odesa, Ukraine. ORCID ID: https://orcid.org/0000-0001-7629-1957. 
+Email: olesia1983@hotmail.com
+***	 PhD, Associate Professor of the Department of Intellectual Property Law, and Corporate Law of the 
+National University “Odessa Law Academy”. ORCID ID: https://orcid.org/0000-0002-3051-6599. 
+Email: kyriliuk.ala@gmail.com
+****	PhD., Associate Professor of the Department of Intellectual Property Law, and Patent Justice of the 
+National University "Odesa Law Academy". ORCID ID: https://orcid.org/0000-0001-6263-2773. 
+Email: galupova_9@gmail.com 
+***** PhD., Associate Professor of the Department of Civil and Economic Law and Procedure International 
+humanitarian university. ORCID ID: https://orcid.org/0000-0002-2013-8889. Email: v774910@
+gmail.com
+137
+CUESTIONES POLÍTICAS 
+Vol. 42 Nº 80 (2024): 136-158
+Cuestiones de derechos de propiedad intelectual 
+en la era digital
+Resumen
+El desarrollo de las tecnologías de la información y la comunicación, 
+propio de la era digital, va acompañado del surgimiento de nuevos objetos 
+de relaciones civiles. Algunos de tales objetos son el resultado de la actividad 
+intelectual y creativa y, en consecuencia, se convierten en objeto de derechos 
+de propiedad intelectual. Sin embargo, la tecnología se está desarrollando 
+más rápido que la legislación. Por lo tanto, surgen muchos problemas en 
+el campo de la propiedad intelectual debido a las contradicciones y vacíos 
+en la legislación nacional. Este documento tiene como objetivo identificar 
+las dificultades más importantes en el campo de la propiedad intelectual y 
+encontrar formas de superarlas. El artículo presta especial atención a los 
+problemas de infracción de derechos de autor en Internet. Se considera la 
+necesidad del desarrollo de bibliotecas virtuales como una de las direcciones 
+de la difusión del conocimiento con la protección simultánea de los derechos 
+de autor. Se analizan los medios preventivos de protección de los derechos 
+de autor contra violaciones en Internet. Se concluye que, Recientemente, la 
+economía innovadora o digital prevalece cada vez más sobre la economía 
+industrial, lo que indica el inicio de la transición a una sociedad digital. 
+Palabras clave: propiedad intelectual; derechos de autor; piratería y 
+plagio; bibliotecas virtuales; protección de los derechos 
+de propiedad intelectual.
+
+--- FILE: 20001-_23501.pdf ---
+UNITED NATIONS INDUSTRIAL DEVELOPMENT ORGANIZATION  
+Vienna International Centre, P.O. Box 300, 1400 Vienna, Austria 
+Tel: (+43-1) 26026-0 · www.unido.org · unido@unido.org 
+ 
+ 
+ 
+ 
+OCCASION 
+ 
+This publication has been made available to the public on the occasion of the 50th anniversary of the 
+United Nations Industrial Development Organisation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISCLAIMER 
+ 
+This document has been produced without formal United Nations editing. The designations 
+employed and the presentation of the material in this document do not imply the expression of any 
+opinion whatsoever on the part of the Secretariat of the United Nations Industrial Development 
+Organization (UNIDO) concerning the legal status of any country, territory, city or area or of its 
+authorities, or concerning the delimitation of its frontiers or boundaries, or its economic system or 
+degree of development. Designations such as  “developed”, “industrialized” and “developing” are 
+intended for statistical convenience and do not necessarily express a judgment about the stage 
+reached by a particular country or area in the development process. Mention of firm names or 
+commercial products does not constitute an endorsement by UNIDO. 
+ 
+ 
+ 
+FAIR USE POLICY 
+ 
+Any part of this publication may be quoted and referenced for educational and research purposes 
+without additional permission from UNIDO. However, those
+
+--- FILE: 28732.pdf ---
+Abstract 
+Intellectual Property (IP) is a cornerstone of the modern innovation economy, providing legal 
+frameworks that protect the creations of inventors, artists, and businesses. This paper explores the 
+critical role that IP plays in fostering innovation and driving economic growth. By granting exclusive 
+rights to creators, IP incentivizes investment in research and development (R&D), encourages 
+entrepreneurship, and stimulates the growth of IP-driven sectors such as technology, pharmaceuticals, 
+and entertainment. However, the paper also examines the complexities of IP protection, including its 
+potential to create monopolies, limit competition, and hinder the dissemination of knowledge. The 
+discussion emphasizes the importance of balanced IP policies that promote innovation while ensuring 
+accessibility to technology and knowledge. It further explores the global IP landscape, highlighting how 
+well-designed IP systems can contribute to national and global economic progress. By analyzing both 
+the benefits and challenges of intellectual property, this paper provides recommendations for optimizing 
+IP frameworks to promote sustainable economic growth in the knowledge-driven economy of the 21st  
+century. 
+ 
+Keywords: Intellectual Property, Innovation, Economic Growth, Patents, Copyright, Trademarks, IP 
+Policy
+
+--- FILE: 255387.pdf ---
+The impact of digitalization on intellectual 
+property strategy 
+An exploratory study of Nordic engineering firms 
+Master’s Thesis in the Master’s Programme  
+MANAGEMENT AND ECONOMICS OF INNOVATION 
+ 
+ 
+JACOB MOOS 
+PONTUS LUNDBLADH 
+ 
+ 
+ 
+ 
+Department of Technology Management and Economics 
+Division of Entrepreneurship & Strategy 
+CHALMERS UNIVERSITY OF TECHNOLOGY 
+Gothenburg, Sweden 2018 
+Report No. E 2018:044
+
+--- FILE: 1122825.pdf ---
+Abstract
+Interest in intellectual property has increased in the XXI century as the basis of 
+the global innovation economy. The subject of the presented analysis is intellectual 
+property as a factor influencing the innovative development of the economies of 
+different states. The article notes the dependence of the level and quality of economic 
+growth on the pace and scale of innovation activity, the degree of involvement in 
+the process of scientific and technological development. The results achieved by the 
+countries in the field of intellectual property and innovative development presented. 
+The
+
+--- FILE: AJMSS-3-2-132-136.pdf ---
+Abstract: In the digital era, intellectual property infringement is showing a frequent trend, and sports intellectual property is 
+also inevitable. In order to promote the safety and security of sports intellectual property rights worldwide, research suggests 
+that it is necessary to strengthen international collaboration in order to achieve this, and the difficulties of international 
+collaboration mainly manifest in the value conflicts of ideas, rule of law, and policies. The study proposes to strive for the 
+uniformity of the application of sports intellectual property legal system; Actively utilizing technical measures to protect sports 
+intellectual property rights; Vigorously promote the legal coordination of sports intellectual property protection. 
+Keywords: International Perspective; Sports Intellectual Property Rights; Strategy. 
+ 
+1.
+
+--- FILE: bowman1996.pdf ---
+Bowman
+to critically test the five approaches. Rather, their intent was to provide opinions
+of senior managers about how and why their organizations function as they do.
+To that end. Maximum Leadership does an excellent job of demystifying what
+the world's leading CEOs do all day and why.
+Farkas and De Backer also claim it was not their intent to offer a "silver bullet"
+for business success. Yet the anecdotal evidence presented—which is based on
+over 12,000 pages of interview transcripts—suggests that using the "right"
+approach can lead to organizational effectiveness or success. Given the
+tremendous range of organizations covered in this book. Maximum Leadership
+should be of interest to senior managers around the world and in every kind of
+business.
+The Digital Economy: Promise and Peril in
+the Age of Networked Intelligence
+Reviewed by loel P. Bowman, Western Michigan University
+Book Review
+DIGITAL
+ECONOMY
+•- PROMISE AND PERIL
+\ IN THE AGE OF
+' NETWORKED
+; INTELLIGENCE
+DON 
+TAPSCDTT
+COAUTHOR OF
+By Don Tapscott, New
+York: McGraw-Hill
+1996. 342 pages, hard
+cover, $24.95.
+At this point, it should be obvious to nearly everyone that we are in the throes of
+a revolution every bit as sweeping and significant as the Industrial Revolution
+of the late nineteenth and early twentieth centuries. Changes in technology and
+digital convergence—the merging of the computer, communications and
+information industries—are having a profound effect on virtually every aspect of
+our lives, and we ha
+
+--- FILE: Converting knowledge into Productivity.pdf ---
+Converting knowledge into Productivity: The role of intellectual 
+property empowerment and digital economy in enhancing 
+regional new quality productivity forces - Evidence from China
+Yiling Liu, Yu-Cheng Lin *
+Business School, Quanzhou Normal University, No. 398 Donghai Street, Quanzhou City, Fujian Province, 362000, China
+A R T I C L E  I N F O
+Keywords:
+New quality productivity forces
+Intellectual property empowerment
+Digital economy
+Technological innovation
+Regional heterogeneity
+A B S T R A C T
+In the context of China’s ongoing digital transformation and the strengthening of intellectual 
+property protection systems, cultivating new quality productive forces has become a key strategy 
+for promoting high-quality economic development. This study investigates the synergistic effects 
+of intellectual property empowerment and the digital economy on regional new quality pro­
+ductivity forces, drawing upon panel data from 31 Chinese provinces between 2012 and 2022. 
+Utilizing an entropy weighting method, a comprehensive index system is constructed to evaluate 
+new quality productivity forces, focusing on technological innovation, green transformation, and 
+digital productivity. Utilizing a two-way fixed effects model, which controls for time-invariant 
+characteristics and period-specific effects, we empirically examine the impacts of intellectual 
+property empowerment and the digital economy on new quality productivity forces. Control 
+variables include human capital, openness,
+
+--- FILE: Creative_Economy_as_a_Driver_of_Economic_Growth_in.pdf ---
+ABSTRACT 
+ 
+The creative economy has become a strategic sector in supporting economic growth in the digital era. 
+This research aims to explore the opportunities and potential of the creative economy through digitalization 
+and the challenges faced in developing this sector. This study uses a qualitative study method, with in-depth 
+interviews and observations as data collection techniques to explore the experiences, strategies, and obstacles 
+faced by business actors. The results show that digitalization plays an important role in expanding market 
+reach, improving operational efficiency, and driving innovation. Business actors utilize e-commerce, social 
+media, and digital applications to promote creative products and interact directly with consumers effectively. 
+However, this success still faces challenges, including limited internet infrastructure and low digital literacy 
+among small and medium business actors. Appropriate policy support and increasing digital literacy are key 
+in overcoming these obstacles. This research concludes that with collaboration between the government, the 
+private sector, and the community, the creative economy in Indonesia has great potential to become a key 
+pillar of sustainable economic growth and strengthen competitiveness in the global market. 
+ 
+Keyword: Creative economy, digitalization, e-commerce, innovation, policy, indonesia
+
+--- FILE: Digital_economy_technological_innovation_and_susta.pdf ---
+Abstract
+This paper examines the impact of the digital economy on sustainable development, using
+panel data from cities at the prefecture level and above in China from 2011 to 2019. The
+results indicate: (1) The digital economy is conducive to boosting growth, increasing
+employment, reducing energy consumption, and cutting emissions, thereby promoting sus-
+tainable development. These findings prove robust. (2) Mechanism test outcomes reveal
+that, from the perspective of technological innovation, the digital economy can promote sus-
+tainable development through increasing R&D input and enhancing innovation output. (3)
+An extended analysis of the risk of a digital "divide" demonstrates that "dividend" of the digi-
+tal economy is primarily manifests in spurring economic growth, enhancing energy effi-
+ciency, and strengthening environmental protection in lagging regions, while the digital
+"divide" effect is manifested in the stronger employment stimulating effect of developed
+regions versus backward areas. The results of this study not only enrich the relevant
+research system, but also provide empirical evidence to support accelerating digital trans-
+formation, strengthening technological innovation governance, and advancing sustainable
+development.
+1.
+
+--- FILE: Does_intellectual_property_protection_stimulate_di.pdf ---
+ABSTRACT
+The digital economy plays an important role in society and the 
+economy. However, we know little about what factors affect the 
+development of the digital economy. Using a self-developed index 
+for measuring Chinese provincial-level digital economy develop­
+ment, this paper examines the impact of intellectual property pro­
+tection on the digital economy. We find that there is a U-shaped 
+relationship between intellectual property protection and digital 
+economy. Our findings remain valid after a battery of robustness 
+tests. Our findings support the importance of intellectual property 
+protection in developing the digital economy.
+ARTICLE HISTORY 
+Received 9 August 2021  
+Accepted 19 February 2022 
+KEYWORDS 
+Digital economy; intellectual 
+property protection; 
+U-shaped relationship
+1.
+
+--- FILE: EBOOK-Intellectual-Property-in-the-Digital-Age.pdf ---
+INTELLECTUAL
+PROPERTY
+IN THE DIGITAL AGE
+Consumatori
+e Mercato 17
+Islambek Rustambekov, Said Gulyamov,
+Anna Ubaydullaeva
+ 
+Università degli Studi Roma Tre 
+Dipartimento di Giurisprudenza
+
+--- FILE: Enigma_of_Relationship_between_Digital_Economy_and.pdf ---
+Abstract
+
+--- FILE: expert-panel-report-intellectual-property-2020-02-20_0.pdf ---
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/369666758
+Report: Intellectual Property in Ontario's Innovation Ecosystem Expert Panel on
+Intellectual Property
+Technical Report · February 2020
+CITATIONS
+0
+READS
+307
+4 authors, including:
+Danielle Pierre
+Ontario College of Art and Design
+8 PUBLICATIONS   4 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Danielle Pierre on 31 March 2023.
+The user has requested enhancement of the downloaded file.
+Report: Intellectual Property in 
+Ontario’s Innovation Ecosystem
+Expert Panel on Intellectual Property
+Report to the Government of Ontario
+February 2020
+
+--- FILE: Intellectual property (IP) data analytics for innovation.pdf ---
+Intellectual property (IP) data analytics for innovation, research and development, and strategic 
+management – Adopting state-of-the-art artificial intelligent (AI) and machine learning 
+(ML) approaches
+Editor's point
+Integrating artificial intelligence (AI) and large language models 
+(LLMs) into the intellectual property landscape had significant impacts 
+in recent years. Add 1-2 Examples and References here. Besides practical 
+impact, substantial scholarly attention has also been devoted to the topic 
+[1].
+In this special issue, we focus on these innovative solutions and 
+impacts of artificial intelligence and machine learning in the domains of 
+patent data analytics and IP management from different perspectives. 
+This includes not only the novel methodologies and applications of AI in 
+patent data retrieval, processing, analysis, and management, but also 
+depicting the impacts of AI-related IP policies, related IP laws, regula­
+tions, and legal applicability. Investigating new AI techniques and ap­
+plications to assist inventors and IP applicants in smart application 
+processes is among the key topics in the resulting special issue. It seeks to 
+provide comprehensive consideration, also critically addressing the 
+impact of artificial intelligence in intellectual property ecosystems. 
+Submitted articles should primarily focus on the AI techniques, solu­
+tions, applications, and impacts on IP data analytics and patent infor­
+matics for innovation, research and development,
+
+--- FILE: Intellectual property protection and corporate digital.pdf ---
+Intellectual property protection and corporate digital 
+transformation: An empirical analysis from the perspectives of 
+intellectual property protection and digital governance
+Tianli Ding a,*, Lin Yang b
+a Law School, Northwest University, Xi’an, 710127, China
+b Law School, Xi’an Peihua University, Xi’an, 710125, China
+A R T I C L E  I N F O
+Keywords:
+Intellectual property protection
+Digital governance
+Digital transformation
+Corporate innovation
+Government transparency
+A B S T R A C T
+This paper uses data from Chinese A-share listed companies from 2013 to 2022 as a research 
+sample to explore the relationship between intellectual property protection, digital governance, 
+and corporate digital transformation. The study finds that: intellectual property protection pro­
+motes corporate digital transformation; digital governance promotes corporate digital trans­
+formation; intellectual property protection enhances corporate innovation, thereby promoting 
+corporate digital transformation; digital governance enhances government transparency, thereby 
+promoting corporate digital transformation; and digital governance plays a positive moderating 
+role in the relationship between intellectual property protection and corporate digital trans­
+formation, with this moderating effect exhibiting heterogeneity across eastern, central, and 
+western regions.
+1. Introduction
+Currently, the Fourth Industrial Revolution, characterized by digitalization, networking, and intelligence, is reshaping
+
+--- FILE: Intellectual property rights and control in the digital economy  Examining the expansion of M-Pesa.pdf ---
+ABSTRACT
+The importance of intellectual capital in the digital economy implies an increasingly central 
+role of intellectual property rights (IPR). However, there are concerns that the expansion of 
+intellectual property rights concentrates profits from innovation, creating “intellectual 
+monopolies”. This is particularly concerning with respect to strong global regimes of 
+intellectual property that foster economic inequities between the Global South and North. 
+Such arguments imply that IPR is a core driver of structural inequality in the digital economy, 
+yet there is very little empirical analysis of how such conceptual ideas unfold. This study 
+focuses on IPR in the Kenyan mobile money service M-Pesa. It charts how M-Pesa expanded 
+from a development-orientated innovation in Kenya to become part of a global enterprise. 
+Control of IPR has led to bottlenecks in innovation in Kenya and significant South-to-North 
+financial transfers. Overall, this case contributes to expanding the debate about patterns of 
+innovation and governance of the digital economy. As digital firms expand, unpacking the 
+processes by which global intellectual property regimes and cross-border IPR practices shape 
+uneven power relations and inequality is vital.
+
+--- FILE: Intellectual_Property_and_Economic_Development_Cat.pdf ---
+ABSTRACT 
+Keywords:  
+Intellectual 
+property, 
+innovation, entrepreneurship, 
+technology 
+transfer, 
+public 
+health 
+ 
+This article explores the complex relationship between 
+intellectual property (IP) and financial growth, explaining how 
+strong IP laws promote entrepreneurship, innovation, and 
+sustainable development. It explores how intellectual property 
+rights facilitate technology transfer, encourage R&D investments, 
+and support the growth of knowledge-driven economies by 
+referencing recent studies and policy initiatives. It also addresses 
+important IP disputes and challenges, such as the availability of 
+essential pharmaceuticals, the spread of technology, and the fine 
+line that must be drawn between protecting the public interest and 
+promoting innovation. This study emphasizes the critical role that 
+intellectual property plays in determining the direction of global 
+economic growth and prosperity from a multidisciplinary 
+standpoint. To better understand the intricate connection between 
+intellectual property (IP) and the development of the economy, 
+this article looks at how strong IP laws can promote 
+entrepreneurship, innovation, and long-term growth. It examines 
+how intellectual property rights encourage investment in R&D, 
+ease technology transfer, and promote the establishment of 
+knowledge-based economies, drawing on recent studies and 
+legislative initiatives. It also discusses important IP-related issues 
+and debates, including as the distribution of technology, the 
+difficulty of obtaining necessary medications, and how to strike a 
+balance between fostering innovation and protecting the interests 
+of the general public. This study emphasizes the relevance of 
+intellectual property in determining the course of future global 
+prosperity and economic growth through a multidisciplinary 
+perspective. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© The Author(s). 2023 Open Access. This article is distributed under the terms of the journal and is licensed under Attribution 4.0 International (CC BY 
+4.0). which permits unrestricted use, distribution, and redistribution in any medium, provided that the original author(s) and source are credited. 
+ 
+Journal of Advanced Research in Humanities and Law (IJREL) 
+ISSN 2980-4043 
+International Journal of Advanced Research in Humanities and Law (IJREL), 1(2): 83-85, 2024 
+84 
+ 
+ 
+ 
+1.
+
+--- FILE: Intellectual_property_in_the_digital_age.pdf ---
+INTELLECTUAL
+PROPERTY
+IN THE DIGITAL AGE
+Islambek Rustambekov, Said Gulyamov,
+Anna Ubaydullaeva
+Consumatori
+e Mercato 17
+
+--- FILE: INTELLECTUAL_PROPERTY_IN_THE_DIGITAL_ECONOMY_THEOR.pdf ---
+Abstract. Intellectual property is one of the key resources for the development of the digital economy. The 
+21
+Интеллект. Инновации. Инвестиции / Intellect. Innovations. Investments • № 2, 2021                     
+Интеллектуальная собственность в цифровой экономике: теоретические и практические аспекты
+results of the creative work of human intelligence contribute to the development of digital technologies, participate 
+in the formation of an independent, global digital market, and provide significant income from the export of 
+services in the field of intellectual property. The article reveals the essence of intellectual property and presents 
+mechanisms for the dissemination of the results of intellectual activity. The relevance of the study lies in the 
+growing role of intellectual property in the digital economy and in the need to timely understand the benefits 
+of using digital technologies, assess the risks associated with the unfair use of intellectual property, transfer of 
+science-intensive developments, the growth of cybercrime, and unauthorized access to personal data. The purpose 
+of this study is to determine the possibilities of using digital technologies in the field of intellectual property 
+management. The paper presents projects for the creation of information retrieval systems for registration and 
+protection of intellectual property rights, notes software systems focused on platform solutions and the use of 
+end-to-end technologies that allow automating operations related to the formal examination of applications for 
+state registration of intellectual property objects. The necessity of developing transfer of the results of intellectual 
+activity, which is a key element of the innovation process, facilitating the transfer of knowledge from the research 
+environment to the real sector of the economy, has been substantiated. The specifics of licensing, which allows 
+research organizations and innovative companies to transfer intellectual property
+
+--- FILE: Intellectual_Property_Law_in_the_Digital_Economy_E.pdf ---
+ABSTRACT 
+With the rapid development of the digital economy, intellectual property protection faces new 
+challenges such as the definition and protection of data rights, the legal status of AI-generated works,
+cross-border infringement, the responsibility of internet platforms, and the protection of trade secrets. 
+This paper analyzes the characteristics of the digital economy era and the specific issues faced by 
+intellectual property law, proposing corresponding countermeasures. These include improving the 
+data rights protection system, clarifying the legal status of AI-generated works, strengthening
+international cooperation, defining the responsibilities of internet platforms, and enhancing the 
+protection of trade secrets. Through the integration of law and technology, international cooperation,
+and public education, the paper aims to promote the innovation and development of the intellectual 
+property protection system to facilitate the healthy growth of the digital economy. 
+KEYWORDS 
+Digital economy; Intellectual property; Legal countermeasures 
+1.
+
+--- FILE: Intellectual_Property_Protection_Measures_in_the_D.pdf ---
+Abstract 
+This article explores the protection measures for intellectual property (IP) in the digital economy. With 
+the rapid development of the digital economy, protecting intellectual property has become particularly 
+crucial. The aim of this article is to analyze the current status and challenges of intellectual property 
+protection in the context of the digital economy and to discuss effective protection strategies and 
+mechanisms. The research employs literature review and case analysis methods, and the main findings 
+include the importance of legal regulations, the application of technical means, and the necessity of 
+international cooperation. The conclusion summarizes the main issues faced today and proposes future 
+development directions and recommendations. 
+Keywords 
+Digital economy, Intellectual property protection, Legal regulations, Technical means, International 
+cooperation 
+ 
+1.
+
+--- FILE: Intellectual_property_rights_and_control_in_the_digital_economy_Examining_the_expansion_of_M-Pesa.pdf ---
+The University of Manchester Research
+Intellectual property rights and control in the digital
+economy: Examining the expansion of M-Pesa
+DOI:
+10.1080/01972243.2023.2259895
+Document Version
+Final published version
+Link to publication record in Manchester Research Explorer
+Citation for published version (APA):
+Foster, C. (2023). Intellectual property rights and control in the digital economy: Examining the expansion of M-
+Pesa. The Information Society. https://doi.org/10.1080/01972243.2023.2259895
+Published in:
+The Information Society
+Citing this paper
+Please note that where the full-text provided on Manchester Research Explorer is the Author Accepted Manuscript
+or Proof version this may differ from the final Published version. If citing, it is advised that you check and use the
+publisher's definitive version.
+General rights
+Copyright and moral rights for the publications made accessible in the Research Explorer are retained by the
+authors and/or other copyright owners and it is a condition of accessing publications that users recognise and
+abide by the legal requirements associated with these rights.
+Takedown policy
+If you believe that this document breaches copyright please refer to the University of Manchester’s Takedown
+Procedures [http://man.ac.uk/04Y6Bo] or contact openresearch@manchester.ac.uk providing relevant details, so
+we can investigate your claim.
+Download date:05. thg 5. 2025
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/ac
+
+--- FILE: Intellectual_property_rights_in_the_digital_age.pdf ---
+167
+Барановська В.М. Право інтелектуальної 
+власності в цифрову добу. 
+У сучасному світі, що швидко розвивається, 
+де інформаційні технології стають неодмінною 
+складовою суспільного життя, поняття «цифрова 
+доба» набуває особливого значення. Ця епоха 
+характеризується прагматичним використанням 
+цифрових технологій у всіх сферах господарсь-
+кої, соціальної та культурної діяльності. В такому 
+контексті, важливим аспектом функціонування 
+сучасного суспільства є право інтелектуаль-
+ної власності, яке в цифрову добу набуває нові 
+виклики та можливості.
+Право інтелектуальної власності визнає та за-
+хищає інтелектуальні та творчі досягнення осо-
+би чи колективу, надаючи їм право власності та 
+контролю над цими досягненнями. Важливим є 
+те, що право інтелектуальної власності сприяє 
+стимулюванню творчості та інновацій, оскільки 
+воно надає власникам інтелектуальних прав від-
+повідні економічні стимули.
+Зростання використання цифрових техно-
+логій і Інтернету викликає ряд нових питань і 
+викликів, пов’язаних з правами інтелектуальної 
+власності. З одного боку, цифрова доба створює 
+унікальні можливості для створення, розповсюд-
+ження і використання інтелектуальної власності, 
+приводячи до нових форм творчості та підтримки 
+культурного обміну. З іншого боку, вона пород-
+жує проблеми щодо контролю, захисту та відтво-
+рення цієї власності у цифровому середовищі, 
+зокрема, зростанням піратства та порушення ав-
+торських прав.
+В цифрову добу право інтелектуальної влас-
+ності стає основою
+
+--- FILE: Intellectual_Property_Rights_in_the_Digital_Era_Ex.pdf ---
+Abstract  
+Protecting and enforcing intellectual property rights have become increasingly complex and challenging in the digital era. This article 
+discusses the legal aspects of intellectual property, with a particular focus on copyright within the context of the digital era. It explores 
+the evolving nature of intellectual property laws and discusses the importance of comprehensive legal frameworks that need to focus on 
+the unique challenges posed by the digital age. One of the critical areas of concern is copyright protection in digital content-sharing. The 
+rise of online platforms and digital technologies has revolutionised content creation and dissemination and has given rise to significant 
+copyright infringement issues. This article examines the copyright challenges that creators, right holders, and digital platforms face and 
+explores the legal mechanisms to combat copyright infringement in the digital realm. By shedding light on these topics, this article aims 
+to contribute to a better understanding of copyright under intellectual property rights in the dynamic and rapidly evolving digital ecosystem. 
+It emphasises the need for strong legal frameworks that balance protecting intellectual property and promoting creativity in the digital 
+age. 
+Keywords: Digital literacy, Educational Resources and Copyright, Economic Growth through IP Protection, Digital 
+Infrastructure, Online Content Regulation, International IP cooperation.
+
+--- FILE: INTELLECTUAL+PROPERTY+RIGHTS+IN+THE+DIGITAL+ECONOMY.pdf ---
+Abstract: This chapter explores the evolving landscape of Intellectual Property Rights (IPR) 
+within the digital economy, focusing on key innovations and legal protections. The digital 
+revolution has introduced both unprecedented opportunities and significant challenges for IPR, 
+necessitating adaptive legal frameworks and innovative management strategies. This study 
+begins with an overview of the historical development of IPR, highlighting major milestones and 
+technological advancements that have shaped current practices. It then examines various types of 
+IPR, including copyrights, patents, and trademarks, and their application in digital contexts. The 
+legal framework section delves into international treaties, national legislation, and significant 
+case studies, providing a comprehensive understanding of the regulatory environment. 
+Additionally, the chapter discusses cutting-edge innovations in IPR management, such as Digital 
+Rights Management (DRM) systems, blockchain technology, and artificial intelligence. The 
+conclusion synthesizes key findings, offers recommendations for future IPR policies, and 
+anticipates future trends and challenges. This chapter aims to contribute to the scholarly 
+discourse on IPR by providing insights into the intersection of law, technology, and innovation in 
+the digital age. 
+Keywords: Intellectual Property Rights, Digital Economy, Copyright , Patents , Trademarks 
+ 
+I.
+
+--- FILE: IntellectualPropertyRightsIPRTheirRoleChallengesandGlobalImpactintheDigitalAge.pdf ---
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/389888478
+Intellectual Property Rights (IPR): Their Role, Challenges, and Global Impact
+in the Digital Age
+Article · November 2024
+DOI: 10.5281/zenodo.15016174
+CITATIONS
+0
+READS
+68
+1 author:
+Dr Vishwasrao Mane
+Shivaji University
+44 PUBLICATIONS   7 CITATIONS   
+SEE PROFILE
+All content following this page was uploaded by Dr Vishwasrao Mane on 16 March 2025.
+The user has requested enhancement of the downloaded file.
+INSIGHT BULLETIN: A
+MULTIDISCIPLINARY
+INTERLINK INTERNATIONAL
+RESEARCH JOURNAL
+Published By :
+Royal International Global LLC 
+United States of America (USA)
+Website: https://ibrj.us
+Email: 2024ibrj.us@gmail.com 
+November-2024 Volume-1 Issue-2
+ Editor
+Santosh P. Mane
+(IBMIIRJ)
+ISSN: 3065-7857
+
+--- FILE: ip_innovation_development.pdf ---
+1
+Role of Intellectual Property in Innovation and New Product 
+Development
+By Christopher M.  Kalanje1, Consultant, SMEs Division, WIPO
+"...Because its purpose is to create a customer, business has two—and only two 
+functions: Marketing and innovation.  Marketing and innovation produce results, all the 
+rest are costs."
+ Peter Drucker
+Innovation 
+Generally put, an ‘innovation’ is developing a new idea and putting it into practice.  As 
+this article is focused on the competitive strategy of a private enterprise in a market-
+driven business environment, the term ‘innovation’ is used here to refer to the process of 
+bringing valuable new products (goods and services) to market i.e., from the idea/concept 
+formulation stage to the successful launching of a new or improved product in the 
+marketplace2, or the result of that process, so as to meet the explicit or implied needs of 
+current or potential customers.  In other words, through innovation an enterprise seeks to 
+deliver unique new value to its customers.  In this context, ‘marketing’ is the 
+understanding of that unique new value and communicating it to the current and potential 
+customers of a business so that the product sells itself.  
+Technological innovation may be classified in several ways: product vs.  process, radical 
+(basic or fundamental) vs.  incremental (improvement), and disruptive vs.  sustaining 
+(sequential and/or complementary).  Other important types of (non-technological) 
+innovations that do not resul
+
+--- FILE: ip_panorama_8_learning_points.pdf ---
+MODULE
+08
+IP in the Digital Economy
+
+--- FILE: Legal infrastructures for firm innovation Effects of intellectual.pdf ---
+Legal infrastructures for firm innovation: Effects of intellectual 
+property protection in the era of digital economy
+Bingru Yuan *, Weibo Li
+School of Law, Chongqing University, Chongqing 400044, China
+A R T I C L E  I N F O
+Keywords:
+Intellectual property protection
+Firm innovation
+Firm digital transformation
+A B S T R A C T
+This paper, using a sample of A-share firms in China from 2018 to 2022, demonstrates a positive 
+influence of intellectual property protection on firm innovation and reveals that digital trans­
+formation mediates this relationship, amplifying the innovation impetus provided by robust in­
+tellectual property regimes. Notably, the positive effect of intellectual property protection on firm 
+innovation is found to be weaker high-tech industries than that in non-high-tech industries. These 
+findings highlight the nuanced role of intellectual property legal frameworks in fostering inno­
+vation and the evolving dynamics of digital transformation across different industry contexts.
+1. Introduction
+In the contemporary digital economy, technology and data are pivotal for shaping the competitive edge of firms. Intellectual 
+property (IP) protection, a critical legal infrastructure, supports innovation (Neves et al., 2021). China, a pivotal player in global 
+innovation, presents a unique approach to IP protection. As digital transformation becomes the norm in China, the intersection of IP 
+rights and the digital economy emerges as a complex and dynamic field. IP p
+
+--- FILE: Legal_Protection_of_Intellectual_Property_Rights_i.pdf ---
+ABSTRACT  
+Article history: 
+Received August, 2024 
+Revised October, 2024 
+Accepted October, 2024 
+ 
+ 
+This research aims to understand the Legal Protection of Intellectual 
+Property Rights in the Digital Industry: A Review of Legal 
+Developments and Implementation Challenges.The literature study 
+will also include a review of relevant legal literature, especially relating 
+to intellectual property protection in the digital era. In addition, legal 
+sources related to IPR in the digital era are also an important basis for 
+this analysis, ensuring a deep understanding of the existing regulatory 
+framework. By utilizing the latest literature and relevant legal sources, 
+this research can provide a comprehensive understanding of the 
+challenges, trends and solutions in protecting IPR amidst the dynamics 
+of digital technology. Research results Legal protection of intellectual 
+property rights (IPR) in the digital era is a complex and vital issue that 
+requires 
+a 
+holistic 
+approach. 
+Challenges 
+include 
+copyright 
+infringement, data security, and global competition for patents and 
+trademarks. Strong and effective regulations are needed to address 
+these challenges without stifling innovation and economic growth. 
+Awareness of the importance of intellectual property rights must be 
+increased through extensive educational campaigns and programs by 
+increasing their understanding of copyright, patents, trademarks and 
+industrial designs, individuals will play a greater role in respecting and 
+protecting intellectual property rights in the digital era. 
+Keywords: 
+Legal Protection 
+Intellectual Property Rights 
+Digital Industry  
+Legal Developments and 
+Implementation Challenges 
+This is an open access article under the CC BY-SA license. 
+ 
+Corresponding Author: 
+Name:  Khoirul Anam 
+Institution Address: Tulungagung, Indonesia 
+e-mail: khoirulanam@unita.ac.id  
+ 
+1.
+
+--- FILE: Paper2604.pdf ---
+Abstract: In the rapidly evolving digital economy, copyright law plays a crucial role in balancing the 
+interests of creators, consumers, and industry sectors. This research paper examines how copyright law 
+influences innovation across different sectors and perspectives. Utilizing multinomial logistic regression 
+analysis, the study investigates the impact of industry sector, perspective on copyright law, and the 
+perceived importance of copyright protection on innovation. 
+The results reveal that sectors like Technology and Entertainment perceive a significant positive impact of 
+copyright law on innovation, contrasting with the Education sector, which shows no significant difference. 
+Additionally, a supportive perspective on copyright law strongly correlates with a favorable view of its 
+impact on innovation, while the importance of copyright protection also positively affects these perceptions. 
+The findings underscore the need for tailored copyright policies that address sector-specific needs and 
+perspectives to effectively support innovation. Future research should explore how evolving digital 
+technologies and legal frameworks continue to shape these relationships and influence the balance between 
+protection and access in the digital age. 
+ 
+I.
+
+--- FILE: Pedro Roffe-Intellectual Property Rights and SD.pdf ---
+Project Document 
+Economic Commission for Latin America and the Caribbean (ECLAC) 
+Intellectual property rights and 
+sustainable development:  
+A survey of major issues  
+ 
+Pedro Roffe  
+Maximiliano Santa Cruz 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document was prepared by Pedro Roffe and Maximiliano Santa Cruz, from Sustainable Development and Human 
+Settlements Division, United Nations-Economic Commission for Latin America and the Caribbean (ECLAC), in the 
+framework of the project ROA/49. 
+The views expressed in this document, which has been reproduced without formal editing, are those of the authors and do 
+not necessarily reflect the views of the Organization. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United Nations Publication 
+ 
+LC/W.xxxx 
+Copyright © United Nations, October 2007. All rights reserved 
+Printed in Santiago, Chile – United Nations 
+ 
+Applications for the right to reproduce this work are welcomed and should be sent to the Secretary of the Publications 
+Board, United Nations Headquarters, New York, N.Y. 10017, U.S.A. Member States and their governmental institutions 
+may reproduce this work without prior authorization, but are requested to mention the source and inform the United 
+Nations of such reproduction.
+
+--- FILE: PROTECTION_OF_INTELLECTUAL_PROPERTY_RIGHTS_IN_THE_.pdf ---
+79
+ЕКОНОМІКА І ПРАВО
+УДК 330.341.1
+В. К.  Х А У С Т О В,
+кандидат технічних наук, учений секретар
+ДУ “Інститут економіки та прогнозування НАН України”,
+вул. Панаса Мирного, 26, 01011, Київ, Україна
+ОХОРОНА ПРАВ ІНТЕЛЕКТУАЛЬНОЇ ВЛАСНОСТІ 
+В ГЛОБАЛЬНИХ ПРОЦЕСАХ РОЗВИТКУ 
+ЦИФРОВОЇ ЕКОНОМІКИ
+Узагальнено та систематизовано сучасні тенденції трансформації сфери охорони інте\
+лектуальної власності, структуризації її об’єктів в умовах глобального поширення циф\
+рової економіки. Обґрунтовано підвищення ролі нематеріальних активів у виробництві
+товарної продукції та наданні послуг, у тому числі в глобальних ланцюжках створення
+доданої вартості. Проаналізовано потенціальні виклики та перспективи України щодо
+підвищення глобальної конкурентоспроможності. 
+Ключові слова: інтелектуальна власність; нематеріальні активи; майнові та немай\
+нові права; цифрова економіка; глобальна конкурентоспроможність.
+Табл. 1.
+UDC 330.341.1
+V O L O D Y M Y R  K H A U S T O V,
+Cand. of Techn. Sci., Scientific Secretary,
+Institute for Economics and Forecasting of the NAS of Ukraine,
+26, Panasa Myrnoho St., Kyiv, 01011, Ukraine
+PROTECTION OF INTELLECTUAL PROPERTY RIGHTS 
+IN THE GLOBAL PROCESSES OF THE DIGITAL 
+ECONOMY DEVELOPMENT
+The current trends of the transformation of the sphere of protection of intellectual property
+rights and the structuring of intellectual property objects under conditions of the global
+growth of the digital economy are generalized and systematized. Increasing role of intangible
+assets
+
+--- FILE: Research_on_Collaborative_Management_Mechanism_of_.pdf ---
+Abstract: In the era of digital economy, about the internal relationship between scientific and technological 
+innovation and green development, this study launched an in-depth discussion, and analyzed the rapid 
+development of digital economy and as a new driving force to promote green development. This paper 
+expounds the key role of scientific and technological innovation in promoting green development, and 
+probes into the importance of innovation model in realizing environmental sustainability. At the same 
+time, a theoretical framework of collaborative management is constructed, and corresponding management 
+strategies are proposed to guide the effective integration of scientific and technological innovation and green 
+development.
+Keywords: Digital economy; scientific and technological innovation; green development; collaborative 
+management
+
+--- FILE: Research_on_Scientific_Management_Innovation_in_th.pdf ---
+Abstract 
+With the rapid development of digital economy, the wide application of information technology is reshaping the 
+operation mode and management structure of enterprises. At the heart of the digital economy is data-driven 
+decision making, intelligent management, and networked collaboration, which provide unprecedented 
+opportunities and challenges for enterprises. By combining the successful cases of specific enterprises, this paper 
+aims to provide practical strategies for business managers to help them better adapt to the rapid changes of the 
+digital economy and improve management efficiency and decision-making ability. Finally, this paper hopes to 
+provide a new perspective and thinking for the future scientific management research in the era of digital economy. 
+Keywords: digital economy, management innovation 
+1.
+
+--- FILE: Research_on_the_Formation_Mechanism_and_Regulatory.pdf ---
+Abstract. With the booming development of the digital economy, the dominant position of platform 
+enterprises in various industries is gradually emerging. Many platform enterprises have formed market 
+monopolies through mechanisms such as mergers and acquisitions, data control, and network effects. This 
+monopoly phenomenon not only affects market competition and harms consumer interests, but also brings 
+problems such as data privacy breaches. This article explores the mechanism of platform enterprise 
+monopoly formation in the digital economy era, including factors such as increased market concentration, 
+data barriers, and cross-border expansion. At the same time, it analyzes the harm of platform monopoly, 
+such as damaged consumer welfare and limited market innovation. This article proposes effective regulatory 
+strategies to address these issues, including improving anti-monopoly laws, strengthening data supervision, 
+and promoting transparent platform operations. Finally, this article emphasizes the importance of 
+international cooperation in regulating the digital economy and calls for the establishment of a unified 
+regulatory framework worldwide.  
+1
+
+--- FILE: Research_on_the_influence_mechanism_of_intellectua.pdf ---
+Abstract: In the context of accelerating the construction of the digital economy, it is of great practical 
+6
+ 
+significance to study the degree of intellectual property protection to improve the development of 
+7
+ 
+the digital economy to help the high-quality development of China's digital economy. The data of 
+8
+ 
+273 cities in China from 2012 to 2021 were selected as samples, and the level of intellectual property 
+9
+ 
+protection was measured by the number of intellectual property cases, and the development of the 
+10
+ 
+digital economy was measured by the Internet infrastructure, Internet-related output, and digital 
+11
+ 
+financial inclusion. It is found that 1) The protection of intellectual property rights has significantly 
+12
+ 
+improved the level of development of the digital economy. 2) Intellectual property protection can 
+13
+ 
+promote the development of the digital economy by increasing the activity of innovation. 3) The 
+14
+ 
+impact of intellectual property protection on the digital economy is verified from the levels of dif-
+15
+ 
+ferent regions, city sizes and local financial resources, and it is found that the positive effect of in-
+16
+ 
+tellectual property protection on the digital economy in the eastern region, Type II large cities and 
+17
+ 
+cities with high local financial resources is greater. 
+18
+ 
+Keywords: Intellectual property protection; digital economy; influence mechanism 
+19
+ 
+ 
+20
+ 
+1.
+
+--- FILE: Research_on_the_Transformation_and_Development_Str.pdf ---
+Abstract. Due to the extensive use of digital technologies across numerous industries, the socio-
+economy have entered the digital economy era, bringing new challenges and opportunities for 
+development in all sectors. The financial industry, being a vital part of the national economy, is facing 
+immense pressure for digital transformation. How to seize the opportunities brought by the digital 
+economy and achieve sustainable development through digital transformation is a crucial issue 
+facing financial institutions. Based on the review of relevant theories and current studies concerning 
+the digital economy, it employs methods such as literature research, survey research, and 
+comparative analysis to research how the financial sector is affected by the digital economy and 
+evaluate the opportunities and challenges the sector is facing in this new digital economy age. On 
+this basis, focusing on the perspective of innovation theory, it proposes innovative strategies to drive 
+the digital transformation of the financial industry, provide specific measures from five aspects: 
+technological innovation, product innovation, service innovation, channel innovation, and innovation 
+of organizational mechanism and support. This research provides strong guidance for the 
+development of the financial sector and its digital transformation in the era of the digital economy. 
+Keywords: Digital Economy, Innovation Theory, Financial Industry, Digital Transformation. 
+1.
+
+--- FILE: Role_of_intellectual_property_in_the_development_o.pdf ---
+Abstract
+The war poses serious challenges to the economy, national security, and 
+development of the country as a whole, and innovation can be an important 
+tool in overcoming these challenges. The research aims to study the impact of 
+intellectual property on stimulating and promoting innovative development 
+in the context of technological progress. The methods of scientific cognition 
+used include analysis, synthesis, deduction, comparison, generalisation, and 
+systematisation; a systematic approach was applied to create a comprehensive 
+methodology for analysing the situation in the intellectual property market. The 
+study investigates how intellectual property can stimulate scientific research, 
+promote the development of new technologies, increase competitiveness 
+within the state and contribute to economic growth. The study analyses the 
+works of Ukrainian scientists that have a positive impact on the development 
+of Ukraine’s innovation potential. The author presents an opinion on the 
+need to develop and improve the protection of intellectual property rights, as 
+this will facilitate the discovery of new technologies and the involvement of 
+scientists in their development. The author discusses the issue of establishing 
+the High Court of Intellectual Property and identifies the advantages and 
+disadvantages that may arise with the
+
+--- FILE: ssrn-3923127.pdf ---
+abstract=3923127
+2 
+ 
+Intellectual Property and the Digital Economy: Five Issues for 
+International Norms and Trade Rules  
+Dan Ciuriak 
+9 September 2021 
+Abstract: Over the past two centuries, the nature of innovation has evolved profoundly across 
+many dimensions, including in the pace and volume of change, in the cost and institutional 
+structure of innovation activity, in the enabling environment for innovation (which itself has 
+evolved because of innovation), in the sources of demand for innovation, in the proliferation of 
+entities engaged in innovation (including most recently the role of artificial intelligence as a patent-
+receiving inventor), in the distribution of its benefits, and in the nature of concerns that new 
+technologies have raised. With the emergence of the data-driven economy, the pervasive, protean 
+and permanent characteristics of digitized data, one of today’s most important types of intellectual 
+property, create fundamental new social and political conditions that will necessarily elicit social 
+and political responses. And along the way, innovation and the system of protection for intangible 
+assets that innovation produces became the central bone of contention in the trade and technology 
+war between the United States and China (in which third countries are increasingly embroiled). 
+Even as these profound changes unfolded, the basic instruments incentivizing innovation – the 
+various forms of intellectual property (IP) protection – were essentially unchanged and indeed 
+formally expanded, even as the amount of protected IP expanded enormously. Given that many 
+key metrics of economic performance and social behaviour have changed in problematic directions 
+during this period, and in light of the fact that in the innovation-intensive countries the economy 
+has been transformed from one dominated by tangible assets to one dominated by (protected) 
+intangible assets, the system bears reviewing. This note identifies five issues for the curr
+
+--- FILE: ssrn-5147006.pdf ---
+Abstract: Innovation is key to developing a knowledge-based economy because of its important 
+role in creating labor markets and economic growth. In addition, policies to support the formation 
+of a creative economy ecosystem must also be put forward, in this case, policies in the field of 
+intellectual property rights (IPR); both in the field of registration, IPR protection, as well as IPR 
+commercialization. Because in the global era, IPR is necessary for creating value, job 
+opportunities, and economic growth. The aims of this research are (i). Analyze and examine the 
+extent of the contribution of IP registration to increasing state revenue growth through Non-Tax 
+State Revenue (PNBP). (ii) Analyze and review the extent of the contribution of IP registration to 
+increasing revenue growth in the business sector. (iii) Analyze and assess the impact of policies 
+taken by DJKI on increasing IP registration in Indonesia. The method of this research used a 
+qualitative approach through Focus Group Discussion (FGD) and processed with NVivo.  
+Based on the results, this research concludes that: (i) The contribution of IPR registration 
+has proven to have an impact on PNBP through an increase in PNBP from 2016-2022. The 
+increase in IP registration itself is due to factors in the growth of awareness from the public and 
+economic actors on the importance of IP. This also implies that the variable of public awareness 
+has an indirect impact on the achievement of PNBP performance of DGIP; (ii). IPR registration 
+can protect business actors so that business actors can run their businesses calmly and unlock 
+business development potentials because the registered products indirectly have a positive effect 
+on income and ease of doing business in Indonesia, especially related to IPR protection itself. (iii) 
+The policy taken by the government (DGIP) towards efforts to increase IPR registration implies 
+that the creation of increased public awareness will have an impact on increasing IPR registration 
+carried out which can be achieved through increasing socialization activities on an ongoing basis 
+and improving services with technology.  
+Due to the role of IPR being very positive for Indonesia's economic growth through its 
+important role in the development of the creative economy and technology, this research 
+recommends the DGIP become a ministry-level body so that the policies taken focus more on the 
+economic sector. 
+Keywords: Business Sector, Economic Growth, Intellectual Property Rights, Qualitative Method, 
+State Revenue
+
+--- FILE: Study_on_the_Two-way_Mutual_Promotion_Model_of_Dig.pdf ---
+Abstract: China has good soil for the development of digital economy, but the development of digital economy cannot be 
+escorted by intellectual property rights. At present, the development of digital economy is facing many challenges and risks, and 
+the development of intellectual property protection in China is in a new transition period, however, there is still a lack of 
+intellectual property protection in the digital economy. Based on the analysis of the development status of digital economy and 
+intellectual property and the interrelationship between them, an operation model is built to promote the development of digital 
+economy and intellectual property in both directions, with the government, enterprises, society and the public forming an 
+"ecosystem" to participate in the operation of the model, and a guarantee mechanism is set up to ensure the sustainable 
+development of the model. 
+Keywords: Digital Economy; Intellectual Property; Two-way Mutual Promotion. 
+ 
+1.
+
+--- FILE: sustainability-17-03135.pdf ---
+Abstract: Innovative technologies have become a key driver of global development, en-
+hancing communication, streamlining processes, and facilitating institutional collaboration.
+This study examines the perceptions of researchers and academic staff involved in research
+activities within educational institutions in Romania, a country that has faced challenges in
+intellectual property management and registration processes. The research focuses on the
+innovation registration process and the need for an online platform leveraging new digital
+technologies for intellectual property protection. Using an econometric model developed
+and tested through WarpPLS 8.0, the analysis reveals that 84% of respondents’ perceptions
+of the innovation registration process can be explained by the independent variables at
+the pattern level. The findings underscore the importance of aligning global legislative
+frameworks to stimulate innovation, promote intellectual property rights registration, and
+support sustainable economic growth. Furthermore, the study advocates for the develop-
+ment of an online platform that integrates artificial intelligence to enhance its functionality,
+streamline the application process, and foster the creation and dissemination of innovative
+technologies. By addressing these issues in Romania, the research contributes to global
+sustainable development objectives by providing a model for improving innovation reg-
+istration processes worldwide, thus promoting technological advancement, intellectual
+property protection, and sustainable economic growth.
+Keywords: innovative technologies; online platforms; digital transformation; technological
+innovations; intellectual property; technology transfer; digital society; globalization
+1.
+
+--- FILE: The impact of judicial protection of intellectual property on digital.pdf ---
+abstract from the 
+Wingo financial text data platform, and obtain financial data from the CSMAR database. We exclude companies in the ST, finance and 
+insurance industries from the sample, and finally obtain 28,959 firm-year observations. Descriptive statistics for all variables are 
+shown in Appendix A. 
+2.2. Regression model 
+To test the impact of judicial protection of IP on firms’ digital innovation, we construct the following difference-in-difference (DID) 
+model: 
+DIi,t+1 = α0 + α1Treati × Postt + α2Treati + α3Postt + βControlsi,t + δIndustry + φYear + εi,t
+(1)  
+where i and t represent firm and year, respectively. Dependent variable DI is corporate digital innovation. Considering that the impact 
+of variables is time-consuming in practice, we advance DI by one period. Following the approach of Firk et al. (2022) and Wang et al. 
+(2022), we use text analysis to search for company patent abstracts containing 76 keywords developed by Wu et al. (2021) from the 
+two dimensions of underlying digital technology and digital technology applications (see Appendix B), and aggregate patents con­
+taining the above keywords by year. Since the data is "right skewed", we add one and take the natural logarithm to obtain the more 
+accurate index of DI describing the company’s digital innovation. 
+The core explanatory variable Treat × Post is the interaction term between the treatment variable Treat and the establishment of IP 
+courts Post. The treatment group includes companies with offices in Beijing, Shanghai, and Guangdong (excluding Shenzhen), where 
+Treat takes the value of 1 and 0 otherwise. Post is a dummy variable representing before and after the establishment of IP courts, where 
+Post takes the value of 1 for the post-2014 samples and 0 otherwise. To avoid the interference of corporate financial and governance 
+characteristics on our results, we control for relevant variables defined in Appendix C. In addition, we control for time and industry 
+fixed effects as rando
+
+--- FILE: The link between intellectual property rights, innovation, and growth.pdf ---
+The link between intellectual property rights, innovation, and growth: A
+meta-analysis
+Pedro Cunha Neves a,*, Oscar Afonso b, Diana Silva c, Elena Sochirca d
+a Department of Management and Economics, Universidade da Beira Interior, CEFAGE-UBI, Covilh~a, Portugal
+b Faculdade de Economia, Universidade do Porto, CEFUP, Porto, Portugal
+c Faculdade de Economia, Universidade do Porto, Porto, Portugal
+d Department of Management and Economics, Universidade da Beira Interior, NECE, NIPE, Covilh~a, Braga, Portugal
+A R T I C L E I N F O
+JEL classiﬁcation:
+O31
+O32
+O34
+O4
+Keywords:
+Intellectual property rights
+Innovation
+R&D
+Economic growth
+Meta-analysis
+A B S T R A C T
+In recent decades, intellectual property rights (IPR) and their macroeconomic effects have attracted considerable
+attention from both policymakers and academics. Despite a substantial theoretical and empirical literature, evi-
+dence regarding the impact of IPR protection on innovation and economic growth is mixed. In this paper we
+conduct a literature review and meta-analysis of the topic, and ﬁnd that IPR have an overall positive effect on
+innovation and growth. However, the effect on innovation is weaker in developing countries than developed
+countries. We also ﬁnd that the effects reported in the literature depend to a great extent on individual studies’
+methodological characteristics.
+1. Introduction
+Intellectual property rights (IPR) are widely believed to play a crucial
+role in encouraging innovation, fostering techn
+
+--- FILE: The_Evolution_of_Intellectual_Property_Rights_in_t.pdf ---
+Abstract 
+Purpose: The main objective of this study was to investigate the evolution of intellectual property 
+rights in the digital age.  
+Methodology: The study adopted a desktop research methodology. Desk research refers to secondary 
+data or that which can be collected without fieldwork. Desk research is basically involved in collecting 
+data from existing resources hence it is often considered a low cost technique as compared to field 
+research, as the main cost is involved in executive’s time, telephone charges and directories. Thus, the 
+study relied on already published studies, reports and statistics. This secondary data was easily 
+accessed through the online journals and library. 
+Findings: The findings revealed that there exists a contextual and methodological gap relating to the 
+evolution of intellectual property rights in the digital age. Preliminary empirical review revealed that 
+that the digital age has significantly impacted IPR across various dimensions. It has not only 
+necessitated the adaptation of legal frameworks but has also introduced novel challenges and 
+opportunities. The prevalence of digital piracy, the need for copyright enforcement mechanisms, the 
+reevaluation of traditional notions of copyright ownership, and the complexities surrounding open 
+access publishing are among the key issues that have emerged as central concerns in the digital age. 
+Unique Contribution to Theory, Practice and Policy: The Diffusion of Innovations theory, 
+Institutional theory and the Social Contract theory may be used to anchor future studies on the 
+evolution of intellectual property rights. Some of the recommendations drawn from the study include 
+the following: modernizing intellectual property legislation, strengthening cross-border enforcement, 
+promoting digital literacy and copyright education, encouraging voluntary compliance and industry 
+collaboration and adapting alternative intellectual property models. 
+Keywords: Intellectual Property Rights
+
+--- FILE: WIPO_2024_Models-of-intellectual-property-governance-and-administration.pdf ---
+Models of 
+Intellectual 
+Property 
+Governance and 
+Administration
+Models of 
+Intellectual 
+Property 
+Governance and 
+Administration
+
+--- FILE: wipo_pub_958.pdf ---
+Methodology for the  
+Development of National 
+Intellectual Property  
+Strategies
+Second edition
+
+--- FILE: wipo_pub_958_3.pdf ---
+Tool 3: Benchmarking 
+Indicators
+Methodology for the 
+Development of National 
+Intellectual Property 
+Strategies
+Toolkit
+2016
+Acknowledgement
+The World Intellectual Property Organization (WIPO) acknowledges the contribution of 
+Prof. Tom Peter Migun Ogada, Managing Director, T&P Technology and Innovation Management 
+Services Limited, Nairobi, Kenya for compiling/writing this publication.
+
+--- FILE: wipo-pub-944-2022-en-world-intellectual-property-report-2022-the-direction-of-innovation.pdf ---
+World Intellectual Property 
+Report 2022
+The Direction 
+of Innovation
+World Intellectual Property 
+Report 2022
+The Direction 
+of Innovation
+

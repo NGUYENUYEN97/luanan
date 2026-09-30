@@ -1,0 +1,80 @@
+MỤC LỤC
+SƠ ĐỒ, BẢNG BIỂU
+CHỮ VIẾT TĂT
+
+MỞ ĐẦU
+Tính cấp thiết của chuyên đề
+Mục đích và nhiệm vụ của chuyên đề
+Mục đích
+Nhiệm vụ
+Đối tượng và phạm vi của chuyên đề 
+Đối tượng
+Phạm vi
+Cách tiếp cận và phương pháp nghiên cứu chuyên đề 
+Cách tiếp cận
+              4.2. Phương pháp nghiên cứu chuyên đề
+5. Kết cấu chuyên đề 
+Ngoài phần Mở đầu, Kết luận, Danh mục tài liệu tham khảo, nội dung chuyên đề tổng quan chia thành 3 nội dung chính: 1…2….3
+NỘI DUNG 
+( NCS chọn 03 nội dung liên quan đến luận án để hình thành 03 chuyên đề nghiên cứu) 
+TÀI LIỆU THAM KHẢO
+  PHỤ LỤC
+                YÊU CẦU VỀ HÌNH THỨC, CÁCH TRÍCH DẪN TÀI LIỆU
+Văn bản
+Báo cáo được trình bày bằng văn phong khoa học, mạch lạc, rõ ràng, sạch sẽ, khúc chiết và chặt chẽ; không dùng các từ láy, tiếng lóng, từ địa phương. 
+Báo cáo tổng quan được trình bày kiểu chữ thống nhất Times New Roman, cỡ chữ 13 - 14 bằng hệ soạn thảo WinWord; mật độ chữ bình thường (không nén, không giãn khoảng cách); khoảng cách dòng 1,5 lines; lề trên 3,5 cm và dưới 3,0 cm, lề trái 3,5 cm , lề phải 2 cm. Chữ trong văn bản đều căn lề hai bên (justified).
+Số trang được đánh ở giữa phía trên mỗi trang giấy (không ghi chữ trang). Đánh số trang phần phụ bằng chữ La Mã thường (i, ii , iii, iv…); phần chính luận được đánh số bằng số Ả Rập, trang đầu là “1”. Phần phụ lục và tài liệu tham khảo không đánh số trang.
+Thụt đầu dòng 1 tab hàng chữ đầu tiên của mỗi đoạn văn. Không dùng header hay footer. Footnotes hay endnotes chỉ sử dụng khi cần thiết.
+Các tiểu mục của báo cáo được đánh số bằng chữ số và nhóm chữ số Á Rập, không quá 4 cấp (ví dụ: 3.2.4.1.) với chữ số thứ nhất là số của chương, các số sau chỉ các cấp mục khác nhau. Mỗi nhóm tiểu mục có tối thiểu 2 tiểu mục. 
+Tiêu đề của chương viết hoa, in đậm, căn giữa khổ giấy. Tiêu đề của mục, tiểu mục viết thường, in đậm, căn lề đều 2 bên, không thụt dòng, cỡ chữ 13. Sau mục, tiểu mục không dùng dấu chấm (.) hoặc dấu 2 chấm (:).
+Tên các loài vi sinh vật, động vật, thực vật .... phải viết đúng tên Latinh, in nghiêng. Thuật ngữ chuyên ngành chưa được sử dụng phổ biến có thể giải thích bằng ngôn ngữ nước ngoài, đặt trong ngoặc đơn (có thể một danh mục thuật ngữ đối chiếu ngôn ngữ nước ngoài và tiếng Việt sau danh mục các ký hiệu và chữ viết tắt).
+Đơn vị đo lường và ký hiệu của theo Hệ thống đo lường quốc tế (SI). Tên gọi, ký hiệu đơn vị phải được trình bày theo một kiểu thống nhất trong báo cáo. Ký hiệu đơn vị phải viết bằng chữ thường, kiểu thẳng đứng. Đơn vị đo lường được ghi cách phần chữ số 1 khoảng trắng, không ghi liền. Đại lượng có giá trị thập phân, sử dụng dấu phẩy (,) không được viết dấu chấm và làm tròn đến một số thập phân sau dấu phẩy. 
+Báo cáo tổng quan in một mặt trên giấy trắng khổ A4 (210x290mm). Tổng số trang (không kể tài liệu tham khảo, phụ lục) không quá 70 trang tối đa và không ít hơn 40 trang tối thiểu. 
+Bảng số liệu, biểu đồ, hình
+Đánh số bảng số liệu, biểu đồ, hình cũng gắn với số chương (ví dụ hình 3.3. có nghĩa là hình số 3 trong chương 3). Bảng số liệu, đồ thị, hình không phải là kết quả nghiên cứu phải được trích dẫn nguồn đầy đủ “Nguồn: Bộ Y tế, 2010” [  ]. Bảng số liệu, biểu đồ và hình nên bố trí sao cho nằm gọn trong một trang văn bản. Tiêu đề bảng biểu được ghi phía trên bảng; tiêu đề biểu đồ, hình ghi dưới biểu đồ, hình in đậm và căn giữa. 
+Cách trình bày bảng số liệu phải thống nhất trong toàn luận án. Cần ghi cỡ mẫu (n) phía trên bảng nếu cỡ mẫu thay đổi. Các ghi chú giải thích cho bảng số liệu đặt ở dưới bảng. Các biểu đồ phải có ghi nhãn trục tung và trục hoành. Bảng số liệu, biểu đồ và hình phải đi liền với nội dung được đề cập tới trong phần văn bản (chỉ rõ số bảng, số biểu đồ, số hình).
+Nếu bảng số liệu, biểu đồ hoặc hình ảnh trình bày theo hướng ngang khổ giấy thì đầu bảng, hình ảnh nằm về phía lề trái của trang. Các bảng hay hình lớn quá khổ giấy A4 thì vẫn trình bày theo chiều đứng (dài 297mm) của trang giấy, còn chiều rộng có thể lớn hơn (> 210mm), phần dư sẽ được gấp lại về phía sau. Tuy nhiên, nên hạn chế trình bày kiểu này trong phần chính văn hoặc chuyển sang phụ lục.
+3. Chữ viết tắt
+Hạn chế tối đa việc viết tắt trong luận án, đặc biệt ở các bảng biểu; chỉ sử dụng viết tắt những cụm từ hay thuật ngữ, tên cơ quan, tổ chức, v.v. được sử dụng lặp lại nhiều lần trong văn bản. Nếu cần viết tắt cụm từ nào thì ngay ở lần viết đầy đủ đầu tiền phải đánh kèm cụm chữ viết tắt (đặt trong ngoặc đơn). Nếu luận án có nhiều chữ viết tắt phải có danh mục chữ viết tắt xếp theo thứ tự chữ cái ABC. Chú ý, không được viết tắt ở tên đề tài và phần mục lục.
+4. Tài liệu tham khảo và cách trích dẫn
+Mọi ý kiến, khái niệm có ý nghĩa, mang tính chất gợi ý không phải của riêng tác giả và mọi tham khảo khác phải được trích dẫn và chỉ rõ nguồn trong danh mục Tài liệu tham khảo của luận án. Phải nêu rõ cả việc sử dụng những đề xuất hoặc kết quả của đồng tác giả. Nếu sử dụng tài liệu của người khác và của đồng tác giả (bảng biểu, hình vẽ, công thức, đồ thị, phương trình, ý tưởng...) mà không chú dẫn tác giả và nguồn tài liệu thì luận án không được duyệt để bảo vệ. Mọi bảng, biểu đồ, hình ảnh lấy từ các nguồn khác phải được trích dẫn đầy đủ, ví dụ: "Nguồn: Bộ Y tế, 1996" [ ]. Nguồn được trích dẫn phải được liệt kê chính xác trong danh mục Tài liệu tham khảo. 
+Không sử dụng tài liệu tham khảo chưa có bằng chứng khoa học đầy đủ như trên các trang báo thông thường. Không trích dẫn những kiến thức phổ biến, mọi người đều biết cũng như không làm luận án nặng nề với những tham khảo trích dẫn. 
+Nếu không có điều kiện tiếp cận được một tài liệu gốc mà phải trích dẫn thông qua một tài liệu khác thì phải nêu rõ cách trích dẫn này, đồng thời tài liệu gốc đó không được liệt kê trong danh mục Tài liệu tham khảo của luận án.
+Việc trích dẫn là theo số thứ tự của tài liệu ở danh mục Tài liệu tham khảo và được đặt trong ngoặc vuông. Đối với phần được trích dẫn từ nhiều tài liệu khác nhau, số của từng tài liệu được đặt độc lập trong từng ngoặc vuông, theo thứ tự tăng dần, ví dụ [19], [25], [41], [42].
+Cách trình bày tài liệu tham khảo
+Tài liệu tham khảo được xếp riêng theo từng ngôn ngữ (Việt, Anh, Pháp, Đức, Nga, Trung, Nhật, …). Các tài liệu bằng tiếng nước ngoài phải giữ nguyên văn, không phiên âm, không dịch, kể cả tài liệu bằng tiếng Trung Quốc, Nhật… (đối với những tài liệu bằng ngôn ngữ còn ít người biết có thể thêm phần dịch tiếng Việt đi kèm theo mỗi tài liệu).
+Tài liệu tham khảo xếp theo thứ tự ABC theo họ tên tác giả luận án theo thông lệ của từng nước.
+- Tác giả là người nưới ngoài: xếp thứ tự ABC theo họ.
+- Tác giả là người Việt Nam: xếp theo thứ tự ABC theo tên nhưng vẫn giữ nguyên thứ tự thông thường của tên người Việt Nam, không đảo tên lên trước họ.
+- Nếu các tài liệu cùng tên tác giả thì xếp theo thứ tự thời gian. Nếu có nhiều tài liệu có nhiều tác giả nhưng tác giả thứ nhất giống nhau thì xếp theo thứ tự: a) xếp tác giả thứ nhất theo thứ tự quy định như trên so với các tài liệu khác; b) sau đó xếp đến thứ tự của tác giả thứ 2 và tiếp tục theo vần ABC.
+- Nếu tài liệu có nhiều hơn 6 tác giả thì ghi tên 3 tác giả đầu tiên và sau đó dùng từ và cs (tiếng Việt), hay et al (tiếng Anh)
+- Tài liệu không có tên tác giả thì xếp theo thứ tự ABC từ đầu của tên cơ quan ban hành báo cáo hay ấn phẩm, ví dụ: Tổng cục Thống kê xếp vào vần T, Bộ Y tế xếp vào vần B, v.v…
+Tài liệu tham khảo là sách, luận án, báo cáo phải ghi đầy đủ các thông tin sau:
++ Tên các tác giả hoặc cơ quan ban hành (không có dấu ngăn cách)
++ (năm xuất bản), (đặt trong ngoặc đơn, dấu phẩy sau ngoặc đơn)
++ Tên sách, luận án hoặc báo cáo (in nghiêng, dấy phẩy cuối tên)
++ nhà xuất bản, (dấu phẩy cuối tên nhà xuất bản)
++ nơi xuất bản, (dấu chấm kết thúc tài liệu tham khảo)
+Tài liệu tham khảo là bài báo trong tạp chí, bài trong một cuốn sách … ghi đầy đủ các thông tin sau:
++ Tên các tác giả (không có dấu ngăn cách)
++ (năm công bố), (đặt trong ngoặc đơn, dấu phẩy sau ngoặc đơn)
++ “tên bài báo”, (đặt trong ngặc kép, không in nghiêng, dấu phẩy cuối tên)
++ Tên tạp chí hoặc tên sách, (in nghiêng, dấu phẩy cuối tên)
++ tập (không có dấu ngăn cách)
++ (số), (đặt trong ngoặc đơn, dấu phẩy sau ngoặc đơn)
++ Các số trang, (gạch ngang giữa hai chữ số, dấu chấm kết thúc)
+Tài liệu tham khảo từ trang web thì trình bày giống như trên nhưng phải ghi địa chỉ của trang web và ngày truy cập. 
+Nếu tài liệu dài hơn một dòng thì nên trình bày sao cho từ dòng thứ hai lùi vào so với dòng thứ nhất 1 cm để phần tài liệu tham khảo được rõ ràng và dễ theo dõi.
+Dưới đây là ví dụ về cách trình bày trang tài liệu tham khảo:
+Tiếng Việt
+Phòng Thương Mại và Công nghiệp Việt Nam (1998), Doanh nghiệp nhỏ
+và vừa Việt Nam - Thực trạng và giải pháp, NXB Thống kê, Hà Nội. 
+Nguyễn Trường Sơn (2014), Phát triển doanh nghiệp nhỏ và vừa ở Việt
+  Nam hiện nay, NXB Chính trị Quốc gia - Sự thật, Hà Nội.
+Quốc hội (2008), Luật Công nghệ cao số 21/2008/QH12 ngày 13.11.2008.
+Tiếng Anh
+Qiwen Lu (2001), “Learning and innovation in a transitional economy: the rise of science and technology enterprises in the Chinese information technology industry” , Published online 1 January 2001
+Hsi-Yin Yeh (2014), The Longitudinal Study of Highly-Impact-Technology Enterprises in the ICT Industry: A Social Network Perspective, Journal of Global Information Management (JGIM) 22(4)
+S.I.Oladeji (1998), “Technology policy and the development of small and medium scale enterprises in contemporary Nigeria”, Technovation Volume 18, Issue 2, February 1998, Pages 125-132, S.I.Oladej
+    Phụ lục 
+          Phần phụ lục được trình bày sau danh mục tài liệu tham khảo và được liệt kê trong phần mục lục. Nếu có từ hai phụ lục trở lên, mỗi phụ lục phải bắt đầu trên một trang mới và đánh số 1, 2, 3.

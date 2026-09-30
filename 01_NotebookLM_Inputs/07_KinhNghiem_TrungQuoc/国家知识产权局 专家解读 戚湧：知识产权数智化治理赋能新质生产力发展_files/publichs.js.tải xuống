@@ -1,0 +1,121 @@
+
+       function isMobile() {
+        if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i)))
+            return true;
+        else
+            return false;
+    }
+$(function(){
+/**底部效果*/   
+    if(!isMobile()){
+var time;
+    $(".foot_publink2 dd span").hover(function(e){
+        e.stopPropagation();
+        var tat=$(this);
+        tat.next(".select_con").show();
+        
+
+    },function(){
+        var tar=$(this);
+        time=setTimeout(function(){
+            tar.next(".select_con").hide();
+        },200)
+
+    })
+
+    $(".select_con").hover(function(){
+        clearTimeout(time);
+        $(this).show();
+    },function(){
+        $(this).hide();
+    })
+}
+/**导航划上效果新加*/
+    if(!isMobile()){
+
+        $(".pubsnav>li:not(.pubfir)").hover(function(){
+            $(this).find(".nav_er ").show();
+            $(".pub_outernav").css("height","150px");
+        },function(){
+            $(this).find(".nav_er ").hide();
+            $(".pub_outernav").css("height","60px");
+        })
+
+    }
+
+/**右侧定位*/
+$(window).resize(function(){
+    var sd=236+$(".toutiao").outerHeight(true);
+    console.log(sd);
+    var sy_yc=$(window).width()/2+600;
+    var sy_yc1=$(window).width()/2+610
+$(".sy_yc").css("left",sy_yc1);
+$(".sa").css({"left":sy_yc,"top":sd});
+})
+var sy_yc=$(window).width()/2+600;
+var sy_yc1=$(window).width()/2+610;
+
+var sd=236+$(".toutiao").outerHeight(true);
+
+
+$(".sy_yc").css("left",sy_yc1);
+$(".sa").css({"left":sy_yc,"top":sd});
+// $(".sy_yc .close").click(function(){
+//  $(".sy_yc").hide();
+// })
+
+
+/**手机导航*/
+
+
+$(".navbar").on("touchstart",function(){
+    $(this).toggleClass("navbar_on");
+    $("body").toggleClass("deadlock");
+    if($("body").hasClass("deadlock")){
+         $("html").css("overflow-y","hidden");
+         $(".deadlock").css("height",$(window).height());
+        }
+        if(!$("body").hasClass("deadlock")){
+         $("html").css("overflow-y","auto");
+         $("body").css("height","auto");
+        }
+            $(".pubnav").stop().slideToggle(300);
+    
+})
+
+$(".pubsmdown").on("touchstart",function(){
+    $(this).toggleClass("pubsmdown_on");
+    $(this).next(".nav_er").stop().slideToggle(300);
+    $(this).parent().siblings().find(".nav_er").stop().slideUp(300).prev().removeClass("pubsmdown_on");
+    
+})
+
+
+    if(isMobile()){
+         var sdd=$(window).height()-$(".pubhead").height();
+        var sds=sdd-40;
+        $(".pubnav").height(sdd);
+        $(".nsk").css("height",sds);
+
+
+            $(".foot_publink2 dd span").on("touchstart",function(e){
+        e.stopPropagation();
+        var tat=$(this);
+        
+        if(tat.next(".select_con").css("display")=="none"){
+
+            tat.next(".select_con").show();
+            tat.parent().siblings().find(".select_con").hide();
+        }else{
+            tat.next(".select_con").hide();
+        }
+
+    })
+$(".select_con a").click(function(e){
+    $(this).parent().parent().hide();
+})
+    }
+})
+$(function(){
+$(".article-content img").attr("title","");
+})

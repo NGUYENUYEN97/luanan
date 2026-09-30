@@ -1,0 +1,162 @@
+@charset "utf-8";
+
+@media print {
+    html, body { margin:0; padding:0; /*page-break-after:avoid; page-break-before:avoid;*/ font-size:13px; page-break-after:always; }
+    * { -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+    .header, .footer, .foot_banner, .lnb, .util, .path_wrap, .bo_top, .btngroup, .pagination, .satisfy, .page_title { display:none !important; animation:none !important; }
+    .sub_wrap { margin:0; padding:10mm 0; }
+    .wrap_center { width:94%; margin:0 auto; }
+    .contents { width:100%; margin-top:0; }
+    /***********************************************************************************
+     버튼
+    ************************************************************************************/
+    .btn.btn_down,
+    .btn.btn_show { display:none; }
+    /***********************************************************************************
+     문단, 텍스트, 탭
+    ************************************************************************************/
+    .sub_head { padding:.5em 0; margin-bottom:1.5em; }
+    .sub_head .sub_title h2 { font-size:1.8em; }
+    .tit_h3_wrap h3 { font-size:1.65em; }
+    .tit_h3_wrap02 h3 { font-size:1.4em; }
+    .txt_li02>li { padding:0 0 0 1.7em; }
+    .txt_li02>li>.li_num { top:0; }
+
+    .alert_txt { padding-left:1.8em;}
+    .alert_txt02::after { top:2px; }
+
+    .guide_box.claim { background-size:130px; }
+
+    /* 탭 */
+    .tab_li li a { padding:1.1em 1.25em; }
+
+    /***********************************************************************************
+     게시판, 테이블
+    ************************************************************************************/
+    .bo_li tbody { border-top:0; }
+    .bo_li colgroup,
+    .bo_li thead { display:none; } 
+    .bo_li tbody { border-top:1px solid #d7d7d7; } 
+    .bo_li tbody tr { display:block; overflow:hidden; border-bottom:1px solid #d7d7d7; padding:12px 0 13px 0; } 
+    .bo_li tbody tr td { padding: 0; border: 0; } 
+    .bo_li tbody tr td.subject { display:block; width:100% !important; margin-bottom:5px; text-align:left; font-size:1.063em; } 
+    .bo_li tbody tr td.date,
+    .bo_li tbody tr td.hit,
+    .bo_li tbody tr td.state,
+    .bo_li tbody tr td.division,
+    .bo_li tbody tr td.part,
+    .bo_li tbody tr td.name { display:inline-block; text-align:left; color:#595959; vertical-align:middle; } 
+    .bo_li tbody tr td.name::before { content:'작성자 : '; } 
+    .bo_li tbody tr td.hit::before { content:'조회수 : '; } 
+    .bo_li tbody tr td.division::before { content:'구분 : '; } 
+    .bo_li tbody tr td.date::before { content:'등록일 : '; } 
+    .bo_li tbody tr td.preview,
+    .bo_li tbody tr td.download,
+    .bo_li .num { display:none; }
+    .bo_li .state { padding:0; margin:0; }
+
+    .gr_bot table .email,
+    .gr_bot table .position { width:70px; }
+    .gr_bot table .manager,
+    .gr_bot table .place { width:80px; }
+
+    .bo_v .v_cont { display:inline-block; }
+    .bo_v .v_cont img { display:inline-block; width:100% !important; max-width:100% !important; }
+    .bo_v ul.bo_info .info_file li { margin-bottom:0; }
+
+    .ask .bo_li .state { margin-bottom:10px; padding:5px; }
+    .ask .bo_li .division,
+    .ask .bo_li .name { width:auto; margin-right:5px; }
+    /* 갤러리 */
+    .gallery_li { grid-row-gap:2.5rem; }
+    .gallery_li .li .cate_label { top:10px; right:10px; width:40px; height:40px; line-height:40px; }
+    .gallery_li.gallery_pdf .li .btn_pdf { display:none; }
+    .promo .tab_wrap { margin-top:2em; }
+
+    /* 갤러리 뷰 */
+    .bo_v.gallery_v .img,
+    .bo_v.gallery_v .info_wrap { float:none; } 
+    .bo_v.gallery_v .img {width:100%; max-width:300px; margin:2em auto;}
+    .bo_v.gallery_v .info_wrap { width:100%; border-top:1px solid #e5e5e5; }
+    .bo_v.gallery_v .info_wrap ul li { padding:10px 0; }
+    .bo_v.gallery_v .info_wrap ul.bo_info > li .field_name,
+    .bo_v.gallery_v .info_wrap ul.bo_info > li .field_cont,
+    .bo_v.gallery_v .info_wrap ul.bo_info .info_file > li { padding:0; }
+    .bo_v.gallery_v .info_wrap ul.bo_info .info_file > li { margin-bottom:5px; }
+    .bo_v.gallery_v .v_cont { padding:1em 0; }
+
+    /* 테이블 */
+    .info.commi .tw_l { width:120px; }
+    .public_li .bo_li .method { width:80px; }
+    .public_li .bo_li button { width:70px; }
+    .public_li .bo_li button:first-child { margin-bottom:3px; }
+    .public_li .bo_li .cate { width:70px; }
+    .public_li .bo_li .part,
+    .public_li .bo_li .period { width:80px; }
+    .public_li .bo_li .cycle { width:50px; }
+    .public_li .bo_li .list { width:100px; }
+    .public_li .bo_li button { display:block; }
+
+    .busi_name_li .bo_li .num { display:block; width:auto; color:#aaa; font-size:0.941em; }
+    .busi_name_li .bo_li .num::before,
+    .busi_name_li .bo_li .num::after { content:''; display:inline-block; color:#aaa; }
+    .busi_name_li .bo_li .num::before { content:'['; }
+    .busi_name_li .bo_li .num::after { content:']'; }
+    .busi_name_li .bo_li .num,
+    .busi_name_li .bo_li .tel,
+    .busi_name_li .bo_li .team { display:inline-block; width:auto; margin-right:5px; text-align:left; }
+    .busi_name_li .bo_li .subject { text-align:left; font-weight:600; margin-bottom:0; }
+
+    .busi_name_li .bo_li .team::before { content:'담당부서 : '; }
+    .busi_name_li .bo_li .name::before { content:'담당자 : '; }
+    .busi_name_li .bo_li .tel::before { content:'연락처 : '; }
+    .busi_name_li .bo_li .date::before { content:'등록일 : '; }
+
+    .bo_li.no_data .no_data { text-align:center !important; }
+    /***********************************************************************************
+     일반 콘텐츠
+    ************************************************************************************/
+    /* 인사말 */
+    .greeting .top .txt { max-width:500px; }
+    /* CI */
+    .ci .tit_h3_wrap { padding-bottom:.5em; }
+    .ci .mid .box02 { margin-top:4em; }
+    .ci .img { padding:40px 30px; }
+    .ci img { max-width:60%; }
+
+    /* 비전전략체계 */
+    .vision .img_desk { display:inline-block; }
+    /* 연혁 */
+    .history_list .li { margin-bottom:2.5em; }
+    /* 조직도 */
+    .gr_top .agent h4 { font-size:1.25em; }
+    /* 오시는 길 */
+    .location .wrap_full { margin-top:30px !important; }
+    .location .map_info { right:0; width:400px; }
+    /* 청렴 KISTA */
+    .step_wrap02 ul li { width:150px; height:150px; }
+    .integrity .list .li ul li:last-child { height:210px; }
+    .integrity .btngroup,
+    .integrity .btn { display:block !important; }
+    /* 환경경영전략체계 */
+    .strategy.env .section02 ul.top li { width:170px; height:170px; }
+    .strategy .goal_list .li ul li:first-child { margin-top:1.5em; }
+    /* 인권경영헌장 */
+    .bucharter .top .tit { padding-bottom:.2em; font-size:2.1em; }
+    .normative .box .bot ul.sign_wrap li { width:50%; }
+    /* 주요사업 */
+    .business .busi_wrap { margin-top:3em; }
+    .business .busi_wrap .title { padding:1em 1.5em; }
+    .business .busi_wrap .title .busi_icon { padding:1em .7em; top:-20px; }
+    .business .busi_wrap .title .busi_icon img { width:70%; margin:0 auto; }
+    .business .busi_wrap .title h3 { font-size:1em; }
+    /* 사업관리시스템 */
+    .manage_wrap a.manage_go_link { display:none; }
+    .manage_wrap .ma_li { width:100%; margin-right:0; margin-bottom:0; padding-bottom:10px; }
+    /* 민원안내 */
+    .complain .section { margin-bottom:2em; }
+    /* 정보공개 */
+    .info .section { margin-top:2em; }
+    .step_wrap01 ul li .icon_step { width:100px; height:100px; }
+    .step_wrap01 ul li.next { width:35px !important; margin:40px 0; background-size:contain; }
+}

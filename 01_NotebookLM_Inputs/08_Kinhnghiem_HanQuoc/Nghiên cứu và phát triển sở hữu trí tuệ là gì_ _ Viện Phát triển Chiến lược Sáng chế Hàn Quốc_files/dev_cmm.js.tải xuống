@@ -1,0 +1,7 @@
+function onlyNumber(obj) {           
+    $(obj).val( $(obj).val().replace( /[^0-9]/g,'') );              
+}
+
+function bankNumber(obj) {           
+    $(obj).val( $(obj).val().replace( /[^0123456789-]/g,'') );              
+}

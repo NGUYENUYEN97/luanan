@@ -1,0 +1,147 @@
+CHUYỂN ĐỔI MÔ HÌNH QUẢN LÝ NHÀ NƯỚC VỀ THỰC THI QUYỀN SỞ HỮU TRÍ TUỆ TRÊN NỀN TẢNG SỐ TẠI VIỆT NAM: TIẾP CẬN QUẢN TRỊ ĐA CHỦ THỂ
+Bản thảo bài báo khoa học - Dành cho Nghiên cứu sinh Luận án Tiến sĩ
+Tóm tắt: Nền kinh tế số tại Việt Nam đang bứt phá mạnh mẽ với tốc độ tăng trưởng nhanh nhất Đông Nam Á, đặt ra những thách thức phi truyền thống đối với hệ thống bảo hộ và thực thi quyền sở hữu trí tuệ (SHTT). Mô hình quản lý nhà nước đơn chủ thể, dựa trên mệnh lệnh hành chính truyền thống từ trên xuống (top-down), đang bộc lộ những hạn chế rõ rệt trước tốc độ biến đổi và tính biên giới mở của không gian mạng. Bài báo nghiên cứu quá trình chuyển đổi mô hình quản lý nhà nước về thực thi quyền SHTT trực tuyến thông qua tiếp cận quản trị đa chủ thể (multi-stakeholder governance). Trên cơ sở hệ thống hóa dữ liệu vĩ mô và thực chứng dòng vốn đầu tư công nghệ giai đoạn 2021 - 2025, nghiên cứu chỉ ra những lỗ hổng thể chế lớn như sự phân mảnh trong cơ cấu quản lý liên bộ ngành, khoảng trống quy định cho kinh tế nền tảng và trí tuệ nhân tạo (AI), cũng như áp lực hài hòa hóa cam kết quốc tế theo Hiệp định EVFTA liên quan đến giới hạn trách nhiệm pháp lý của nhà mạng trung gian (ISP). Từ đó, bài báo đề xuất lộ trình chuyển đổi thể chế toàn diện, ứng dụng công nghệ chuỗi khối (blockchain) để tự động hóa đăng ký quyền, thiết lập cơ chế Notice and Take-down chuẩn mực, và thúc đẩy mô hình liên kết 'Ba nhà' nhằm kiến tạo hệ sinh thái đổi mới sáng tạo số tin cậy.
+Từ khóa: Quản trị đa chủ thể; Sở hữu trí tuệ; Nền tảng số; Kinh tế số; EVFTA; Trí tuệ nhân tạo (AI).
+1. ĐẶT VẤN ĐỀ
+Làn sóng số hóa toàn cầu đang tái định hình cấu trúc tăng trưởng kinh tế của tất cả các quốc gia, và Việt Nam không nằm ngoài quỹ đạo này. Với định hướng xuyên suốt của Đảng và Nhà nước, công nghệ cao và đổi mới sáng tạo (ĐMST) đã được xác định là động lực chủ đạo cho giai đoạn phát triển tiếp theo, hướng đến mục tiêu đưa đất nước bứt phá khỏi bẫy thu nhập trung bình và chuyển dịch mạnh mẽ sang nền kinh tế tri thức lấy tri thức làm nhân tố quyết định. Trong cấu trúc mới này, Sở hữu trí tuệ (SHTT) đóng vai trò là cột trụ xương sống để vốn hóa tài sản vô hình, bảo vệ kết quả của hoạt động R&D và giữ chân dòng vốn đầu tư chất lượng cao.
+Tuy nhiên, sự bùng nổ của nền kinh tế nền tảng (platform economy) và sự phát triển phi mã của các công nghệ mới nổi như trí tuệ nhân tạo (AI), dữ liệu lớn (big data), chuỗi khối (blockchain) đã đẩy hệ thống thực thi SHTT truyền thống vào trạng thái quá tải pháp lý. Các hành vi xâm phạm bản quyền, sao chép phần mềm và giả mạo nhãn hiệu diễn ra với tốc độ tính bằng mili-giây, có tính ẩn danh cao và dễ dàng xóa bỏ dấu vết trên biên giới số. Mô hình quản lý nhà nước đơn chủ thể kiểu cũ — vốn phụ thuộc hoàn toàn vào các cơ quan hành chính nhà nước thực thi từ trên xuống thông qua thanh tra, kiểm tra trực tiếp — đã chứng minh sự bất lực trước không gian số mở. Để giải quyết triệt để điểm nghẽn thể chế này, việc chuyển dịch sang cách tiếp cận quản trị đa chủ thể (multi-stakeholder governance) là một tất yếu khách quan, nhằm chia sẻ gánh nặng thực thi pháp lý và tối ưu hóa năng lực giám sát theo thời gian thực.
+2. CƠ SỞ LÝ LUẬN VỀ QUẢN TRỊ ĐA CHỦ THỂ TRONG THỰC THI SHTT SỐ
+Quản trị đa chủ thể trong không gian số là một phương thức điều hợp thể chế hiện đại, dịch chuyển trọng tâm từ 'Chính phủ' (Government - điều tiết bằng quyền lực công và mệnh lệnh hành chính đơn phương) sang 'Quản trị' (Governance - phối hợp điều phối đa bên thông qua các cơ chế thỏa thuận và mạng lưới). Trong môi trường số, hệ thống thực thi SHTT hoạt động hiệu quả khi và chỉ khi thiết lập được sự cộng tác chặt chẽ của các nhóm chủ thể chính:
+•  Cơ quan quản lý Nhà nước: Giữ vai trò kiến tạo thể chế, giám sát tối cao, định hình chính sách và thực thi tài phán judicial khi có tranh chấp lớn.
+•  Nhà mạng trung gian (ISP) và doanh nghiệp nền tảng (Platforms): Đóng vai trò là 'gác cổng kỹ thuật', sở hữu hạ tầng truyền dẫn dữ liệu, có khả năng lọc, ngăn chặn và dỡ bỏ các nội dung vi phạm ngay lập tức trên không gian mạng.
+•  Chủ thể quyền và Doanh nghiệp ĐMST: Trực tiếp tạo ra tài sản trí tuệ, là bên giám sát trực tiếp các vi phạm và có động lực kinh tế mạnh mẽ nhất để tự vệ vệ tài sản của mình.
+•  Giới học thuật và Viện nghiên cứu: Đóng vai trò hạt nhân R&D, chuyển giao tri thức và phát triển các giải pháp công nghệ hỗ trợ quản trị SHTT.
+Cách tiếp cận này được cụ thể hóa bằng mô hình liên kết 'Ba nhà' (Triple Helix) điều chỉnh cho môi trường số, trong đó mối quan hệ tương hỗ giữa Nhà nước - Nhà khoa học (Trường Đại học) - Doanh nghiệp công nghệ số được thiết lập chặt chẽ. Mục tiêu cốt lõi của quản trị đa chủ thể là đạt được trạng thái 'Cân bằng lợi ích' (Balance of Interests). Một hệ thống SHTT số tối ưu không nên bảo hộ quyền tài sản số một cách cực đoan gây nghẹt thở cho đổi mới sáng tạo, mà phải vừa đảm bảo quyền lợi tài chính xứng đáng cho tác giả, vừa thúc đẩy đổi mới sáng tạo mở, chia sẻ dữ liệu chung, và phổ biến kiến thức thông qua mã nguồn mở để làm giàu cho tài nguyên số quốc gia.
+3. THỰC TRẠNG QUẢN LÝ NHÀ NƯỚC VỀ THỰC THI QUYỀN SHTT SỐ TẠI VIỆT NAM
+3.1. Sự bùng nổ của quy mô Kinh tế số và hạ tầng trực tuyến
+Kinh tế số Việt Nam đã ghi nhận tốc độ bứt phá ngoạn mục, nhanh nhất Đông Nam Á trong những năm qua. Quy mô tổng giá trị hàng hóa kinh tế số (GMV) tăng trưởng liên tục từ 21 tỷ USD năm 2021 lên tới 34 tỷ USD năm 2024 và dự kiến bứt phá đạt mốc 43 tỷ USD vào năm 2025. Tỷ lệ đóng góp của kinh tế số vào GDP quốc gia đã gia tăng nhanh chóng từ mức 11,9% năm 2021 lên tới 18,3% năm 2024, đang tiến rất sát mục tiêu chiến lược 20% đóng góp GDP vào năm 2025.
+Hạ tầng kết nối trực tuyến ghi nhận tỷ lệ thâm nhập Internet đạt mốc ấn tượng 79,1% dân số vào năm 2023. Thị trường thương mại điện tử trực tuyến bùng nổ mạnh mẽ, hiện chiếm trên 60% tổng quy mô kinh tế số Việt Nam, với sự trỗi dậy của các hình thức mua sắm mới như Live Streaming (chiếm tới 77% thị phần tương tác mua sắm trực tuyến, vượt trội so với mức trung bình 40% của khu vực Đông Nam Á). Không gian mạng khổng lồ này, với sự hiện diện của hàng trăm mạng xã hội lớn nhỏ (như Facebook với hơn 58 triệu người dùng tại Việt Nam, xếp thứ 7 thế giới), chính là môi trường phát sinh các hành vi xâm phạm bản quyền trực tuyến tinh vi và đa dạng nhất hiện nay.
+Để minh họa trực quan sự phát triển bối cảnh vĩ mô này, nghiên cứu tổng hợp và đối sánh số liệu liên năm tại Bảng 1:
+Chỉ số bối cảnh vĩ mô
+Năm 2021
+Năm 2022
+Năm 2023
+Năm 2024
+Năm 2025 (Dự báo)
+Quy mô Kinh tế số (GMV) (Tỷ USD)
+21
+23
+30
+34
+43
+Đóng góp của Kinh tế số vào GDP (%)
+11,9%
+14,3%
+16,5%
+18,3%
+20,0%
+Tỷ lệ thâm nhập Internet (% dân số)
+70,0%
+73,3%
+79,1%
+—
+80,0%
+Thời gian online trung bình (Giờ/ngày)
+—
+7h 00m
+6h 18m
+—
+—
+Số doanh nghiệp công nghệ số (Doanh nghiệp)
+—
+—
+45.500+
+—
+50.000+
+3.2. Dịch chuyển cấu trúc tài sản trí tuệ sang công nghệ chuyên sâu
+Bản chất tài sản trí tuệ tại Việt Nam đang dịch chuyển mạnh mẽ từ các sáng chế cơ khí vật lý truyền thống sang các tài sản số vô hình có giá trị thương mại cực lớn như phần mềm, mã nguồn, cơ sở dữ liệu lớn và thuật toán Trí tuệ Nhân tạo (AI). Ngành công nghiệp phần mềm Việt Nam đã tăng trưởng doanh thu liên tục từ 2,6 tỷ USD lên 4,3 tỷ USD với hơn 9.500 doanh nghiệp hoạt động chuyên sâu, cùng với doanh thu nội dung số đạt xấp xỉ 0,9 tỷ USD.
+Đặc biệt, làn sóng đầu tư vào Trí tuệ Nhân tạo (AI) đã ghi nhận sự bùng nổ mạnh mẽ nhất. Dòng vốn đầu tư mạo hiểm giải ngân vào các startup AI tại Việt Nam đã tăng vọt từ 10 triệu USD năm 2023 lên 80 triệu USD năm 2024 và chạm mốc kỷ lục 130 triệu USD vào năm 2025 (tốc độ tăng trưởng gấp 13 lần chỉ sau hai năm). Việt Nam đã vươn lên đứng thứ 2 tại Đông Nam Á về cả số lượng startup AI tạo sinh (GenAI) khi chiếm tới 27% tổng số startup GenAI của toàn khu vực, với số vốn đầu tư mạo hiểm AI lũy kế đạt 780 triệu USD tính đến năm 2024. Sự bùng nổ của các đối tượng SHTT số mới này đặt hệ thống thực thi pháp luật vào tình thế lúng túng khi chưa có hướng dẫn rõ ràng về việc bảo hộ bản quyền cho các tác phẩm do AI tự tạo ra hoặc kiểm soát dữ liệu nạp để huấn luyện mô hình ngôn ngữ lớn (LLMs).
+Sự phục hồi của dòng vốn đầu tư mạo hiểm (VC) và cổ phần tư nhân (PE) đổ vào công nghệ cao được tổng hợp cụ thể tại Bảng 2:
+Dòng vốn công nghệ
+Năm 2021
+Năm 2022
+Năm 2023
+Năm 2024
+Năm 2025
+Vốn Đầu tư Mạo hiểm (VC) (Triệu USD)
+1.442
+634
+529
+398
+509
+Số lượng thương vụ đầu tư (VC)
+165
+134
+122
+118
+103
+Số nhà đầu tư mạo hiểm hoạt động
+173
+137
+99
+147
+119
+Vốn Cổ phần Tư nhân (PE) (Triệu USD)
+—
+—
+—
+1.856
+3.962
+Số lượng thương vụ PE
+—
+—
+—
+23
+46
+Chi tiết dòng vốn giải ngân phân khúc công nghệ chuyên sâu nhạy cảm về SHTT trực tuyến được mô tả tại Bảng 3:
+Phân khúc công nghệ số
+Năm 2023
+Năm 2024
+Năm 2025
+Tốc độ tăng trưởng
+Trí tuệ nhân tạo (AI) (Triệu USD)
+10
+80
+130
+Tăng gấp 13 lần
+Số lượng thương vụ AI (Thương vụ)
+12
+13
+23
+Tăng gần 2 lần
+Công nghệ Khí hậu (Climate Tech) (Triệu USD)
+25
+23
+35
+Tăng 52% (so năm 2024)
+Số lượng thương vụ Climate Tech
+4
+10
+7
+—
+3.3. Các khoảng trống thể chế và điểm nghẽn thực thi
+Mặc dù thị trường công nghệ số tăng trưởng phi mã, mô hình quản lý đơn chủ thể hành chính hiện tại của Việt Nam đang bộc lộ những lỗ hổng thể chế nghiêm trọng, gây ảnh hưởng trực tiếp đến niềm tin pháp lý của các nhà đầu tư:
+•  Sự suy giảm nguồn lực công nghệ của Nhà nước: Đầu tư ngân sách nhà nước cho lĩnh vực khoa học và công nghệ còn rất thấp và có xu hướng giảm liên tục, từ mức 1% tổng ngân sách năm 2005 xuống chỉ còn 0,8% vào năm 2017. Sự thiếu hụt nguồn lực công này khiến các cơ quan quản lý thiếu công cụ công nghệ chuyên dụng để giám sát, quét vi phạm trực tuyến theo thời gian thực.
+•  Sự phân mảnh bộ máy quản lý số: Việc quản lý nhà nước về kinh tế số và thực thi quyền tác giả trực tuyến bị xé lẻ ở nhiều đầu mối. Bộ Thông tin và Truyền thông quản lý viễn thông; Bộ Khoa học và Công nghệ quản lý R&D và sở hữu công nghiệp; Bộ Văn hóa, Thể thao và Du lịch quản lý quyền tác giả và quyền liên quan; Bộ Công Thương điều tiết thương mại điện tử. Sự thiếu vắng một cơ quan điều phối tối cao dẫn tới hiện tượng chồng chéo quyền lực hoặc đùn đẩy trách nhiệm khi xảy ra vi phạm đa ngành.
+•  Điểm nghẽn rào cản IPO của doanh nghiệp ĐMST: Việc thiếu niềm tin vào hệ thống bảo vệ SHTT trong nước, kết hợp với các rào cản thể chế chứng khoán nghiêm ngặt, đã dẫn tới thực trạng báo động: Trong suốt giai đoạn 5 năm (2021 – 2025), Việt Nam ghi nhận 0 thương vụ doanh nghiệp công nghệ nhận vốn đầu tư mạo hiểm (VC/PE) thực hiện được IPO thành công tại thị trường chứng khoán nội địa. Đây là một tổn thất nghiêm trọng cản trở quá trình thoái vốn và làm giảm sức hút dòng vốn ngoại của quốc gia.
+•  Áp lực thực thi EVFTA và xung đột pháp lý về vai trò của ISP: Hiệp định EVFTA đặt ra tiêu chuẩn bảo hộ SHTT cực cao, đòi hỏi Việt Nam phải sửa đổi quy định về trách nhiệm pháp lý của nhà mạng trung gian (ISP). Cấu trúc pháp luật hiện hành của Việt Nam (tiêu biểu là Thông tư liên tịch số 07/2012) chủ yếu tiếp cận theo hướng chỉ ra các tình huống ISP 'phải chịu trách nhiệm' liên đới khi người dùng vi phạm. Ngược lại, EVFTA yêu cầu xây dựng cơ chế 'Giới hạn trách nhiệm pháp lý' (Safe Harbor) nhằm bảo vệ các doanh nghiệp ISP lành mạnh, đồng thời xác lập quy trình xử lý vi phạm khoa học. Sự chậm trễ hài hòa hóa luật pháp này đang kìm hãm sự phát triển của các doanh nghiệp hạ tầng số nội địa.
+4. ĐỀ XUẤT CHUYỂN ĐỔI MÔ HÌNH QUẢN LÝ QUAN HỆ SHTT TIẾP CẬN ĐA CHỦ THỂ
+Nhằm tháo gỡ triệt để các rào cản trên và tận dụng tối đa nguồn lực xã hội, mô hình quản lý nhà nước về thực thi quyền SHTT trên môi trường trực tuyến tại Việt Nam cần thực hiện chuyển đổi căn bản sang mô hình quản trị phối hợp đa chủ thể dựa trên ba giải pháp đột phá đột phá sau:
+4.1. Thiết lập cơ chế 'Notice and Take-down' tự động hóa trên nền tảng Blockchain
+Thay vì quy trình báo cáo và xử lý thủ công kéo dài hàng tháng qua các văn bản hành chính giấy, Nhà nước cần đứng ra chủ trì xây dựng một nền tảng cơ sở dữ liệu SHTT số quốc gia ứng dụng công nghệ Blockchain. Công nghệ này hoạt động như một sổ cái phi tập trung, cho phép mã hóa và ghi nhận quyền sở hữu tác phẩm số của các tác giả ngay khi được tạo ra với tính minh bạch cao và không thể thay đổi thông tin.
+Hệ thống sẽ kết nối trực tiếp trực tuyến giữa: Cơ quan quản lý (Cục Bản quyền tác giả, Cục SHTT) - Doanh nghiệp nền tảng/ISP - và Chủ sở hữu quyền. Khi chủ sở hữu quyền phát hiện hành vi xâm phạm, họ có thể gửi yêu cầu gỡ bỏ (Notice) đã được ký số hợp pháp qua hệ thống. Hệ thống Blockchain sẽ tự động xác minh quyền sở hữu, gửi lệnh trực tiếp đến máy chủ của ISP để tạm khóa hoặc dỡ bỏ nội dung vi phạm (Take-down) chỉ trong vòng vài giây, đồng thời gửi báo cáo số hóa về cơ quan quản lý nhà nước để lưu hồ sơ xử lý hành chính nếu cần thiết. Cơ chế này vừa tối ưu hóa tốc độ thực thi, vừa giải phóng áp lực nguồn lực hành chính của Nhà nước.
+4.2. Xây dựng Khung thể chế thử nghiệm (Sandbox) và hỗ trợ IPO cho doanh nghiệp số
+Nhà nước cần khẩn trương ban hành các khung thể chế thử nghiệm (regulatory sandbox) riêng biệt cho mảng SHTT công nghệ số. Sandbox này cho phép các doanh nghiệp khởi nghiệp ĐMST thử nghiệm các công nghệ mới nổi, mô hình kinh doanh số, và các cơ chế chia sẻ tài sản trí tuệ đặc thù trong môi trường có sự giám sát của cơ quan quản lý trước khi chính thức ban hành luật. Điều này giúp gỡ bỏ rào cản pháp lý ban đầu cho các startup AI, dữ liệu số và công nghệ chuỗi khối.
+Đồng thời, cần phối hợp liên ngành giữa Bộ KH&CN, Bộ Tài chính và Ủy ban Chứng khoán Nhà nước để thiết kế một 'Sàn chứng khoán Đổi mới sáng tạo' riêng biệt (học hỏi kinh nghiệm từ mô hình Acceleration Board của Indonesia hay LiveX của Thái Lan) với các tiêu chuẩn niêm yết linh hoạt hơn về lợi nhuận, nhưng thắt chặt tiêu chuẩn minh bạch thông tin và kiểm toán giá trị tài sản trí tuệ số. Cơ chế này sẽ khơi thông 'khoảng trống' thoái vốn 5 năm qua, tạo bàn đạp vững chắc để doanh nghiệp ĐMST thực hiện IPO thành công ngay tại thị trường nội địa.
+4.3. Cải cách chính sách mua sắm công và mô hình giữ lại SHTT tư nhân
+Trong các dự án mua sắm công về công nghệ thông tin, chính phủ điện tử và đô thị thông minh, Nhà nước cần tiên phong thay đổi chính sách sở hữu. Thay vì Nhà nước giữ độc quyền toàn bộ quyền SHTT đối với các phần mềm được đặt hàng, chính sách mới nên cho phép doanh nghiệp công nghệ số tư nhân tham gia phát triển được giữ lại quyền sở hữu trí tuệ đối với sản phẩm số đó để tiếp tục thương mại hóa ra thị trường rộng lớn.
+Nhà nước chỉ giữ quyền sử dụng không độc quyền phục vụ mục đích quản lý hành chính công. Mô hình hợp tác này giúp cắt giảm tối đa chi phí mua sắm công ban đầu cho ngân sách, đồng thời tạo ra động lực tài chính cực lớn thúc đẩy các doanh nghiệp tư nhân liên tục R&D nâng cấp sản phẩm, tạo ra các tài sản trí tuệ Make-in-Vietnam vững chắc có năng lực cạnh tranh quốc tế.
+5. KẾT LUẬN
+Chuyển đổi mô hình quản lý nhà nước về thực thi quyền SHTT trên nền tảng số không chỉ đơn thuần là việc sửa đổi hay bổ sung vài điều khoản luật pháp, mà là một cuộc cách mạng sâu sắc về tư duy thể chế: Chuyển dịch mạnh mẽ từ tư duy 'kiểm soát đơn chủ thể bằng quyền lực hành chính trực tiếp' sang 'điều phối đa chủ thể dựa trên hạ tầng công nghệ số'. Khi thiết lập được một mô hình quản trị SHTT đa bên cởi mở, minh bạch và kết nối theo thời gian thực nhờ công nghệ chuỗi khối, Việt Nam sẽ xây dựng được một nền tảng pháp lý an toàn, tin cậy cao. Thể chế vững mạnh đó sẽ là đòn bẩy chiến lược đưa đất nước bứt phá thành một trung tâm đổi mới sáng tạo phát triển thịnh vượng trong kỷ nguyên số.
+TÀI LIỆU THAM KHẢO
+1. Bộ Thông tin và Truyền thông Việt Nam (2023). Sách trắng Công nghệ thông tin và Truyền thông Việt Nam. Hà Nội.
+2. Cameron, A., Phạm, T. H., Atherton, J., Nguyễn, D. H., Nguyễn, T. P., Trần, S. T., Nguyễn, T. N., Trịnh, H. Y. & Hajkowicz, S. (2019). Tương lai nền kinh tế số Việt Nam – Hướng tới năm 2030 và 2045. CSIRO, Brisbane.
+3. Hiệp định Thương mại tự do giữa Việt Nam và Liên minh Châu Âu (EVFTA) (2020). Chương về Quyền Sở hữu trí tuệ.
+4. Trung tâm Đổi mới sáng tạo Quốc gia (NIC) & Hội Đầu tư Tư nhân Việt Nam (VPCA) (2025). Báo cáo Đổi mới sáng tạo và Đầu tư vốn tư nhân Việt Nam 2025. Hà Nội.
+5. Trung tâm Đổi mới sáng tạo Quốc gia (NIC) & Cơ quan Hợp tác Quốc tế Nhật Bản (JICA) (2024). Nền kinh tế AI của Việt Nam: Cơ hội bứt phá và định hướng chiến lược phát triển. Hà Nội.
+6. Trung tâm Đổi mới sáng tạo Quốc gia (NIC) & Do Ventures (2021). Báo cáo Đổi mới sáng tạo và Đầu tư Công nghệ Việt Nam 2021. Hà Nội.

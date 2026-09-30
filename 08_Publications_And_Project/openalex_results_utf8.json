@@ -1,0 +1,106 @@
+﻿{
+  "meta": {
+    "count": 9230,
+    "db_response_time_ms": 52,
+    "page": 1,
+    "per_page": 10,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where full text has (authorship accountability generative AI)\nreturn id, title, year, citation count, DOI",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "default.search",
+            "value": "authorship accountability generative AI",
+            "operator": "has"
+          }
+        ],
+        "select": [
+          "id",
+          "title",
+          "publication_year",
+          "cited_by_count",
+          "doi"
+        ],
+        "per_page": 10,
+        "page": 1
+      },
+      "url": "/works?filter=default.search:authorship accountability generative AI&select=id,title,publication_year,cited_by_count,doi&per_page=10&page=1"
+    },
+    "cost_usd": 0.001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4360620450",
+      "title": "Opinion Paper: \u201cSo what if ChatGPT wrote it?\u201d Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy",
+      "publication_year": 2023,
+      "cited_by_count": 3702,
+      "doi": "https://doi.org/10.1016/j.ijinfomgt.2023.102642"
+    },
+    {
+      "id": "https://openalex.org/W4360980141",
+      "title": "Examining Science Education in ChatGPT: An Exploratory Study of Generative Artificial Intelligence",
+      "publication_year": 2023,
+      "cited_by_count": 1138,
+      "doi": "https://doi.org/10.1007/s10956-023-10039-y"
+    },
+    {
+      "id": "https://openalex.org/W4313678819",
+      "title": "Collaborating With ChatGPT: Considering the Implications of Generative Artificial Intelligence for Journalism and Media Education",
+      "publication_year": 2023,
+      "cited_by_count": 915,
+      "doi": "https://doi.org/10.1177/10776958221149577"
+    },
+    {
+      "id": "https://openalex.org/W4295951577",
+      "title": "Multimodal biomedical AI",
+      "publication_year": 2022,
+      "cited_by_count": 1111,
+      "doi": "https://doi.org/10.1038/s41591-022-01981-2"
+    },
+    {
+      "id": "https://openalex.org/W4383913712",
+      "title": "Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT",
+      "publication_year": 2023,
+      "cited_by_count": 760,
+      "doi": "https://doi.org/10.1111/1748-8583.12524"
+    },
+    {
+      "id": "https://openalex.org/W4390315357",
+      "title": "The Robots Are Here: Navigating the Generative AI Revolution in Computing Education",
+      "publication_year": 2023,
+      "cited_by_count": 313,
+      "doi": "https://doi.org/10.1145/3623762.3633499"
+    },
+    {
+      "id": "https://openalex.org/W4394857110",
+      "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+      "publication_year": 2024,
+      "cited_by_count": 2137,
+      "doi": "https://doi.org/10.1136/bmj-2023-078378"
+    },
+    {
+      "id": "https://openalex.org/W4386580390",
+      "title": "The ethics of ChatGPT \u2013 Exploring the ethical issues of an emerging technology",
+      "publication_year": 2023,
+      "cited_by_count": 431,
+      "doi": "https://doi.org/10.1016/j.ijinfomgt.2023.102700"
+    },
+    {
+      "id": "https://openalex.org/W4401509761",
+      "title": "Ethical Challenges and Solutions of Generative AI: An Interdisciplinary Perspective",
+      "publication_year": 2024,
+      "cited_by_count": 237,
+      "doi": "https://doi.org/10.3390/informatics11030058"
+    },
+    {
+      "id": "https://openalex.org/W4395483946",
+      "title": "Generative AI and the future of higher education: a threat to academic integrity or reformation? Evidence from multicultural perspectives",
+      "publication_year": 2024,
+      "cited_by_count": 397,
+      "doi": "https://doi.org/10.1186/s41239-024-00453-6"
+    }
+  ],
+  "group_by": []
+}

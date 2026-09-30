@@ -1,0 +1,124 @@
+// JavaScript Document
+
+// ##############################################################################################################
+// 2010.9.7 작성자 : 김호경
+// 영문페이지 메인뉴스 탭 변경 스크립트
+// ##############################################################################################################
+function tabNews(tnewsNumber) {
+	//alert(abc);
+	var tnewsNumber;
+	var tnewsTextNumber;
+	var tnewsImgNumber;
+
+	tabNewsClear();
+	tnewsTextNumber = "TAB_NEWS" + tnewsNumber;
+	tnewsImgNumber = "NWT" + tnewsNumber;
+//	document.getElementById(tnewsTextNumber).style.display = 'inline';
+		document.getElementById(tnewsImgNumber).src = "/wcom/en/img/m_n_tab_" + tnewsNumber + "_on.png";
+		document.getElementById(tnewsTextNumber).style.display = 'inline';
+}
+function tabNewsClear() {
+	for (var count=1; count<4; count++) {
+		document.getElementById("TAB_NEWS" + count).style.display = 'none';
+		document.getElementById("NWT" + count).src = '/wcom/en/img/m_n_tab_' + count + '_off.png';
+	}
+}
+// ##############################################################################################################
+
+// **************************************************************************************************************
+// 2010.9.7 작성자 : 김호경
+// 영문페이지 메인이미지 자동 롤링 스크립트
+/* **************************************************************************************************************
+var urlArray = new Array(3); // 이미지를 클릭했을때 옮겨질 주소. 배너의 갯수만큼 지정하세요
+var imgArray = new Array(3); // 이미지의 갯수
+var counter = 1;
+var url ="#"; //초기 URL
+
+//각 배너에 대한 링크를 설정 하세요
+urlArray[0] ="#";
+urlArray[1] ="#";
+urlArray[2] ="#";
+
+if(document.images) // 메인 이미지 프리로딩
+{
+  for(i = 0; i < 3; i++)
+  {
+    imgArray[i] = new Image(305, 430);
+    imgArray[i].src = "/wcom/en/img/main_img_" + (i+1) + ".jpg";
+  }
+}
+
+function changeImage() // 배너 로테이트 함수
+{
+  if(counter > 2)
+   counter = 0;
+
+  document.mainIMG.src = imgArray[counter].src; // 새 이미지 이미지 생성
+
+  url = urlArray[counter]; // 새 이미지에 URL 설정
+  counter++; 
+}
+
+var timer = window.setInterval("changeImage()", 9000); // 9초마다 이미지바꾸기
+*/
+// **************************************************************************************************************
+
+
+// 검색결과 화면 검색바 div 샐랙트 펼치기 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
+function searchSelectOpen(option, selected) {
+	var selectDisplay = document.getElementById(option).style.display;
+
+	if(selectDisplay == "none"){
+		document.getElementById(option).style.display = "";
+		document.getElementById(selected).className = "st";
+	} else {
+		searchSelectClose(option, selected);
+	}
+}
+
+// div 샐랙트 닫기
+function searchSelectClose(option, selected) {
+	document.getElementById(option).style.display = "none";
+	document.getElementById(selected).className = selected;
+}
+
+// 검색 div 클릭
+function cell_location(str, str2) {
+	document.getElementById('sc_select').style.display = "none";
+	document.getElementById('textSearch').className = "";
+	document.getElementById('in_cell').innerHTML = str2;
+}
+
+
+// 사이트내 검색 결과 탭
+function resultTab(st1) {
+	var st1;
+	var tabNumber = "TAB" + st1;
+	resultTabClear();
+	document.getElementById(tabNumber).className = "on";
+	if (document.getElementById("TAB0").className != "on") {
+		resultTabTextAll();
+	} else {
+		for (var count=1; count<5; count++) {
+			document.getElementById("RESULT" + count).style.display = 'inline';
+		}
+	}
+}
+
+function resultTabClear() {
+	for (var count=0; count<4; count++) {
+		if(document.getElementById("TAB"+count).className == "on") {
+			document.getElementById("TAB"+count).className = 'off';
+		}
+	}
+}
+
+function resultTabTextAll() {
+	for (var count=1; count<5; count++) {
+		if (document.getElementById("TAB"+count).className != "on") {
+			document.getElementById("RESULT" + count).style.display = 'none';
+		} else {
+			document.getElementById("RESULT" + count).style.display = 'inline';
+		}
+	}
+}

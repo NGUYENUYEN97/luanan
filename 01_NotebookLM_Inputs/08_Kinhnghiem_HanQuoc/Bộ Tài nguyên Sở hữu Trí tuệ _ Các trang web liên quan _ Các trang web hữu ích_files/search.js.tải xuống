@@ -1,0 +1,166 @@
+/*******************************************************************************
+ * Title :
+ * 2009.09.04 ITSM  6367
+ ******************************************************************************/
+function jsGoSearch(isFormSubmit,searchSelect) {
+  if(searchSelect == '1'){
+	  var searchForm = document.getElementById("searchForm");
+      var queryText = searchForm.queryText.value;
+      if (queryText == "") {
+          var msg = "";
+          msg += "===============================\r";
+          msg += "   Enter the keyword to search for!   \r";
+          msg += "===============================\r";
+          alert(msg);
+          searchForm.queryText.focus();
+          if( isFormSubmit ) return false;
+      }else{
+          searchForm.queryText.value = RemoveBad(queryText);
+          if( isFormSubmit ){
+             return true;
+          } else{
+             searchForm.submit();
+          }
+      }
+  }else if(searchSelect == '2'){
+	  var kiprisForm = document.getElementById("kiprisForm");
+      var Query = kiprisForm.Query.value;
+      if (Query == "") {
+        var msg = "";
+        msg += "===============================\r";
+        msg += "   Enter the keyword to search for!   \r";
+        msg += "===============================\r";
+        alert(msg);
+        kiprisForm.Query.focus();
+        if( isFormSubmit ) return false;
+      }else{
+        kiprisForm.Query.value = RemoveBad(Query);
+        if( isFormSubmit ) {
+          return true;
+        } else {
+          kiprisOpenWindow();
+          kiprisForm.target = "kiprisSearch";
+          kiprisForm.submit();
+        }
+      }
+  }
+}
+
+function jsGoSearchMobile(isFormSubmit,searchSelect) {
+    if(searchSelect == '1'){
+  	  var searchForm = document.getElementById("searchFormMobile");
+        var queryText = searchForm.queryText.value;
+       // alert("---"+searchForm.queryText.value);
+        if (queryText == "") {
+            var msg = "";
+            msg += "===============================\r";
+            msg += "   Enter the keyword to search for!   \r";
+            msg += "===============================\r";
+            alert(msg);
+            searchForm.queryText.focus();
+            if( isFormSubmit ) return false;
+        }else{
+            searchForm.queryText.value = RemoveBad(queryText);
+            if( isFormSubmit ){
+               return true;
+            } else{
+               searchForm.submit();
+            }
+        }
+    }else if(searchSelect == '2'){
+  	  var kiprisForm = document.getElementById("kiprisForm");
+        var Query = kiprisForm.Query.value;
+        if (Query == "") {
+          var msg = "";
+          msg += "===============================\r";
+          msg += "   Enter the keyword to search for!   \r";
+          msg += "===============================\r";
+          alert(msg);
+          kiprisForm.Query.focus();
+          if( isFormSubmit ) return false;
+        }else{
+          kiprisForm.Query.value = RemoveBad(Query);
+          if( isFormSubmit ) {
+            return true;
+          } else {
+            kiprisOpenWindow();
+            kiprisForm.target = "kiprisSearch";
+            kiprisForm.submit();
+          }
+        }
+    }
+  }
+function SearchGo(sr_que) {
+
+	//var objSetForm = eval("document." + sr_que);
+	var objSetForm = document.getElementById(sr_que);
+	var xsr_que = objSetForm.queryText.value;
+
+  if(xsr_que.length > 0){  //Ư���� f��
+   xsr_que= RemoveBad(xsr_que);
+   objSetForm.queryText.value = xsr_que;
+  }
+
+	if (xsr_que.replace(/^\s\s*/, '').replace(/\s\s*$/, '') == "") {
+  		alert("Enter the keyword to search for!");
+	   	objSetForm.queryText.value = "";
+	  	objSetForm.queryText.focus();
+		return ;
+	}
+
+	if (objSetForm.reSearch.checked == true)  {
+		objSetForm.queryText.value = objSetForm.preQueryText.value + "!" + objSetForm.queryText.value;
+	}else{
+	  objSetForm.preQueryText.value = objSetForm.queryText.value;
+	}
+  menuType = objSetForm.menuType.value;
+
+  objSetForm.action = "/kpo/en/search/search_result.jsp";
+
+  objSetForm.docStart.value = 1;
+  objSetForm.checkKey.value = "Y";
+  objSetForm.submit();
+}
+
+
+function GotoPage(form, docStart){
+	form.docStart.value = docStart * form.docPage.value + 1;
+	form.checkKey.value ="N";
+	form.submit();
+	return;
+}
+
+function hasRadio(input) {
+    var rtn = 0;
+    if (input.length > 1) {
+        for (var inx = 0; inx < input.length; inx++) {
+            if (input[inx].checked) return rtn = inx;
+        }
+    } else {
+        if (input.checked) return rtn;
+    }
+    return rtn;
+}
+
+function OpenPage(u){
+    	var iMyWidth = 920;
+    	var iMyHeight = 600;
+     	var locationX = 0;
+     	var locationY = 0;
+     	var Url =u;
+    	var WinName = "Search";
+        	centerOptions = "left=" + locationX + ",top=" + locationY + ",screenX=" + locationX + ",screenY=" + locationY + ",width=" + iMyWidth + ",height=" + iMyHeight +", scrollbars=yes, resizable=yes";
+      window.open(Url, WinName, centerOptions);
+}
+
+function RemoveBad(InStr){
+ InStr = InStr.replace(/\</g,"");
+ InStr = InStr.replace(/\>/g,"");
+ InStr = InStr.replace(/\"/g,"");
+ InStr = InStr.replace(/\'/g,"");
+ InStr = InStr.replace(/\*/g,"");
+ InStr = InStr.replace(/\?/g,"");
+
+ return InStr;
+}
+

@@ -1,0 +1,60 @@
+/**
+ * Copyright (c) 2000-present Liferay, Inc. All rights reserved.
+ *
+ * This library is free software; you can redistribute it and/or modify it under
+ * the terms of the GNU Lesser General Public License as published by the Free
+ * Software Foundation; either version 2.1 of the License, or (at your option)
+ * any later version.
+ *
+ * This library is distributed in the hope that it will be useful, but WITHOUT
+ * ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+ * FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more
+ * details.
+ */
+
+$(document).ready(function() {   
+	var langId = Liferay.ThemeDisplay.getLanguageId();
+	var langCode = langId.substring(0, langId.indexOf('_'));
+	var cookieName = "wipo_language";
+	var exdays = 365;
+	var d = new Date();
+	d.setTime(d.getTime() + (exdays*24*60*60*1000));
+	var expires = "expires="+ d.toUTCString();
+	document.cookie = cookieName + "=" + langCode + ";Domain=.wipo.int" + ";path=/";
+	// set wipo-navbar-use-version cookie  
+	/*console.log( "ready!" );
+	function setCookie(cname,cvalue,exdays) {
+		const d = new Date();
+		d.setTime(d.getTime() + (exdays*24*60*60*1000));
+		let expires = "expires=" + d.toUTCString();
+		document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+	}
+	function getCookie(cname) {
+		let name = cname + "=";
+		let decodedCookie = decodeURIComponent(document.cookie);
+		let ca = decodedCookie.split(';');
+		for(let i = 0; i < ca.length; i++) {
+			let c = ca[i];
+			while (c.charAt(0) == ' ') {
+				c = c.substring(1);
+			}
+			if (c.indexOf(name) == 0) {
+				return c.substring(name.length, c.length);
+			}
+		}
+		return "";
+	}
+	function checkCookie() {
+		console.log( "checkCookie!" );
+		let cname = "wipo-navbar-use-version";
+		let version = "4";
+		let cvalue = getCookie(cname);
+		if (cvalue != version) {
+			setCookie(cname, version, 30);
+			console.log( "setCookie!" );
+		}
+	}
+	checkCookie();
+*/
+});
+

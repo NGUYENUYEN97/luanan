@@ -1,0 +1,1419 @@
+/* Default HTML elements style */
+html {
+  font-family: "Noto Sans Display", "IBM Plex Sans Arabic", "Noto Sans SC",
+    "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+
+/* Arabic Font */
+html *:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Sans Display", sans-serif;
+}
+/* Chinese Font */
+html *:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Sans Display", sans-serif;
+}
+/* Japanese Font */
+html *:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Sans Display", sans-serif;
+}
+/* Korean Font */
+html *:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Sans Display", sans-serif;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.lfr-layout-structure-item-wipo-magazine-header img {
+  max-height: 6.5rem;
+  width: unset;
+}
+
+.lfr-layout-structure-item-wipo-magazine-header img:lang(ja-JP),
+.lfr-layout-structure-item-wipo-magazine-header img:lang(pt-PT),
+.lfr-layout-structure-item-wipo-magazine-header img:lang(zh-CN) {
+  max-height: 5rem;
+}
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a {
+  color: #1c1c1c !important;
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+
+/* Arabic Font */
+h1 a:lang(ar-SA),
+h2 a:lang(ar-SA),
+h3 a:lang(ar-SA),
+h4 a:lang(ar-SA),
+h5 a:lang(ar-SA),
+h6 a:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+h1 a:lang(zh-CN),
+h2 a:lang(zh-CN),
+h3 a:lang(zh-CN),
+h4 a:lang(zh-CN),
+h5 a:lang(zh-CN),
+h6 a:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+h1 a:lang(ja-JP),
+h2 a:lang(ja-JP),
+h3 a:lang(ja-JP),
+h4 a:lang(ja-JP),
+h5 a:lang(ja-JP),
+h6 a:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+h1 a:lang(ko-KR),
+h2 a:lang(ko-KR),
+h3 a:lang(ko-KR),
+h4 a:lang(ko-KR),
+h5 a:lang(ko-KR),
+h6 a:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+h1 a:hover,
+h2 a:hover,
+h3 a:hover,
+h4 a:hover,
+h5 a:hover,
+h6 a:hover {
+  color: #0059c6;
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+
+/* Arabic Font */
+h1:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+h1:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+h1:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+h1:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+h2 {
+  font-size: 2rem;
+}
+
+h3 {
+  color: #666666;
+  font-size: 1.75rem;
+}
+
+h4 {
+  font-size: 1.5rem;
+}
+
+a {
+  color: #0065df;
+}
+
+img {
+  border-radius: 0.5rem;
+  max-width: 100%;
+}
+
+img[alt$="pdf"] {
+  background: #0067b8;
+  padding: 3px;
+  max-height: 16px;
+  /* vertical-align:text-bottom; */
+  margin: 0 4px;
+}
+
+img[alt$="pdf"]:hover {
+  background: #314668;
+}
+
+section {
+  padding-top: 3.125rem;
+  margin-bottom: 3.125rem;
+}
+
+section:first-child {
+  margin-bottom: 0;
+}
+
+/* General here */
+p.section-heading {
+  font-size: 1.75rem;
+  font-weight: 500;
+  color: #807f7f;
+}
+
+.body-content {
+  background-color: #fff;
+  background-image: url("https://www.wipo.int/universal-design-system/assets/images/wipo-magazine-m.svg");
+  background-position: top right;
+  background-repeat: no-repeat;
+}
+
+.header-bar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.wipo-logo {
+  margin-top: 20px;
+}
+
+.listing-articles h2 {
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif !important;
+  font-size: 32px !important;
+}
+
+/* Arabic Font */
+.listing-articles h2:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif !important;
+}
+/* Chinese Font */
+.listing-articles h2:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif !important;
+}
+/* Japanese Font */
+.listing-articles h2:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif !important;
+}
+/* Korean Font */
+.listing-articles h2:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif !important;
+}
+
+.listing-articles .horizontal-item {
+  margin-bottom: 2.25rem;
+}
+
+.listing-articles .horizontal-item .col-md-3 img,
+.col-md-3 .thumbnail-card a img {
+  object-fit: cover;
+  border-radius: 0.5rem;
+  height: 10rem;
+}
+
+.col-md-3 .thumbnail-card.cover-img a img {
+  height: 100%;
+  border: 1px solid #e3e3e3;
+}
+
+.col-md-6 .thumbnail-card.events-img a img,
+.col-md-6 .thumbnail-card.events-img img {
+  object-fit: cover;
+  border-radius: 0.5rem;
+  height: 10rem;
+}
+
+.hero-title h2 {
+  font-size: 64px;
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+  margin-top: 32px;
+}
+
+/* Arabic Font */
+.hero-title h2:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+.hero-title h2:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+.hero-title h2:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+.hero-title h2:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+.hero-image-title img {
+  height: 700px;
+}
+
+.hero-image-title h2 {
+  font-size: 64px;
+  font-family: "Noto Serif";
+  position: absolute;
+  bottom: 0;
+}
+
+.author-info {
+  display: flex;
+}
+
+.author-info .date {
+  color: #666666;
+}
+
+.date {
+  color: #666666;
+}
+
+.author-info .author-image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 85px;
+  height: 85px;
+}
+
+.author-info .details {
+  padding: 10px;
+}
+
+.subs-search-box {
+  margin-top: 75px;
+}
+
+.subs-search-box .bi-search {
+  color: #0065df;
+}
+
+.subs-search-box .btn-search {
+  padding: 10px 12px;
+  margin-top: -5px;
+}
+
+.btn-search {
+  color: #0065df;
+  padding: 10px 12px;
+}
+
+.search-box {
+  margin-top: 60px;
+}
+
+.search-box .form-group {
+  display: flex;
+}
+
+.search-box input {
+  font-size: 14px;
+  padding: 5px 10px;
+  height: 32px;
+  margin-right: 10px;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.subs-btn {
+  text-align: right;
+  display: block;
+  margin-top: 10px;
+}
+
+.subs-btn button:hover {
+  background-color: #ff0079;
+  color: #fff;
+}
+
+.navbar-nav {
+  display: contents;
+}
+
+.navbar-collapse .active .nav-link {
+  border-bottom: 3px solid #0059c6;
+}
+
+.navbar-collapse .nav-link {
+  border-bottom: 3px solid transparent;
+}
+
+.navbar-collapse .nav-link:hover {
+  border-bottom: 3px solid #ff0079;
+}
+
+.navbar-nav li .nav-link {
+  padding-top: 0;
+}
+
+.btn {
+  font-size: 17px;
+}
+
+.featured-card h2 {
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+  font-size: 40px;
+  margin-top: 20px;
+  color: #1d1d1f;
+}
+
+/* Arabic Font */
+.featured-card h2:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+.featured-card h2:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+.featured-card h2:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+.featured-card h2:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+.heading-serif {
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+  font-size: 40px;
+  color: #1d1d1f;
+}
+
+/* Arabic Font */
+.heading-serif:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+.heading-serif:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+.heading-serif:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+.heading-serif:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+.thumbnail-card h2 {
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+  color: #1d1d1f;
+  font-size: 32px;
+  margin-bottom: 30px;
+}
+
+.thumbnail-card h3 {
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+  color: #1d1d1f;
+  font-size: 1.75rem;
+  margin-top: 20px;
+}
+
+/* Arabic Font */
+.thumbnail-card h2:lang(ar-SA),
+.thumbnail-card h3:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+.thumbnail-card h2:lang(zh-CN),
+.thumbnail-card h3:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+.thumbnail-card h2:lang(ja-JP),
+.thumbnail-card h3:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+.thumbnail-card h2:lang(ko-KR),
+.thumbnail-card h3:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+.separator {
+  border-bottom: 2px solid #ff0079;
+}
+
+.small-separator {
+  width: 109px;
+  border-bottom: 2px solid #ff0079;
+}
+
+.medium-separator {
+  width: 431px;
+  border-bottom: 2px solid #ff0079;
+}
+
+.separator-with-btn {
+  display: flex;
+}
+
+.separator-with-btn .separator {
+  width: 90%;
+}
+
+.separator-with-btn a button {
+  white-space: nowrap;
+}
+
+.quote-block h5 {
+  font-size: 25px;
+  font-weight: 200;
+  color: #807f7f;
+}
+
+.highlight-quote {
+  margin: 70px 100px;
+  padding-left: 60px;
+  border-left: 1px solid #ff0079;
+}
+
+.highlight-quote h5 {
+  font-size: 35px;
+  font-weight: 200;
+  color: #807f7f;
+}
+
+.right-overlaped-img {
+  background-repeat: no-repeat;
+  height: 550px;
+  background-position-y: bottom;
+  background-position-x: right;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.right-overlaped-img .overlapped-box {
+  background-color: #fff;
+  width: 50%;
+  padding: 20px 20px 20px 0;
+}
+
+.right-overlaped-img .overlapped-box h5 {
+  font-size: 35px;
+  font-weight: 200;
+  color: #ff0079;
+}
+
+.pink-txt {
+  color: #ff0079;
+}
+
+.btn-with-img {
+  height: 100%;
+  width: 282px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.full-width-column-carousel .carousel-description {
+  padding-top: 50px;
+  padding-left: 20px;
+}
+
+.full-width-column-carousel .carousel-img-item {
+  height: 350px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.full-width-column-carousel
+  .control-container
+  .carousel-control-prev
+  .carousel-control-prev-icon {
+  background-image: url("https://www.wipo.int/universal-design-system/assets/images/chevron-back-circle-outline.svg");
+  height: 30px;
+  width: 30px;
+}
+
+.full-width-column-carousel
+  .control-container
+  .carousel-control-next
+  .carousel-control-next-icon {
+  background-image: url("https://www.wipo.int/universal-design-system/assets/images/chevron-forward-circle-outline.svg");
+  height: 30px;
+  width: 30px;
+}
+
+.full-width-column-carousel button {
+  background-color: transparent;
+  border: none;
+}
+
+.full-width-column-carousel .carousel-description h3 {
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+  font-size: 1.75rem;
+  color: #1d1d1f;
+}
+
+/* Arabic Font */
+.full-width-column-carousel .carousel-description h3:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+.full-width-column-carousel .carousel-description h3:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+.full-width-column-carousel .carousel-description h3:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+.full-width-column-carousel .carousel-description h3:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+.control-container {
+  width: 50%;
+  margin-left: auto;
+  position: relative;
+  bottom: 30px;
+}
+
+.control-container .carousel-control-next {
+  right: 53%;
+}
+
+.hero-card .col-md-6 {
+  padding-right: 0;
+}
+
+.hero-card .content-box {
+  background-color: #e4e4e4;
+  padding: 30px;
+  height: 100%;
+}
+
+.hero-card .content-box h3 {
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+  font-size: 1.75rem;
+  color: #1d1d1f;
+}
+
+/* Arabic Font */
+.hero-card .content-box h3:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+.hero-card .content-box h3:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+.hero-card .content-box h3:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+.hero-card .content-box h3:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+.hero-card .hero-img {
+  height: 300px;
+  background-size: cover;
+}
+
+.hero-img {
+  padding: 30px;
+}
+
+.hero-img h3 {
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+  font-size: 1.75rem;
+  color: #fff;
+}
+
+/* Arabic Font */
+.hero-img h3:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+.hero-img h3:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+.hero-img h3:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+.hero-img h3:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+.audio-player {
+  width: 100%;
+}
+
+.btn-save-download button {
+  border: 1px solid #999999;
+  padding-top: 5px;
+  color: #0065df;
+}
+
+.socmed span {
+  padding: 5px 9px;
+  font-size: 18px;
+  margin-left: 2px;
+  margin-right: 2px;
+  color: #0065df;
+}
+
+.thumnail-info-card {
+  margin-top: 50px;
+  padding: 30px;
+  background-color: #faf8f8;
+}
+
+.thumnail-info-card h5 {
+  font-family: "Noto Serif", "Noto Sans Display", "IBM Plex Sans Arabic",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+  font-size: 32px;
+}
+
+/* Arabic Font */
+.thumnail-info-card h5:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+.thumnail-info-card h5:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+.thumnail-info-card h5:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+.thumnail-info-card h5:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+.filter-group {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.filter-group button {
+  border: none;
+}
+
+.container-footer-outer {
+  background-color: #efefef;
+}
+
+.ulf-wipo .table-striped tbody tr:nth-of-type(odd),
+.table-striped tbody tr:nth-of-type(odd) td,
+.table-striped tbody tr:nth-of-type(odd) th {
+  background-color: #f7f7f7;
+}
+
+.”home-quote” {
+  line-height: 2.5rem;
+  font-weight: 300;
+  color: #807f7f;
+}
+
+.embedtool iframe,
+.embedtool object,
+.embedtool embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* New article and legacy here */
+.dpp-article-body div,
+.dpp-article-body-legacy div {
+  font-size: 20px;
+}
+
+.dpp-article-body p,
+.dpp-article-body-legacy p {
+  font-size: 20px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.dpp-article-body ul,
+.dpp-article-body-legacy ul {
+  font-size: 20px;
+  margin-block-start: 1.5rem;
+  margin-block-end: 1.5rem;
+  margin-inline-end: 1.5rem;
+}
+
+.dpp-article-body .lead,
+.dpp-article-body-legacy .lead {
+  font-size: 24px;
+  line-height: 32px;
+}
+.dpp-article-body h2,
+.dpp-article-body-legacy h2 {
+  font-size: 2rem;
+  font-family: "Noto Sans Display", "IBM Plex Sans Arabic", "Noto Sans SC",
+    "Noto Sans JP", "Noto Sans KR", sans-serif;
+  color: #000000;
+  margin-top: 40px;
+  margin-bottom: 24px;
+  font-weight: 500;
+}
+
+.dpp-article-body h3,
+.dpp-article-body-legacy h3 {
+  font-size: 1.75rem;
+  font-family: "Noto Sans Display", "IBM Plex Sans Arabic", "Noto Sans SC",
+    "Noto Sans JP", "Noto Sans KR", sans-serif;
+  color: #000000;
+  margin-top: 40px;
+  margin-bottom: 24px;
+  font-weight: 500;
+}
+
+.dpp-article-body h4,
+.dpp-article-body-legacy h4 {
+  font-size: 1.5rem;
+  font-family: "Noto Sans Display", "IBM Plex Sans Arabic", "Noto Sans SC",
+    "Noto Sans JP", "Noto Sans KR", sans-serif;
+  color: #000000;
+  margin-top: 32px;
+  margin-bottom: 24px;
+  font-weight: 500;
+}
+
+.dpp-article-body h5,
+.dpp-article-body-legacy h5 {
+  font-size: 24px;
+  font-family: "Noto Sans Display", "IBM Plex Sans Arabic", "Noto Sans SC",
+    "Noto Sans JP", "Noto Sans KR", sans-serif;
+  color: #000000;
+  margin-top: 32px;
+  margin-bottom: 24px;
+  font-weight: 500;
+}
+
+.dpp-article-body h6,
+.dpp-article-body-legacy h6 {
+  font-size: 20px;
+  font-family: "Noto Sans Display", "IBM Plex Sans Arabic", "Noto Sans SC",
+    "Noto Sans JP", "Noto Sans KR", sans-serif;
+  color: #333333;
+  margin-top: 32px;
+  font-weight: 700;
+}
+
+/* Arabic Font */
+.dpp-article-body h2:lang(ar-SA),
+.dpp-article-body-legacy h2:lang(ar-SA),
+.dpp-article-body h3:lang(ar-SA),
+.dpp-article-body-legacy h3:lang(ar-SA),
+.dpp-article-body h4:lang(ar-SA),
+.dpp-article-body-legacy h4:lang(ar-SA),
+.dpp-article-body h5:lang(ar-SA),
+.dpp-article-body-legacy h5:lang(ar-SA),
+.dpp-article-body h6:lang(ar-SA),
+.dpp-article-body-legacy h6:lang(ar-SA),
+.dpp-article-body .lead:lang(ar-SA),
+.dpp-article-body-legacy .lead:lang(ar-SA) {
+  font-family: "IBM Plex Sans Arabic", "Noto Serif", "Noto Sans Display",
+    "Noto Sans SC", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Chinese Font */
+.dpp-article-body h2:lang(zh-CN),
+.dpp-article-body-legacy h2:lang(zh-CN),
+.dpp-article-body h3:lang(zh-CN),
+.dpp-article-body-legacy h3:lang(zh-CN),
+.dpp-article-body h4:lang(zh-CN),
+.dpp-article-body-legacy h4:lang(zh-CN),
+.dpp-article-body h5:lang(zh-CN),
+.dpp-article-body-legacy h5:lang(zh-CN),
+.dpp-article-body h6:lang(zh-CN),
+.dpp-article-body-legacy h6:lang(zh-CN),
+.dpp-article-body .lead:lang(zh-CN),
+.dpp-article-body-legacy .lead:lang(zh-CN) {
+  font-family: "Noto Sans SC", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans JP", "Noto Sans KR", sans-serif;
+}
+/* Japanese Font */
+.dpp-article-body h2:lang(ja-JP),
+.dpp-article-body-legacy h2:lang(ja-JP),
+.dpp-article-body h3:lang(ja-JP),
+.dpp-article-body-legacy h3:lang(ja-JP),
+.dpp-article-body h4:lang(ja-JP),
+.dpp-article-body-legacy h4:lang(ja-JP),
+.dpp-article-body h5:lang(ja-JP),
+.dpp-article-body-legacy h5:lang(ja-JP),
+.dpp-article-body h6:lang(ja-JP),
+.dpp-article-body-legacy h6:lang(ja-JP),
+.dpp-article-body .lead:lang(ja-JP),
+.dpp-article-body-legacy .lead:lang(ja-JP) {
+  font-family: "Noto Sans JP", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans KR", sans-serif;
+}
+/* Korean Font */
+.dpp-article-body h2:lang(ko-KR),
+.dpp-article-body-legacy h2:lang(ko-KR),
+.dpp-article-body h3:lang(ko-KR),
+.dpp-article-body-legacy h3:lang(ko-KR),
+.dpp-article-body h4:lang(ko-KR),
+.dpp-article-body-legacy h4:lang(ko-KR),
+.dpp-article-body h5:lang(ko-KR),
+.dpp-article-body-legacy h5:lang(ko-KR),
+.dpp-article-body h6:lang(ko-KR),
+.dpp-article-body-legacy h6:lang(ko-KR),
+.dpp-article-body .lead:lang(ko-KR),
+.dpp-article-body-legacy .lead:lang(ko-KR) {
+  font-family: "Noto Sans KR", "Noto Serif", "Noto Sans Display",
+    "IBM Plex Sans Arabic", "Noto Sans SC", "Noto Sans JP", sans-serif;
+}
+
+.dpp-article-body blockquote,
+.dpp-article-body-legacy blockquote {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.dpp-article-body blockquote small cite,
+.dpp-article-body-legacy blockquote small cite {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.dpp-article-body .media-right,
+.dpp-article-body-legacy .media-right {
+  float: right;
+  margin-block-start: 0;
+  margin-inline-end: 1rem;
+  margin-block-end: 1rem;
+  margin-inline-start: 2rem;
+}
+
+.dpp-article-body .media-left,
+.dpp-article-body-legacy .media-left {
+  float: left;
+  margin-block-start: 0;
+  margin-inline-end: 2rem;
+  margin-block-end: 1rem;
+  margin-inline-start: 0;
+}
+
+.dpp-article-body figure figcaption,
+.dpp-article-body-legacy figure figcaption {
+  margin-top: 16px;
+  font-size: 1rem;
+  color: #8c8e8d;
+}
+
+.dpp-article-body ul,
+.dpp-article-body-legacy ul {
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+}
+
+.dpp-article-body a,
+.dpp-article-body-legacy a {
+  text-decoration: none;
+}
+
+.dpp-article-body small,
+.dpp-article-body-legacy small {
+  font-size: 13px;
+}
+
+.dpp-article-body .media-left,
+.dpp-article-body-legacy .media-left {
+  float: inline-start;
+  margin-block-start: 0;
+  margin-inline-end: 2rem;
+  margin-block-end: 1rem;
+  margin-inline-start: 0;
+}
+
+.dpp-article-body .media-right,
+.dpp-article-body-legacy .media-right {
+  float: inline-end;
+  margin-block-start: 0;
+  margin-inline-end: 0;
+  margin-block-end: 1rem;
+  margin-inline-start: 2rem;
+}
+
+.dpp-article-body-legacy .box,
+.dpp-article-body .box {
+  border-radius: 0.5rem;
+  padding: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+  background-color: #faf8f8;
+  border: 0;
+}
+
+.dpp-article-body-legacy .box ul,
+.dpp-article-body .box ul {
+  padding-inline-start: 1rem;
+}
+
+/*.dpp-article-body-legacy .box ul, .dpp-article-body .box ul, .dpp-article-body-legacy .box p, .dpp-article-body .box p {
+  padding: 0;
+  margin: 0;
+}*/
+
+/* Legacy articles here */
+
+.dpp-article-body-legacy .box h2,
+.dpp-article-body-legacy .box h3,
+.dpp-article-body-legacy .box h2,
+.dpp-article-body-legacy .box h4,
+.dpp-article-body-legacy .box ul,
+.dpp-article-body-legacy .box p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.dpp-article-body .box h2,
+.dpp-article-body .box h3,
+.dpp-article-body .box h2,
+.dpp-article-body .box h4,
+.dpp-article-body .box ul,
+.dpp-article-body .box p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.dpp-article-body-legacy figure {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.dpp-article-body-legacy .media-right figure,
+.dpp-article-body-legacy .media-left figure {
+  margin-top: 0;
+}
+
+.dpp-article-body-legacy figure {
+  position: relative;
+  margin-bottom: 16px;
+}
+
+.dpp-article-body-legacy .embedtool {
+  position: relative;
+  height: 0;
+  padding-top: 56%;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.dpp-article-body-legacy .lead {
+  font-size: 20px;
+}
+
+.dpp-article-body-legacy .secondary {
+  font-size: 13px;
+  color: #8c8e8d;
+}
+
+.dpp-article-body-legacy .cols--two > .col {
+  font-size: 13px;
+  color: #8c8e8d;
+}
+
+.dpp-article-body-legacy .col > :last-child:not(:only-child) {
+  margin-bottom: 0;
+}
+.dpp-article-body-legacy .cols--full > .col {
+  width: 100%;
+}
+.dpp-article-body-legacy .cols--two > .col {
+  width: 50%;
+}
+.dpp-article-body-legacy .cols--three > .col {
+  width: 33.33333%;
+}
+.dpp-article-body-legacy .cols--four > .col {
+  width: 25%;
+}
+.dpp-article-body-legacy .cols--five > .col {
+  width: 20%;
+}
+
+/* New articles here */
+
+/*.dpp-article-body .long-teaser:before {
+      content: "";
+      position: relative;
+  display: block;
+      width: 15%;
+      border-top: 2px solid #FF0079;
+    }*/
+
+.dpp-article-body .long-teaser:after {
+  content: "";
+  position: relative;
+  width: 15%;
+  border-bottom: 2px solid #ff0079;
+  display: block;
+}
+
+.dpp-article-body .feature-paragraph {
+  font-weight: bold;
+}
+
+.dpp-article-body .question {
+  font-weight: bold;
+}
+
+/* Only new for new articles here */
+
+.dpp-article-body ul li p,
+.dpp-article-body li p {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.dpp-article-body blockquote {
+  border-inline-start: 2px solid #ff0079;
+  margin-inline-start: 3rem;
+  padding-inline-start: 3rem;
+  margin-inline-end: -4rem;
+}
+
+.dpp-article-body blockquote p.lead {
+  font-size: 2.5rem;
+  line-height: 3rem;
+  font-weight: 300;
+  color: #807f7f;
+}
+
+.dpp-article-body blockquote p,
+.dpp-article-body blockquote p cite {
+  font-size: 2rem;
+  line-height: 2.5rem;
+  font-weight: 300;
+  color: #807f7f;
+  font-style: normal;
+}
+
+/* Mobile here */
+
+@media only screen and (min-width: 1700px) {
+  .full-width-column-carousel .carousel-inner .carousel-item .next-img {
+    right: -326px !important;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  h1,
+  .featured-card h2 {
+    font-size: 2.25rem;
+  }
+
+  .ulf-wipo figure {
+    margin-bottom: 0.5rem;
+  }
+
+  .full-width-column-carousel .carousel-inner .carousel-item .next-img {
+    display: none;
+  }
+
+  .separator-with-btn .separator {
+    width: 50%;
+  }
+
+  .full-width-column-carousel .carousel-description {
+    padding-top: 20px;
+  }
+
+  .btn-with-img {
+    height: 200px;
+  }
+
+  .hero-card .col-md-6 {
+    padding-right: 12px;
+  }
+
+  .hero-card .content-box {
+    border-radius: 0.5rem;
+  }
+
+  .hero-card .hero-img {
+    display: none;
+  }
+
+  .thumbnail-circle img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .col-md-3 .thumbnail-card {
+    margin-bottom: 3rem;
+  }
+
+  .col-md-6 .thumbnail-card a img {
+    height: 10rem;
+  }
+
+  .listing-articles .horizontal-item .col-md-3 img,
+  .col-md-3 .thumbnail-card a img {
+    margin-bottom: 0.75rem;
+  }
+
+  .thumbnail-circle p {
+    text-align: center;
+  }
+
+  .medium-separator {
+    width: 100%;
+  }
+
+  .socmed {
+    float: left !important;
+    padding-top: 20px;
+    margin-bottom: 2rem;
+    margin-left: -12px;
+  }
+
+  .pr-5 {
+    padding-right: 0 !important;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  .hero-title h2 {
+    font-size: 2rem;
+  }
+
+  .hero-image-title img {
+    height: 400px;
+  }
+
+  .hero-image-title h2 {
+    font-size: 2rem;
+    position: relative;
+    margin-top: 20px;
+  }
+
+  .title {
+    font-size: 55px;
+  }
+
+  .highlight-quote {
+    margin: 40px 15px;
+  }
+
+  .subs-search-box {
+    margin-top: 30px;
+  }
+
+  .search-box {
+    margin-top: 8px;
+  }
+
+  .featured-card {
+    margin-bottom: 3rem;
+  }
+
+  .dpp-article-body blockquote p,
+  .dpp-article-body blockquote p cite {
+    font-size: 1.5rem;
+  }
+
+  .dpp-article-body blockquote {
+    margin-inline-start: 0;
+    padding-inline-start: 1rem;
+    margin-inline-end: 0;
+  }
+
+  .lfr-layout-structure-item-wipo-magazine-homepage section:nth-of-type(2) {
+    padding-top: 0;
+    margin-bottom: 0;
+  }
+
+  section {
+    padding-top: 2.1875rem;
+    margin-bottom: 2.1875rem;
+  }
+
+  .quote-block h3 {
+    margin-bottom: -2rem;
+  }
+
+  .quote-block p {
+    margin-bottom: 2rem;
+  }
+
+  .”home-quote” {
+    line-height: 1rem;
+  }
+}
+
+.link-hover-none {
+  color: #1d1d1f;
+  text-decoration: none;
+}
+
+.link-hover-none:hover {
+  color: #1d1d1f;
+  text-decoration: none;
+}
+
+.filter-sort {
+  border-bottom: 1px solid #969696;
+  padding-bottom: 1rem;
+}
+
+.filter-sort select {
+  background-color: transparent;
+}
+
+@media (min-width: 32em) {
+  .dpp-article-body-legacy .cols--three > .col:first-of-type {
+    padding-right: 16px;
+  }
+  .dpp-article-body-legacy .cols--three > .col:nth-of-type(2) {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  .dpp-article-body-legacy .cols--three > .col:nth-of-type(3) {
+    padding-left: 16px;
+  }
+  .dpp-article-body-legacy .cols--three > .col {
+    width: 100%;
+    padding-right: 0;
+  }
+  .dpp-article-body-legacy .cols--three > .col + .col {
+    margin-top: 32px;
+  }
+  .dpp-article-body-legacy .cols--four > .col {
+    width: 100%;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+  .dpp-article-body-legacy .cols--four > .col + .col {
+    margin-top: 32px;
+  }
+  .dpp-article-body-legacy .cols--five > .col {
+    width: 100%;
+  }
+  .dpp-article-body-legacy .cols--five > .col + .col {
+    margin-top: 32px;
+  }
+}
+
+@media (min-width: 767px) {
+  .dpp-article-body-legacy .cols--two > .col:first-of-type {
+    padding-right: 32px;
+  }
+  .dpp-article-body-legacy .cols--two > .col:last-of-type {
+    padding-left: 32px;
+  }
+  .dpp-article-body-legacy .cols--two > .col {
+    width: 100%;
+    padding-right: 0;
+  }
+  .dpp-article-body-legacy .cols--two > .col + .col {
+    margin-top: 32px;
+  }
+  .dpp-article-body-legacy .cols--four > .col:first-of-type {
+    padding-right: 32px;
+  }
+  .dpp-article-body-legacy .cols--four > .col:nth-of-type(2) {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .dpp-article-body-legacy .cols--four > .col:nth-of-type(3) {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+  .dpp-article-body-legacy .cols--four > .col:nth-of-type(4) {
+    padding-left: 32px;
+  }
+  .dpp-article-body-legacy .cols--four > .col {
+    width: 50%;
+  }
+  .dpp-article-body-legacy .cols--four > .col:first-of-type {
+    padding-right: 16px;
+  }
+  .dpp-article-body-legacy .cols--four > .col:nth-of-type(2) {
+    padding-left: 16px;
+  }
+  .dpp-article-body-legacy .cols--four > .col:nth-of-type(3) {
+    padding-right: 16px;
+    clear: both;
+    margin-top: 32px;
+  }
+  .dpp-article-body-legacy .cols--four > .col:nth-of-type(4) {
+    padding-left: 16px;
+    margin-top: 32px;
+  }
+  .dpp-article-body-legacy .cols--five > .col {
+    width: 50%;
+  }
+}

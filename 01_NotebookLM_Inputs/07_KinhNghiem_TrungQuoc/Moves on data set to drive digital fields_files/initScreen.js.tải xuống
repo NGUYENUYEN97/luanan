@@ -1,0 +1,15 @@
+window.onload = init();
+
+
+// PC小于1280初始化页面
+function init(){
+    var myWidth = $(window).width();
+    // console.log("myWidth="+myWidth);
+    if (myWidth>=600 && myWidth<=1280){
+        console.log("Enter="+myWidth);
+        var vp = document.querySelector('meta[name=viewport]');
+        var x = 'width=1350';
+        vp.setAttribute('content', x);
+        
+    }
+}

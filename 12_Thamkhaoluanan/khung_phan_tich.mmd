@@ -1,0 +1,47 @@
+graph TD
+    subgraph Khoi1 [Khối 1: CÁC NHÂN TỐ ẢNH HƯỞNG]
+        direction LR
+        NT1[Khách quan: Đặc điểm của kinh tế số]
+        NT2[Khách quan: Hội nhập quốc tế]
+        NT3[Chủ quan: Năng lực cơ quan nhà nước]
+        NT4[Chủ quan: Nhận thức của xã hội]
+    end
+
+    subgraph Khoi2 [Khối 2: HỆ THỐNG QUẢN LÝ NHÀ NƯỚC VỀ SỞ HỮU TRÍ TUỆ]
+        direction TB
+        CT[CHỦ THỂ QUẢN LÝ <br/> Chính phủ, Các Bộ ngành, Ủy ban nhân dân]
+        
+        subgraph NDQL [NỘI DUNG QUẢN LÝ NHÀ NƯỚC]
+            ND1(1. Ban hành chính sách, pháp luật về sở hữu trí tuệ)
+            ND2(2. Tổ chức bộ máy và quản lý xác lập quyền)
+            ND3(3. Thanh tra, kiểm tra và xử lý vi phạm)
+            ND4(4. Hỗ trợ, thúc đẩy thương mại hóa tài sản trí tuệ)
+        end
+        
+        KT[KHÁCH THỂ QUẢN LÝ <br/> Doanh nghiệp, Cá nhân, Nền tảng số trung gian]
+        
+        CT ==>|Tác động thông qua công cụ pháp luật| ND1
+        CT ==> ND2
+        CT ==> ND3
+        CT ==> ND4
+
+        ND1 --> KT
+        ND2 --> KT
+        ND3 --> KT
+        ND4 --> KT
+        
+        KT -.->|Phản hồi thực tiễn| CT
+    end
+
+    subgraph Khoi3 [Khối 3: MỤC TIÊU VÀ HIỆU QUẢ]
+        MT1[Bảo hộ hiệu quả tài sản trí tuệ]
+        MT2[Thúc đẩy đổi mới sáng tạo]
+        MT3[Phát triển bền vững nền kinh tế số]
+    end
+
+    Khoi1 -->|Tác động chiều nghịch và thuận lợi| Khoi2
+    Khoi2 ===>|Hướng tới đạt được| Khoi3
+
+    style Khoi1 fill:#f9f9f9,stroke:#666,stroke-width:2px,stroke-dasharray: 5 5
+    style Khoi2 fill:#e6f7ff,stroke:#0066cc,stroke-width:3px
+    style Khoi3 fill:#e6ffe6,stroke:#009933,stroke-width:2px

@@ -1,0 +1,37 @@
+.pageVideo {
+  display: none;
+}
+
+.player-container {
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: left;
+    margin-bottom: 15px !important;
+}
+
+#detail .player-container {
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: left;
+    margin-bottom: 15px !important;
+}
+
+.simpleVideo {
+  text-align: center;
+}
+
+.simpleVideo video {
+  margin: 0 auto;
+}
+
+.player-container .dhy-video{
+  position: static!important;
+}
+
+.player-container .control-bar img{
+  max-width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  
+}

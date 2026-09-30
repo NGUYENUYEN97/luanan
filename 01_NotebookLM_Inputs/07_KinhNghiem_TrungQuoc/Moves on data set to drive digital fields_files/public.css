@@ -1,0 +1,189 @@
+@charset "utf-8";
+/* Erichuang vol1.2 */
+
+
+body {
+    background: #fff;
+    margin: 0;
+
+   
+    /* 英文 */
+    font-family:  'Arial', 'Helvetica', 'sans-serif';
+    width: 100%;
+    position: relative;
+}
+
+div,
+dl,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+li,
+pre,
+form,
+fieldset,
+input,
+textarea,
+blockquote {
+    display: block;
+    position: relative;    
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    border: 0;
+    display: block;
+    position: relative; 
+    padding: 0;
+    margin: 0;   
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+}
+
+address,
+cite,
+code,
+em,
+th,
+i {
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+a {
+    color: #191919;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+a:hover {
+    color: #1D4F88;
+    text-decoration: none;
+}
+
+input[placeholder],
+[placeholder],
+*[placeholder] {
+    color: #757575;
+    outline: none;
+}
+
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder {
+    color: #757575;
+}
+
+input:-moz-placeholder,
+textarea:-moz-placeholder {
+    color: #757575;
+}
+
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+    color: #757575;
+}
+
+button,
+input {
+    outline: none;
+    border: none;
+}
+.Show {
+    display: block!important;
+}
+  
+.Hide {
+    display: none!important;
+}
+
+.ClearBoth {
+    clear: both;
+}
+.FLeft{
+    float: left;
+}
+.FRight{
+    float: right;
+}
+.img1{
+    width: 100%;
+    height: auto;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+.clearfix:after {
+    display: block;
+    overflow: hidden;
+    clear: both;
+    height: 0;
+    visibility: hidden;
+    content: ".";
+}
+
+.Font_Georgia{
+    font-family: "Georgia";
+}
+.Font_Trebuchet{
+    font-family: "Trebuchet MS";
+}
+.Desktop_Show{
+    display: none;
+}
+
+/* PC */
+
+@media (min-width:600px) {
+    .Cen1280 {
+        margin: 0 auto;
+        width: 1280px;
+    }
+    .PC_Show {
+        display: block;
+    }
+    .Mobile_Show {
+        display: none;
+    }
+}
+
+
+/* Mobile */
+
+@media (max-width:600px) {
+    .Cen1280 {
+        margin: 0 auto;
+        width: 94%;
+    }
+    .PC_Show {
+        display: none;
+    }
+    .Mobile_Show {
+        display: block;
+    }
+}
+.blur{
+    -webkit-filter: blur(4px); /* Chrome, Opera */    
+    -moz-filter: blur(4px);    
+    -ms-filter: blur(4px);    
+    filter: blur(4px);    
+}

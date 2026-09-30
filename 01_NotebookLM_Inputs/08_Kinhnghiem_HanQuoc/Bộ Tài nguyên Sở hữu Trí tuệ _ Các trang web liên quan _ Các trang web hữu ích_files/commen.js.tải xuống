@@ -1,0 +1,58 @@
+/***********************************************************************************************
+* Title : KIPO English Common JavaScript
+*
+*
+***********************************************************************************************/
+
+function jsPrint() {
+    var width = 690;
+    var height = 600;
+	var x, y;
+	var screen_width  = screen.width;
+	var screen_height = screen.height;
+	x = (screen_width  / 2) - (width  / 2);
+	y = (screen_height / 2) - (height / 2);
+
+	var pop = window.open ( "/resource/html/eng/print.html","print","width=" + width + ", height=" + height + ", left=" + x + ", top=" + y + ", toolbar=no, status=no, menubar=no, scrollbars=yes, resizable=yes");
+	pop.focus();
+	return;
+}
+
+/** From XJSV Scripts */
+
+function FileChech(upfile){
+   var rtn = false
+   if(upfile.length > 0){
+       var s_num;
+       var file_Array = FileArray();
+       s_num = upfile.lastIndexOf('.');
+       if(s_num !=-1){
+           upfile=upfile.substring(s_num+1);
+           upfile=upfile.toLowerCase();
+           for(i=0; i < file_Array.length; i++){
+               if(file_Array[i] == upfile){
+   	             rtn = true;
+               }
+           }
+       }
+   }else{
+      rtn = true;
+   }
+
+   if(rtn == false){
+        var msg = "";
+        msg += "Error while attaching files!\n";
+        msg += "-----------------------------------------------------------------------\n\n";
+    	   msg += "    You couldn't attaching File Type -  *."+upfile+"   \n\n\n";
+    	   msg += "    * Allowing File Types \n\n";
+    	   msg += "       - txt, doc, hwp, pdf, xls, ppt, gif, jpg, jpeg, pcx, png, zip, asf, wmv \n\n";
+    	   msg += "-----------------------------------------------------------------------\n";
+        alert(msg);
+   }
+   return rtn;
+}
+   
+function FileArray(){
+   var file_Array = new Array('txt','doc','hwp','pdf','xls','ppt','gif','jpg','pcx','png','jpeg','zip','asf','wmv');
+   return file_Array;
+}

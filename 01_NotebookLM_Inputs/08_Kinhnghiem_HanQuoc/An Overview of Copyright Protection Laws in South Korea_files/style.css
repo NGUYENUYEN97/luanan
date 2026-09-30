@@ -1,0 +1,76 @@
+.country-business-button {
+    position: fixed;
+    z-index: 1000;
+    bottom: 0; /* Flush with bottom */
+    left: var(--sidebar-width, 160px); /* Adjust for sidebar */
+    right: 0; /* Extend to right edge */
+    width: auto; /* Dynamic width */
+    background-color: rgba(40, 167, 69, 0.3); /* #28a745 at 70% transparency */
+    padding: 10px 0; /* Vertical padding */
+    display: flex; /* Center the button */
+    justify-content: center; /* Center button horizontally */
+    align-items: center; /* Center button vertically */
+    border-radius: 8px 8px 0 0; /* Round top corners */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Floating shadow */
+    transition: all 0.3s ease; /* Smooth transitions */
+}
+
+/* Hover effect for the bar */
+.country-business-button:hover {
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25); /* Larger shadow on hover */
+    transform: translateY(-2px); /* Slight lift */
+}
+
+.country-button {
+    background-color: #2ecc71; /* Solid lighter green button */
+    color: white;
+    padding: 12px 24px; /* Button padding */
+    text-decoration: none;
+    border-radius: 4px; /* Subtle rounding */
+    font-weight: bold;
+    font-size: 16px; /* Professional text size */
+    display: inline-block; /* Content-width button */
+    text-align: center; /* Center text in button */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15); /* Button shadow */
+    border: 1px solid #27ae60; /* Darker border */
+    transition: all 0.3s ease; /* Smooth transitions */
+}
+
+/* Hover effect for the button */
+.country-button:hover {
+    background-color: #27ae60; /* Darker green on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhanced shadow */
+    transform: translateY(-1px); /* Slight lift */
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+    .country-business-button {
+        left: 0; /* Full-width on smaller screens */
+        right: 0;
+        padding: 8px 0;
+        border-radius: 6px 6px 0 0; /* Adjust rounding */
+    }
+    
+    .country-button {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .country-business-button {
+        padding: 6px 0;
+        border-radius: 4px 4px 0 0;
+    }
+    
+    .country-button {
+        padding: 8px 16px;
+        font-size: 13px;
+    }
+}
+
+/* Define sidebar width with a fallback */
+:root {
+    --sidebar-width: 160px; /* Adjust if needed */
+}

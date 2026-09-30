@@ -1,0 +1,338 @@
+$(document).ready(function () {
+    $(".depth > li.active .depth2").show();
+    $("ul.depth li:has(.depth2)").children("a").addClass("more");
+    //하위메뉴
+    $(function () {
+        //레프트메뉴 조작
+        $("ul.depth > li > a").on("click", function () {
+            var depth = $(this).parent("li");
+            if (depth.is(".active")) {
+                depth.removeClass("active");
+                $(this).next().children("ul.depth2").slideUp();
+            } else {
+                $("ul.depth > li").removeClass("active");
+                depth.addClass("active");
+                $("ul.depth2").slideUp();
+                $(this).next().children("ul.depth2").slideDown();
+            }
+        });
+        $("ul.depth > li > a.more").click(function () {
+            var nowTitle = $(this).attr("title");
+            $("ul.depth > li > a").attr("title", "축소됨");
+            if (nowTitle == "확장됨") {
+                $(this).attr("title", "축소됨");
+            } else {
+                $(this).attr("title", "확장됨");
+            }
+            return false;
+        });
+
+        // 3depth active
+        // $(".depth2 > li > a").on("click", function () {
+        //   var depth2 = $(this).parent("li");
+        //   if (depth2.is(".active")) {
+        //     depth2.removeClass("active");
+        //   } else {
+        //     $("ul.depth2 > li").removeClass("active");
+        //     depth2.addClass("active");
+        //   }
+    });
+
+    $(document).ready(function () {
+        // 공유하기
+        var $share = $(".sub_head .share"),
+            $shareOpen = $share.find(".btn_share"),
+            $shareClose = $share.find(".btn_d"),
+            url = document.url;
+
+        $shareOpen.on("click", function (event) {
+            $share.addClass("active");
+        });
+        $shareClose.on("click", function (event) {
+            $share.removeClass("active");
+        });
+
+        //만족도조사 버튼
+        var $satisfy = $(".satisfy"),
+            $koglOpen = $satisfy.find(".kogl_open"),
+            $managerInfo = $satisfy.find(".manager_info"),
+            $koglButton = $koglOpen.find("button"),
+            $desc = $managerInfo.find(".desc");
+
+        $koglButton.on("click", function () {
+            $desc.toggleClass("active");
+        });
+    });
+    // footer 상단으로 가기 버튼
+    $(".to_top").click(function () {
+        $("html, body").animate({ scrollTop: 0 }, 400);
+        return false;
+    });
+});
+
+// 서브 url 복사
+function clip() {
+    var url = "";
+    var textarea = document.createElement("textarea");
+    document.body.appendChild(textarea);
+    url = window.document.location.href;
+    textarea.value = url;
+    textarea.select();
+    document.execCommand("copy");
+    document.body.removeChild(textarea);
+    alert("URL이 복사되었습니다.");
+}
+
+$(document).ready(function () {
+    $(function () {
+        var modalDialog = function () {
+            var openModalBtn = $(".open_popup"),
+                modalLayer = $(".popup_wrap");
+            modalLayer.attr("aria-hidden", true);
+            // 포커스 요소 추가
+            modalLayer.prepend($('<div data-focus="focusStart" tabindex="0"></div>'));
+            modalLayer.find("[role=dialog]").append($('<div data-focus="focusEnd" tabindex="0"></div>'));
+
+            openModalBtn.on("click", function () {
+                var $this = $(this),
+                    openModal = $("#" + $this.attr("aria-controls")),
+                    modalDim = openModal.find(".layer_bg"),
+                    modal = openModal.find(".popup"),
+                    closeModal = openModal.find(".close_popup");
+
+                $("html").addClass("not_scroll");
+                openModal.addClass("active").attr("aria-hidden", false);
+
+                // 포커스 이동 함수
+                function modalFocus(modalId) {
+                    // 팝업 버튼 클릭하면 dialog에 포커스
+                    $(modalId).find("[role=dialog]").attr("tabindex", 0).focus();
+
+                    // 닫기 버튼에서 tab을 눌렀을 때 role=dialog로 포커스 이동
+                    $(modalId)
+                        .find("[data-focus=focusEnd]")
+                        .on("focus", function () {
+                            $(modalId).find("[role=dialog]").focus();
+                        });
+
+                    // role=dialog에서 shift + tab을 눌렀을 때 닫기 버튼으로 포커스 이동
+                    $(modalId)
+                        .find("[data-focus=focusStart]")
+                        .on("focus", function () {
+                            $(modalId).find(".close_popup").focus();
+                        });
+                }
+                modalFocus(openModal);
+
+                // 닫기 버튼 함수
+                function modlaClose() {
+                    $("html").removeClass("not_scroll");
+                    openModal.removeClass("active").removeAttr("aria-hidden", true);
+                    //$this.focus(); // 팝업 닫으면 열었던 버튼으로 포커스 이동
+                    $(document).off("keyup.closeModal");
+                    fn_focus();
+                }
+
+                // 닫기 버튼 클릭 시 팝업차 닫기
+                closeModal.on("click", modlaClose);
+
+                // modalDim을 클릭해도 팝업창 닫기
+                modalDim.on("click", function (e) {
+                    if (e.target === e.currentTarget) {
+                        modlaClose();
+                    }
+                });
+
+                // 팝업창이 열렸을 때 esc 키를 누르면 닫기
+                $(document).on("keyup.closeModal", function (e) {
+                    var keycode = e.keycode || e.which;
+                    if (keycode == 27 && openModal.hasClass("active")) {
+                        modlaClose();
+                    }
+                });
+            });
+        };
+        modalDialog();
+    });
+
+    // 주요사업 view 테이블, 게시판 view 테이블
+
+    $("table.general, .v_cont table, .business table").each(function () {
+        $(this).wrap("<div class='table_wrap scroll'></div>");
+        $(this).parents(".table_wrap").before("<p class='table_scroll_tip'>※ 좌우로 스크롤하여 보실 수 있습니다.</p>");
+        if ($(this).width() <= $(this).parents(".table_wrap").width()) {
+            $(this).parents(".table_wrap.scroll").prev(".table_scroll_tip").css("display", "none");
+        }
+    });
+
+    // if ($(window).width() < 769) {
+    //     $(".v_cont table, .business table").each(function () {
+    //         $(this).wrap("<div class='table_wrap scroll'></div>");
+    //         $(this).parents(".table_wrap").before("<p class='table_scroll_tip'>※ 좌우로 스크롤하여 보실 수 있습니다.</p>");
+    //         if ($(this).width() <= $(this).parents(".table_wrap").width()) {
+    //             $(this).parents(".table_wrap.scroll").prev(".table_scroll_tip").css("display", "none");
+    //         }
+    //     });
+    // }
+    $(window)
+        .resize(function () {
+            $("table.general, .v_cont table, .business table").each(function () {
+                if ($(this).width() <= $(this).parents(".table_wrap").width()) {
+                    $(this).parents(".table_wrap").prev(".table_scroll_tip").css("display", "none");
+                } else {
+                    $(this).parents(".table_wrap").prev(".table_scroll_tip").css("display", "block");
+                }
+            });
+        })
+        .resize();
+
+    // 게시판 list 다운로드, 미리보기 버튼 없을 경우
+    $(".bo_li .download, .bo_li .preview").each(function () {
+        if ($(this).children().length < 1) {
+            $(this).addClass("no_file");
+        } else {
+            $(this).removeClass("no_file");
+        }
+    });
+});
+
+// 탭메뉴
+// function tab(id) {
+//     $(".tab_cont").hide();
+//     $("#" + id + "_ul").show();
+//     $("#tab_li").children().attr("class", "");
+//     $("#" + id).attr("class", "active");
+//     if (id == "tab_con2") {
+//         $("#tab_cont_add").prop("href", "");
+//     } else if (id == "tab_con3") {
+//         $("#tab_cont_add").prop("href", "");
+//     } else {
+//         $("#tab_cont_add").prop("href", "");
+//     }
+// }
+
+class TabsAutomatic {
+    constructor(groupNode) {
+        this.tablistNode = groupNode;
+
+        this.tabs = [];
+
+        this.firstTab = null;
+        this.lastTab = null;
+
+        this.tabs = Array.from(this.tablistNode.querySelectorAll("[role=tab]"));
+        this.tabpanels = [];
+
+        for (var i = 0; i < this.tabs.length; i += 1) {
+            var tab = this.tabs[i];
+            var tabpanel = document.getElementById(tab.getAttribute("aria-controls"));
+
+            tab.tabIndex = -1;
+            tab.setAttribute("aria-selected", "false");
+            this.tabpanels.push(tabpanel);
+
+            tab.addEventListener("keydown", this.onKeydown.bind(this));
+            tab.addEventListener("click", this.onClick.bind(this));
+
+            if (!this.firstTab) {
+                this.firstTab = tab;
+            }
+            this.lastTab = tab;
+        }
+
+        this.setSelectedTab(this.firstTab, false);
+    }
+
+    setSelectedTab(currentTab, setFocus) {
+        if (typeof setFocus !== "boolean") {
+            setFocus = true;
+        }
+        for (var i = 0; i < this.tabs.length; i += 1) {
+            var tab = this.tabs[i];
+            if (currentTab === tab) {
+                tab.setAttribute("aria-selected", "true");
+                tab.removeAttribute("tabindex");
+                this.tabpanels[i].classList.remove("hidden");
+                if (setFocus) {
+                    tab.focus();
+                }
+            } else {
+                tab.setAttribute("aria-selected", "false");
+                tab.tabIndex = -1;
+                this.tabpanels[i].classList.add("hidden");
+            }
+        }
+    }
+
+    setSelectedToPreviousTab(currentTab) {
+        var index;
+
+        if (currentTab === this.firstTab) {
+            this.setSelectedTab(this.lastTab);
+        } else {
+            index = this.tabs.indexOf(currentTab);
+            this.setSelectedTab(this.tabs[index - 1]);
+        }
+    }
+
+    setSelectedToNextTab(currentTab) {
+        var index;
+
+        if (currentTab === this.lastTab) {
+            this.setSelectedTab(this.firstTab);
+        } else {
+            index = this.tabs.indexOf(currentTab);
+            this.setSelectedTab(this.tabs[index + 1]);
+        }
+    }
+
+    /* EVENT HANDLERS */
+
+    onKeydown(event) {
+        var tgt = event.currentTarget,
+            flag = false;
+
+        switch (event.key) {
+            case "ArrowLeft":
+                this.setSelectedToPreviousTab(tgt);
+                flag = true;
+                break;
+
+            case "ArrowRight":
+                this.setSelectedToNextTab(tgt);
+                flag = true;
+                break;
+
+            case "Home":
+                this.setSelectedTab(this.firstTab);
+                flag = true;
+                break;
+
+            case "End":
+                this.setSelectedTab(this.lastTab);
+                flag = true;
+                break;
+
+            default:
+                break;
+        }
+
+        if (flag) {
+            event.stopPropagation();
+            event.preventDefault();
+        }
+    }
+
+    onClick(event) {
+        this.setSelectedTab(event.currentTarget);
+    }
+}
+
+// Initialize tablist
+
+window.addEventListener("load", function () {
+    var tablists = document.querySelectorAll("[role=tablist].automatic");
+    for (var i = 0; i < tablists.length; i++) {
+        new TabsAutomatic(tablists[i]);
+    }
+});

@@ -1,0 +1,8 @@
+document.writeln("<style>");
+document.writeln(".footer { padding:10px 0; background:#cc3333; height:auto }");
+document.writeln(".footer span { color:#fff; }");
+document.writeln("</style>");
+document.writeln("<div class='footer'>");
+document.writeln("<span>Copyright © 2009-2026 QSTHEORY.cn All Rights Reserved.</span>");
+document.writeln("<span>制作单位：求是网传媒（北京）有限公司　　版权所有：求是网传媒（北京）有限公司</span>");
+document.writeln("</div>");

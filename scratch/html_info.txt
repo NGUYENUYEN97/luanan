@@ -1,0 +1,18 @@
+FILE: 9. Insight into IP Risk&Opportunity in the Era of Digital Economy-君伦律师事务所.html
+TITLE: Insight into IP Risk&amp;Opportunity in the Era of Digital Economy-君伦律师事务所
+URL: NO_URL
+AUTHOR: NO_AUTHOR
+SNIPPET: Insight into IP Risk&amp;Opportunity in the Era of Digital Economy-君伦律师事务所 --> .tabbar .item {padding: 0 40rem;line-height: 32rem;font-size: 16rem;color: #333333;border:1rem solid #b7b7b7;} .tabbar .item.active {color: #fff;background: #0068B6;border-color:#0068b6} .main { width: 1200rem; margin: 0 auto; margin-bottom:40rem; } .main .title { font-size: 30rem; color: #333333;padding: 20rem 0; } .main .l2 { font-size: 14rem;color: #999999; margin-bottom:10rem; } .main .body { font-size:16rem;color
+--------------------------------------------------
+FILE: Intellectual property challenges for the digital economy.html
+TITLE: Intellectual property challenges for the digital economy
+URL: NO_URL
+AUTHOR: NO_AUTHOR
+SNIPPET: console.log("CIVIC: Starting GTM-only integration with container: GTM-NTZBZDCV"); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); console.log("CIVIC: GTM script loaded for container: " + i); })(window,document,'script','dataLayer','GTM-NTZBZDCV'); console.log("C
+--------------------------------------------------
+FILE: Strengthening intellectual property policy in Vietnam’s digital economy.html
+TITLE: Strengthening intellectual property policy in Vietnam’s digital economy
+URL: https://vietnamlawmagazine.vn/strengthening-intellectual-property-policy-in-vietnams-digital-economy-75468.html
+AUTHOR: NO_AUTHOR
+SNIPPET: Strengthening intellectual property policy in Vietnam’s digital economy br { margin: 5px; } /*.author { text-align: right; font-weight: bold; }*/ iframe { border: 0; } window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-5D3CDW50K6'); Tuesday 01/20/2026 Vietnam Law &amp; Legal Forum Magazine Official Gazette About us Contact Subscribe Official Gazette Vietnamlaw Magazine logo home News Legal Updates In the Pipeline Bu
+--------------------------------------------------

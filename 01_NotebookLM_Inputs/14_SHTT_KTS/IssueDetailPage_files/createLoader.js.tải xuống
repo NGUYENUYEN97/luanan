@@ -1,0 +1,214 @@
+﻿
+function replaceDynamic(textValue, replace1, replaceby) {
+    var len = textValue.split(replace1);
+   
+    for (var n = 0; n < len.length; n++) {
+        textValue = textValue.replace(replace1, replaceby);
+    }
+    return textValue;
+
+}
+
+function LoaderShow() {
+    var g = document.createElement('div');
+    g.setAttribute("id", "temploaderdiv");
+    g.setAttribute("class", "hider");
+    var atr1 = document.createElement("div");
+    atr1.setAttribute("class", "load");
+    atr1.setAttribute("id", "txtload");
+    atr1.setAttribute("style", "font-weight:bold;color:#fff;text-align:left;");
+    var atr2 = document.createElement("div");
+    atr2.setAttribute("class", "loader");
+    var atr3 = document.createElement("div");
+    atr3.setAttribute("class", "loader1");
+
+    atr2.appendChild(atr3);
+    atr1.appendChild(atr2);
+    g.appendChild(atr1);
+    document.body.appendChild(g);
+    $('#txtload').append("<span id='loadspan'>Loading </span><span id='loadspan1'>.</span><span id='loadspan2'>.</span><span id='loadspan3'>.</span><span id='loadspan4'>.</span>");
+
+}
+
+function LoaderShowWait() {
+    var g = document.createElement('div');
+    g.setAttribute("id", "temploaderdiv");
+    g.setAttribute("class", "hider");
+    var atr1 = document.createElement("div");
+    atr1.setAttribute("class", "load");
+    atr1.setAttribute("id", "txtload");
+    atr1.setAttribute("style", "font-weight:bold;color:#fff;text-align:left;");
+    var atr2 = document.createElement("div");
+    atr2.setAttribute("class", "loader");
+    var atr3 = document.createElement("div");
+    atr3.setAttribute("class", "loader1");
+
+    atr2.appendChild(atr3);
+    atr1.appendChild(atr2);
+    g.appendChild(atr1);
+    document.body.appendChild(g);
+    $('#txtload').append("<span id='loadspan'>Wait</span><span id='loadspan1'>.</span><span id='loadspan2'>.</span><span id='loadspan3'>.</span><span id='loadspan4'>.</span>");
+
+}
+
+function LoaderShowMsg(msg) {
+    var g = document.createElement('div');
+    g.setAttribute("id", "temploaderdiv");
+    g.setAttribute("class", "hider");
+    var atr1 = document.createElement("div");
+    atr1.setAttribute("class", "load");
+    atr1.setAttribute("id", "txtload");
+    atr1.setAttribute("style", "font-weight:bold;color:#fff;text-align:left;");
+    var atr2 = document.createElement("div");
+    atr2.setAttribute("class", "loader");
+    var atr3 = document.createElement("div");
+    atr3.setAttribute("class", "loader1");
+
+    atr2.appendChild(atr3);
+    atr1.appendChild(atr2);
+    g.appendChild(atr1);
+    document.body.appendChild(g);
+    $('#txtload').append("<span id='loadspan'>" + msg + "</span>");
+
+}
+function LoaderHide() {
+    var div = document.getElementById("temploaderdiv");
+    document.body.removeChild(div);
+}
+
+function LoaderHideAndFocus(ID) {
+
+    var div = document.getElementById("temploaderdiv");
+    document.body.removeChild(div);
+
+    $("#" + ID.split('_')[1]).focus();
+}
+function alertNew(txt) {
+    var g = document.createElement('div');
+    g.setAttribute("id", "temploaderdiv");
+    g.setAttribute("class", "hider");
+    var atr1 = document.createElement("div");
+    atr1.setAttribute("class", "load");
+    atr1.setAttribute("id", "txtload");
+    atr1.setAttribute("style", "font-weight:bold;color:#fff;text-align:center;width:400px;display:box;background:#fff;padding:10px 10px 10px 10px");
+    g.appendChild(atr1);
+    document.body.appendChild(g);
+    $('#txtload').append("<span class='spanAlert'>" + txt + "</span><br /><br /><input type='button' class='button4' onclick='LoaderHide();' value='Ok..'/>");
+}
+function alertWithFocus(txt, focusID) {
+    var g = document.createElement('div');
+    g.setAttribute("id", "temploaderdiv");
+    g.setAttribute("class", "hider");
+    var atr1 = document.createElement("div");
+    atr1.setAttribute("class", "load");
+    atr1.setAttribute("id", "txtload");
+    atr1.setAttribute("style", "font-weight:bold;color:#fff;text-align:center;width:400px;display:box;background:#fff;padding:10px 10px 10px 10px;border-radius:10px;");
+    g.appendChild(atr1);
+    document.body.appendChild(g);
+    var txtboxid = "";
+    txtboxid = focusID;
+    $('#txtload').append("<span class='spanAlert'>" + txt + "</span><br /><br /><input type='button' class='button5' id='bbbbtn_" + txtboxid + "' onclick='LoaderHideAndFocus(this.id);' value='Ok..'/>");
+}
+
+function alertWithFunction(txt, funcName) {
+    var g = document.createElement('div');
+    g.setAttribute("id", "temploaderdiv");
+    g.setAttribute("class", "hider");
+    var atr1 = document.createElement("div");
+    atr1.setAttribute("class", "load");
+    atr1.setAttribute("id", "txtload");
+    atr1.setAttribute("style", "font-weight:bold;color:#fff;text-align:center;width:400px;display:box;background:#fff;padding:10px 10px 10px 10px;border-radius:10px;");
+    g.appendChild(atr1);
+    document.body.appendChild(g);
+    $('#txtload').append("<span class='spanAlert'>" + txt + "</span><br /><br /><input type='button' class='button5'  onclick='" + funcName + "();' value='Ok..'/>");
+}
+
+function ValidateEmail(mail) {
+    if (/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(mail)) {
+        return (true)
+    } else {
+        return (false)
+    }
+}
+function ValidateNumber(numb, id) {
+    if (/^\d*$/.test(numb)) {
+        //  return (true)
+    } else {
+        $("#" + id).val(numb.substr(0, numb.length - 1));
+        ValidateNumber(numb.substr(0, numb.length - 1), id);
+    }
+}
+
+function clock() {
+    var d = new Date();
+
+    var date = d.getDate();
+
+    var month = d.getMonth();
+    var montharr = ["Jan", "Feb", "Mar", "April", "May", "June", "July", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    month = montharr[month];
+
+    var year = d.getFullYear();
+
+    var day = d.getDay();
+    var dayarr = ["Sun", "Mon", "Tues", "Wed", "Thurs", "Fri", "Sat"];
+    day = dayarr[day];
+
+    var hour = d.getHours();
+    var min = d.getMinutes();
+    var sec = d.getSeconds();
+    var AMPM = "AM";
+    if (hour >= 12) {
+        AMPM = "PM";
+    }
+    if (hour > 12) {
+        hour = hour - 12;
+    }
+    if (hour < 10) {
+        hour = "0" + hour;
+    }
+    if (min < 10) {
+        min = "0" + min;
+    }
+    if (sec < 10) {
+        sec = "0" + sec;
+    }
+
+    document.getElementById("date").innerHTML = day + " " + date + " " + month + " " + year;
+    document.getElementById("time").innerHTML = hour + ":" + min + ":" + sec + " " + AMPM;
+}
+
+function setSelectedValue(selectObj, valueToSet) {
+    for (var i = 0; i < selectObj.options.length; i++) {
+        if (selectObj.options[i].value == valueToSet) {
+            selectObj.options[i].selected = true;
+            return;
+        }
+    }
+}
+
+function setSelectedText(selectObj, valueToSet) {
+
+    for (var i = 0; i < selectObj.options.length; i++) {
+        if (selectObj.options[i].text == valueToSet) {
+            selectObj.options[i].selected = true;
+            return;
+        }
+    }
+}
+
+function ScrollAndFocus(ToID, FocusID) {
+
+    var $this = $(this),
+             $toElement = $('#' + ToID),
+             $focusElement = $('#' + FocusID),
+             $offset = -50 * 1 || 0,
+             $speed = 700 * 1 || 500;
+
+    $('html, body').animate({
+        scrollTop: $($toElement).offset().top + $offset
+    }, $speed);
+
+    if ($focusElement) $($focusElement).focus();
+}
+

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Khung Phân Tích</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; background-color: #f4f7f6; }
+        .container { background-color: white; padding: 30px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); max-width: 1000px; margin: auto; }
+        h1 { text-align: center; color: #333; margin-bottom: 30px; }
+        .mermaid { display: flex; justify-content: center; }
+    </style>
+    <script type="module">
+        import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+        mermaid.initialize({ startOnLoad: true, theme: 'default' });
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>Khung Phân Tích: Quản Lý Nhà Nước Về Sở Hữu Trí Tuệ Trong Kinh Tế Số</h1>
+        <div class="mermaid">
+            graph TD
+                subgraph Khối 1: CÁC NHÂN TỐ ẢNH HƯỞNG
+                    direction LR
+                    NT1[Khách quan: Đặc điểm của kinh tế số]
+                    NT2[Khách quan: Hội nhập quốc tế]
+                    NT3[Chủ quan: Năng lực cơ quan nhà nước]
+                    NT4[Chủ quan: Nhận thức của xã hội]
+                end
+
+                subgraph Khối 2: HỆ THỐNG QUẢN LÝ NHÀ NƯỚC VỀ SỞ HỮU TRÍ TUỆ
+                    direction TB
+                    CT[CHỦ THỂ QUẢN LÝ <br/> Chính phủ, Các Bộ ngành, Ủy ban nhân dân]
+                    
+                    subgraph NỘI DUNG QUẢN LÝ NHÀ NƯỚC
+                        ND1(1. Ban hành chính sách, pháp luật về sở hữu trí tuệ)
+                        ND2(2. Tổ chức bộ máy và quản lý xác lập quyền)
+                        ND3(3. Thanh tra, kiểm tra và xử lý vi phạm)
+                        ND4(4. Hỗ trợ, thúc đẩy thương mại hóa tài sản trí tuệ)
+                    end
+                    
+                    KT[KHÁCH THỂ QUẢN LÝ <br/> Doanh nghiệp, Cá nhân, Nền tảng số trung gian]
+                    
+                    CT ==>|Tác động thông qua công cụ pháp luật| ND1
+                    CT ==> ND2
+                    CT ==> ND3
+                    CT ==> ND4
+
+                    ND1 --> KT
+                    ND2 --> KT
+                    ND3 --> KT
+                    ND4 --> KT
+                    
+                    KT -.->|Phản hồi thực tiễn| CT
+                end
+
+                subgraph Khối 3: MỤC TIÊU VÀ HIỆU QUẢ
+                    MT1[Bảo hộ hiệu quả tài sản trí tuệ]
+                    MT2[Thúc đẩy đổi mới sáng tạo]
+                    MT3[Phát triển bền vững nền kinh tế số]
+                end
+
+                Khối 1 -->|Tác động chiều nghịch và thuận lợi| Khối 2
+                Khối 2 ===>|Hướng tới đạt được| Khối 3
+
+                style Khối 1 fill:#f9f9f9,stroke:#666,stroke-width:2px,stroke-dasharray: 5 5
+                style Khối 2 fill:#e6f7ff,stroke:#0066cc,stroke-width:3px
+                style Khối 3 fill:#e6ffe6,stroke:#009933,stroke-width:2px
+        </div>
+        <p style="text-align: center; margin-top: 30px; font-size: 14px; color: #666;">
+            Hãy nhấp chuột phải vào sơ đồ và chọn "Save image as..." (Lưu hình ảnh thành...) để tải về nếu trình duyệt của bạn hỗ trợ, 
+            hoặc chụp màn hình sơ đồ này để dán vào Word.
+        </p>
+    </div>
+</body>
+</html>

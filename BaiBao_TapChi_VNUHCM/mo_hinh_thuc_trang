@@ -1,0 +1,16 @@
+// Co che phan ung su co
+digraph {
+	rankdir=TB size="8,5"
+	A [label="Chủ thể quyền SHTT
+(Phát hiện & Gửi yêu cầu)" fillcolor="#ffccff" shape=box style=filled]
+	B [label="Nền tảng số / Sàn TMĐT
+(Rà soát & Gỡ bỏ thủ công)" fillcolor="#ccccff" shape=box style=filled]
+	C [label="Tài khoản / Cửa hàng vi phạm" shape=box]
+	D [label="Cơ quan Quản lý Nhà nước
+(QLTT, Thanh tra, Công an...)" fillcolor="#ffccff" shape=box style=filled]
+	A -> B [label="1. Gửi yêu cầu"]
+	B -> C [label="2. Rà soát & Gỡ bỏ"]
+	A -> D [label="3. Khiếu nại / Tố cáo"]
+	D -> C [label="4. Kiểm tra & Xử phạt"]
+	D -> B [label="5. Yêu cầu cung cấp TT" style=dashed]
+}

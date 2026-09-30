@@ -1,0 +1,67 @@
+
+--- FILE: acemoglu2011.pdf ---
+INTELLECTUAL PROPERTY RIGHTS POLICY,
+COMPETITION AND INNOVATION
+Daron Acemoglu
+Massachusetts Institute of TechnologyUfuk Akcigit
+University of Pennsylvania
+Abstract
+To what extent and in what form should the intellectual property rights (IPR) of innovators be
+protected? Should a company with a large technology lead over its rivals receive the same IPR
+protection as a company with a more limited advantage? In this paper, we develop a dynamic
+framework for the study of the interactions between IPR and competition, in particular to understand
+the impact of such policies on future incentives. The economy consists of many industries and
+ﬁrms engaged in cumulative (step-by-step) innovation. IPR policy regulates whether followers in an
+industry can copy the technology of the leader. We prove the existence of a steady-state equilibrium
+and characterize some of its properties. We then quantitatively investigate the implications of different
+types of IPR policy on the equilibrium growth rate and welfare. The most important result from this
+exercise is that full patent protection is not optimal; instead, optimal policy involves state-dependent
+IPR protection, providing greater protection to technology leaders that are further ahead than those
+that are close to their followers. This is because of a trickle-down effect: providing greater protection
+to ﬁrms that are further ahead of their followers than a certain threshold increases the R&D incentives
+also for all technology leaders that are less advanced than this threshold. (JEL: O31, O34, O41,
+L16)
+1. Introduction
+What is the optimal extent and form of intellectual property rights (IPR) protection?
+Should a ﬁrm with a large technology lead receive the same IPR protection as a
+company with a more limited technological lead, or should IPR policy be coupled with
+antitrust and used to limit the monopoly power of technology leaders? Despite broad
+consensus that innovation is central to the long-run performance of an economy, there
+The editor in charge of this paper was Fabrizio Zilibotti.
+Acknowledgments: We thank an anonymous referee, conference and seminar participants at the FBBV A
+Lecture at 2011 ASSA conference in Denver, the Canadian Institute for Advanced Research, EPFL
+Technology Policy Conference, European Science Days, MIT, National Bureau of Economic Research
+Economic Growth and Productivity Groups, Toulouse Information Technology Network, University of
+Pennsylvania, University of Toronto, and Philippe Aghion, Gino Gancia, Bronwyn Hall, Sam Kortum,
+Suzanne Scotchmer, and Fabrizio Zilibotti for useful comments. Financial support from the Toulouse
+Information Technology Network and from the Canadian Institute for Advanced Research is gratefully
+acknowledged. An earlier version of this paper was circulated under the title State-Dependent Intellectual
+Property Rights Policy .
+E-mail addresses: daron@mit.edu (Acemoglu); uakcigit@econ.upenn.edu (Akcigit)
+Journal of the European Economic Association February 2012 10(1):1–42
+c/circlecopyrt2012 by the European Economic Association DOI: 10.1111/j.1542-4774.2011.01053.x
+2 Journal of the European Economic Association
+FIGURE 1. The evolution of R&D by Microsoft and by other top ten publicly traded R&D investors
+in the IT sector relative to the sector average before and after the start of the DOJ case. All data are
+from COMPUSTAT. Top ten ﬁrms is determined by the highest ten R&D investors (except Microsoft)
+in 1998: CA Inc, Continuum Inc, Intergraph Corp, Sterling Software Inc, Oracle Inc, Adobe Inc,
+Symantec Corp, Electronic Arts Inc, Sybase Inc, Intuit Inc. The patterns are similar for the top ten
+investors in 2000 or 1990, or if benchmarked it to the median of the industry rather than the mean.
+is no consensus on the answers to such questions. A large literature on IPR (discussed in
+what follows) focuses on the static trade-offs between the positive incentive beneﬁts of
+IPR protection and its costs in terms of reducing competition and increasing markups.
+In this paper, we argue that dynamic trade-offs between IPR protection and competition,
+which have so far been overlooked, may be equally or more important for developing
+answers to these questions.
+These issues and the importance of these questions are highlighted by several
+recent high-proﬁle cases. For example, motivated by antitrust concerns, a recent ruling
+of the European Commission ordered Microsoft to share secret information about its
+operating system and products with other software companies ( New York Times ,2 2
+December 2004).1Similar issues were also central to the US Department of Justice
+(DOJ) case against Microsoft, which started on 18 May 1998 and ultimately resulted
+in a ruling against Microsoft. Figure 1 shows the evolution of R&D by Microsoft and
+by other top ten publicly traded R&D investors in the IT sector relative to the sector
+average before and after the start of the DOJ case.
+1. In addition to the Microsoft case, the issue of technological lead has been central in the Department
+of Justice investigations of Intel ( New York Times , 11 May 2009) and the debates about Google’s market
+share ( New York Times , 21 February 2009).

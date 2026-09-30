@@ -1,0 +1,26 @@
+**1.1.1.2. Các công trình nghiên cứu trong nước về quyền sở hữu trí tuệ**
+
+Tiếp nối các nền tảng lý luận quốc tế, hệ thống y văn trong nước về quyền SHTT cũng phát triển mạnh mẽ và bám sát các đặc thù kinh tế - xã hội của Việt Nam. Nhìn chung, các nghiên cứu trong nước được phân chia thành ba nhóm chủ đề cốt lõi, tương đồng với xu hướng quốc tế nhưng mang đậm tính thực tiễn và ứng dụng:
+
+**Thứ nhất, nhóm các công trình nghiên cứu về bản chất và đặc điểm của quyền SHTT.**
+Tại Việt Nam, để làm rõ bản chất của SHTT, các nghiên cứu thường xuất phát từ góc độ pháp lý thực định. Cụ thể, Luật Sở hữu trí tuệ Việt Nam quy định SHTT là quyền của tổ chức, cá nhân đối với tài sản trí tuệ, bao gồm quyền tác giả, quyền liên quan, quyền sở hữu công nghiệp và quyền đối với giống cây trồng. Dựa trên nền tảng luật định này, đi sâu vào phân tích đặc điểm pháp lý cốt lõi, TS. Lâm Xuân Hùng [1] nhận định SHTT về bản chất là một loại tài sản vô hình. Tác giả nhấn mạnh đặc tính dễ bị sao chép và nhân bản vô hạn của loại tài sản này, đặc biệt là trong môi trường số và kỷ nguyên công nghệ 4.0. Chính vì tính nhạy cảm và dễ bị tổn thương này, TS. Lâm Xuân Hùng khẳng định phạm vi bảo hộ và tính loại trừ của pháp luật SHTT quyết định trực tiếp đến giá trị cũng như sự an toàn của tài sản. Do đó, việc xác định rõ giới hạn quyền là tiền đề bắt buộc để khai thác thương mại và đổi mới sáng tạo.
+
+**Thứ hai, nhóm các công trình nghiên cứu về vai trò của SHTT đối với nền kinh tế và đổi mới sáng tạo.**
+Về khía cạnh kinh tế, các công trình trong nước tập trung làm rõ vai trò đòn bẩy của SHTT. Trong báo cáo chuyên sâu "Tương lai nền kinh tế số Việt Nam", Bộ Kế hoạch và Đầu tư phối hợp cùng CSIRO [2] đã chỉ ra rằng việc bảo hộ tài sản trí tuệ vững chắc là một trong những trụ cột then chốt để Việt Nam chuyển mình từ nền kinh tế gia công sang nền kinh tế sáng tạo. Củng cố cho các lập luận vĩ mô này, Báo cáo thường niên của Cục Sở hữu trí tuệ (giai đoạn 2014 - 2024) [3] đã cung cấp bộ số liệu chứng minh thực tế tại Việt Nam có mối tương quan tỷ lệ thuận rõ rệt giữa tăng trưởng GDP và sự gia tăng số lượng đơn đăng ký, số bằng độc quyền sáng chế được cấp qua các năm.
+
+Tuy nhiên, bên cạnh việc ghi nhận vai trò thu hút đầu tư trực tiếp nước ngoài (FDI), giới học giả trong nước cũng đưa ra những góc nhìn phản biện sắc sảo về sự bất cân xứng trong phân phối lợi ích. Tổng hợp các mô hình kinh tế học tân cổ điển, PGS.TS. Hà Đức Trụ (2019) [4] đã chỉ ra một nghịch lý mang tính "Bắc - Nam": Việc thắt chặt hệ thống SHTT hầu như chỉ mang lại siêu lợi nhuận cho các quốc gia phát triển – nơi nắm giữ các công nghệ tân tiến và công nghệ lõi. Ngược lại, đối với các nước đang phát triển, cơ chế bảo hộ độc quyền quá mức lại tạo ra rào cản khổng lồ, làm cản trở quá trình chuyển giao công nghệ và gia tăng chi phí tiếp cận tri thức của toàn xã hội. Do đó, các quốc gia đi sau như Việt Nam cần thiết kế một hệ thống quản trị SHTT thận trọng để không rơi vào bẫy "bảo hộ hộ" cho nước ngoài.
+
+**Thứ ba, nhóm các công trình nghiên cứu về thực trạng vi phạm và công tác quản lý nhà nước về SHTT.**
+Khác với các học giả quốc tế thường tập trung phân tích lý thuyết chống độc quyền, các tác giả trong nước lại trăn trở nhiều hơn về năng lực thực thi và công tác quản lý nhà nước. Trong nghiên cứu về bảo hộ bản quyền nội dung số, nhóm tác giả Bùi Kim Hiếu và cộng sự [5] đã chỉ ra sự bùng thực Internet tại Việt Nam đang đặt ra những thách thức chưa từng có đối với cơ quan quản lý. Các rào cản kỹ thuật số khiến việc phát hiện và xử lý các hành vi xâm phạm SHTT trở nên khó khăn, đòi hỏi sự phối hợp liên ngành phức tạp. Từ những phân tích này, các học giả khẳng định sự cần thiết phải hiện đại hóa bộ máy quản lý nhà nước, nâng cao chế tài xử phạt, đồng thời xây dựng một không gian pháp lý linh hoạt đủ sức thích ứng với sự phát triển vũ bão của không gian mạng.
+
+**Tiểu kết:**
+Nhìn chung, hệ thống y văn trong nước đã cụ thể hóa được bản chất của SHTT thông qua lăng kính pháp luật Việt Nam [1], khẳng định vai trò sống còn của SHTT đối với tiến trình thu hút FDI và tăng trưởng quốc gia [2], [3], [4] và chỉ ra những điểm nghẽn trong công tác quản lý thực thi [5]. Khi kết hợp cả bức tranh toàn cảnh quốc tế (Mục 1.1.1.1) và thực tiễn trong nước (Mục 1.1.1.2), luận án đã xây dựng được một nền tảng lý thuyết vững chắc về quyền SHTT, làm tiền đề để tiến tới phân tích sâu hơn về sự chuyển dịch của công tác Quản lý Nhà nước về SHTT trong kỷ nguyên Kinh tế số ở các mục tiếp theo.
+
+---
+
+### DANH MỤC TÀI LIỆU THAM KHẢO (TRÍCH DẪN TRONG MỤC 1.1.1.2)
+[1] L. X. Hùng, "Pháp luật về sở hữu trí tuệ trong kỷ nguyên mới," *Tạp chí Quản lý nhà nước*, vol. 371, no. 10, pp. 23-28, 2025.
+[2] Bộ Kế hoạch và Đầu tư & CSIRO, "Tương lai nền kinh tế số Việt Nam hướng tới năm 2030 và 2045," Báo cáo nghiên cứu, Hà Nội, 2019.
+[3] Cục Sở hữu trí tuệ, "Báo cáo thường niên hoạt động sở hữu trí tuệ (giai đoạn 2014 - 2024)," Bộ Khoa học và Công nghệ, Hà Nội, 2024.
+[4] H. Đ. Trụ, "Quyền sở hữu trí tuệ và sự phát triển kinh tế," *Tạp chí Kinh doanh và Công nghệ*, số 01, pp. 25-29, 2019.
+[5] H. B. Kim, D. N. N. Anh, and P. N. Ngoc, "Copyright Protection of Digital Content in Vietnam's Internet Age," *International Journal of Religion*, vol. 5, no. 8, pp. 779-791, 2024.

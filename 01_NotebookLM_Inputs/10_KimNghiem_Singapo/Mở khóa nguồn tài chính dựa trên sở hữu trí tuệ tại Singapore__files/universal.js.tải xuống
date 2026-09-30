@@ -1,0 +1,113 @@
+// Video modal --------------------------------------------------------------
+var vid = document.getElementById("VideoModal");
+function enableAutoplay() { 
+  vid.autoplay = true;
+  vid.load();
+}
+
+function disableAutoplay() { 
+  vid.autoplay = false;
+  vid.load();
+}
+
+// Homepage carouse -----------------------------------------------------------
+$('video').on('play', function (e) {
+  $("#homepageCarousel").carousel('pause');
+});
+$('video').on('stop pause ended', function (e) {
+  $("#homepageCarousel").carousel();
+});
+
+$(document).ready(function () {
+  var slider = $('#homepageCarousel').carousel({
+  interval: 10000
+  });
+  $('#carouselVideoItem').on('play', function (e) {
+    slider.carousel('pause');
+  });
+  $('#carouselVideoItem').on('stop pause ended', function (e) {
+    slider.carousel({ 'pause': false });
+    // slider.carousel('next');
+  });
+
+  $('#carouselVideoItem').on("ended", function() {
+    slider.carousel({ 'pause': false });
+    slider.carousel('next');
+  });
+});
+
+$('#homepageCarousel').bind('slid.bs.carousel', function () {
+  var currentIndex = $('div.active').index() + 1;
+  // if (currentIndex == 1) {
+  //   $('#VideoModal').get(0).play()
+  // }
+
+  if (currentIndex != 2) {
+    $('#carouselVideoItem').get(0).pause()
+  }
+});
+
+// Mobile Responsive menu
+const $div = $("#menuBtn"); // select the div element using jQuery
+
+const menuOnclick = () => {
+  if ($(window).width() < 992) {
+    if ($(".dynamic-menu").hasClass("active-menu")) {
+      $(".dynamic-menu").removeClass("active-menu");
+      $(".container-fluid").removeClass("disable-scroll");
+      $("#navbarSupportedContent").addClass("show");
+  
+      $("#mbl-nav-close").addClass("d-md-none");
+      $("#mbl-nav-close").addClass("d-lg-block");
+      $("#nav-collapse").addClass("d-md-none");
+      $("#nav-collapse").addClass("d-lg-block");
+      
+    } else {
+      $(".dynamic-menu").addClass("active-menu");
+      $(".container-fluid").addClass("disable-scroll");
+  
+      $("#mbl-nav-close").removeClass("d-md-none");
+      $("#mbl-nav-close").removeClass("d-lg-block");
+      $("#nav-collapse").removeClass("d-md-none");
+      $("#nav-collapse").removeClass("d-lg-block");
+    }
+  }
+}
+
+
+// Full Banner sticky nav -----------------------------
+window.addEventListener('scroll', function() {
+  var windowScrollY = window.scrollY;
+
+  if (windowScrollY >= 354) {
+    $('#banner-sticky-nav').addClass('sticky-nav');
+  } else {
+    $('#banner-sticky-nav').removeClass('sticky-nav');
+  }
+});
+
+// Multi card carousel -----------------------------------------
+$('.carousel.multi-card-carousel .carousel-item').each(function(){
+  var minPerSlide = 4;
+  var next = $(this).next();
+  if (!next.length) {
+  next = $(this).siblings(':first');
+  }
+  next.children(':first-child').clone().appendTo($(this));
+  
+  for (var i=0;i<minPerSlide;i++) {
+      next=next.next();
+      if (!next.length) {
+        next = $(this).siblings(':first');
+      }
+      
+      next.children(':first-child').clone().appendTo($(this));
+    }
+});
+
+// Role to buttons for accessibility -----------------------------------------
+document.addEventListener("DOMContentLoaded", () => {
+    document.querySelectorAll('a.btn.btn-primary, a.btn.btn-secondary').forEach(el => {
+      el.setAttribute('role', 'button');
+    });
+  });

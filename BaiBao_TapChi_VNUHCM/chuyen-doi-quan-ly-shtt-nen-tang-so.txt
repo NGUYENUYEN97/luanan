@@ -1,0 +1,194 @@
+BẢN THẢO BÀI BÁO KHOA HỌC
+CHUYỂN ĐỔI MÔ HÌNH QUẢN LÝ NHÀ NƯỚC VỀ THỰC THI QUYỀN SỞ HỮU TRÍ TUỆ TRÊN NỀN TẢNG SỐ TẠI VIỆT NAM: TIẾP CẬN QUẢN TRỊ ĐA CHỦ THỂ
+TÓM TẮT
+Sự phát triển mạnh mẽ của kinh tế số tại Việt Nam đang đặt ra những thách thức chưa từng có đối với công tác quản lý nhà nước về thực thi quyền sở hữu trí tuệ (SHTT). Mô hình thực thi hành chính đơn lẻ, phụ thuộc hoàn toàn vào cơ quan quản lý nhà nước truyền thống đang bộc lộ nhiều hạn chế về năng lực kỹ thuật và tốc độ xử lý trước sự tinh vi của các hành vi vi phạm trên không gian mạng. Bài viết này áp dụng lý thuyết quản trị đa chủ thể (multi-stakeholder governance) để phân tích thực trạng thực thi quyền SHTT tại Việt Nam giai đoạn 2020 - 2024. Thông qua phân tích các chuỗi số liệu thực tế về chỉ số đổi mới sáng tạo toàn cầu (GII), kết quả xử phạt hành chính của các lực lượng liên ngành địa phương, và mức độ phối hợp chuyên môn của Cục SHTT với các cơ quan thực thi, nghiên cứu chỉ ra những điểm nghẽn cốt lõi trong cơ chế kết nối đa chủ thể hiện nay. Từ đó, bài viết đề xuất giải pháp chuyển đổi mô hình quản lý sang mô hình quản trị đa chủ thể, tăng cường vai trò điều phối của cơ quan nhà nước, sự chủ động của chủ thể quyền và năng lực phối hợp kỹ thuật của các bên trung gian công nghệ (ISPs).
+Từ khóa: Quyền sở hữu trí tuệ, Thực thi quyền, Nền tảng số, Quản trị đa chủ thể, Việt Nam.
+MỤC LỤC BẢN THẢO
+(Mục lục tự động này sẽ được hiển thị đầy đủ và cập nhật khi người dùng mở tệp bằng Microsoft Word hoặc Google Docs và chọn Update Field)
+1. Đặt vấn đề và bối cảnh phát triển kinh tế số tại Việt Nam
+Trong bối cảnh toàn cầu hóa và chuyển đổi số diễn ra mạnh mẽ, kinh tế số đã trở thành động lực tăng trưởng mới của Việt Nam. Tuy nhiên, sự dịch chuyển của các hoạt động kinh tế, thương mại lên không gian số cũng đồng nghĩa với việc các hành vi xâm phạm quyền sở hữu trí tuệ (SHTT) gia tăng với quy mô lớn, tốc độ nhanh và phương thức ngày càng tinh vi. Các mô hình quản lý nhà nước về thực thi quyền SHTT truyền thống, vốn dựa chủ yếu vào sự can thiệp hành chính trực tiếp của các cơ quan nhà nước, đang gặp thách thức nghiêm trọng do tính phi biên giới và tính ẩn danh cao của các nền tảng trực tuyến.
+Để đánh giá bối cảnh vĩ mô về năng lực công nghệ và thể chế quản lý của Việt Nam, chúng ta có thể xem xét xu hướng của Chỉ số Đổi mới Sáng tạo Toàn cầu (Global Innovation Index - GII) do Tổ chức Sở hữu trí tuệ Thế giới (WIPO) công bố trong giai đoạn 5 năm vừa qua.
+Bảng 1: Chỉ số Đổi mới Sáng tạo Toàn cầu (GII) của Việt Nam (2020 - 2024)
+Năm
+Thứ hạng GII toàn cầu
+Đầu vào Đổi mới (Inputs)
+Đầu ra Đổi mới (Outputs)
+Thứ hạng trong ASEAN
+2020
+42
+62
+38
+3
+2021
+44
+60
+38
+4
+2022
+48
+59
+41
+4
+2023
+46
+57
+40
+4
+2024
+44
+53
+36
+4
+Nguồn: Tổng hợp từ Báo cáo Chỉ số Đổi mới Sáng tạo Toàn cầu của WIPO qua các năm.
+Phân tích số liệu từ Bảng 1 chỉ ra một nghịch lý mang tính bản chất trong bối cảnh đổi mới sáng tạo và chuyển đổi số tại Việt Nam. Mặc dù xếp hạng GII toàn cầu của Việt Nam duy trì ổn định ở mức tương đối tốt (quanh vị trí 44-48) và chỉ số Đầu ra Đổi mới (Outputs) luôn đạt vị trí rất cao (xếp hạng 36 toàn cầu năm 2024), điểm số Đầu vào Đổi mới (Inputs) - phản ánh năng lực thể chế, hạ tầng pháp lý và nguồn lực nghiên cứu - lại liên tục đi sau đáng kể (xếp hạng 53 toàn cầu năm 2024). Điểm nghẽn thể chế này chính là nguyên nhân cốt lõi khiến các mô hình quản lý hành chính truyền thống của nhà nước tỏ ra hụt hơi trước tốc độ số hóa. Để duy trì và phát triển nền kinh tế sáng tạo, việc tháo gỡ điểm nghẽn thể chế thông qua chuyển đổi sang mô hình quản trị phối hợp đa chủ thể là yêu cầu cấp thiết.
+2. Thực trạng hoạt động xác lập quyền sở hữu trí tuệ tại Việt Nam
+Sự phát triển của kinh tế số đòi hỏi năng lực bảo hộ và xác lập quyền đối với các tài sản trí tuệ cốt lõi như sáng chế, giải pháp hữu ích, kiểu dáng công nghiệp và nhãn hiệu phải tăng trưởng tương ứng. Hoạt động đăng ký sở hữu công nghiệp phản ánh sức sống công nghệ và nhu cầu bảo hộ của xã hội. Mối tương quan giữa sự gia tăng quy mô kinh tế (GDP) và hoạt động xác lập quyền sáng chế tại Việt Nam được thể hiện qua chuỗi số liệu 5 năm dưới đây.
+Bảng 2: Mối tương quan giữa GDP và hoạt động xác lập quyền Sáng chế tại Việt Nam (2020 - 2024)
+Năm
+Số đơn đăng ký sáng chế (đơn)
+Số bằng độc quyền sáng chế được cấp (bằng)
+Tổng sản phẩm quốc nội - GDP (Ngàn tỷ đồng)
+2020
+7.694
+4.319
+6.293
+2021
+8.535
+3.691
+8.479
+2022
+8.707
+3.868
+9.513
+2023
+9.460
+3.668
+10.221
+2024
+9.904
+4.430
+11.511
+Nguồn: Tổng hợp từ Báo cáo thường niên của Cục Sở hữu trí tuệ và Tổng cục Thống kê.
+Số liệu Bảng 2 minh chứng cho xu hướng gia tăng đều đặn của lượng đơn đăng ký sáng chế mới hàng năm, tăng từ 7.694 đơn (2020) lên gần chạm mốc 10.000 đơn (2024). Điều này đồng hành cùng sự tăng trưởng quy mô kinh tế số và nhận thức pháp lý của xã hội. Tuy nhiên, sự bùng nổ về mặt số lượng tài sản trí tuệ cần xác lập quyền cũng tạo ra áp lực cực kỳ lớn lên hệ thống thẩm định của Cục SHTT. Để giải quyết bài toán này, Cục SHTT đã bắt đầu thử nghiệm và triển khai diện rộng hệ thống nộp đơn trực tuyến toàn trình kết nối với Cổng dịch vụ công quốc gia, giúp ghi nhận hơn 50% số lượng đơn sáng chế được nộp trực tuyến toàn trình tính đến năm 2024, tăng mạnh so với mức chỉ khoảng 22,7% vào năm 2020.
+3. Thực trạng thực thi quyền sở hữu trí tuệ trên nền tảng số và cơ chế phối hợp liên ngành
+Nếu công tác xác lập quyền là phần khởi đầu thì công tác thực thi quyền lại là tấm khiên bảo vệ sự phát triển lành mạnh của nền kinh tế số. Tuy nhiên, không gian mạng đang trở thành mảnh đất béo bở cho các hành vi xâm phạm bản quyền số và phân phối hàng giả nhãn hiệu. Theo số liệu từ Liên minh Phần mềm Doanh nghiệp (BSA), tỷ lệ phần mềm không có bản quyền cài đặt trên máy tính tại Việt Nam vẫn ở mức rất cao (khoảng 78% giai đoạn đánh giá vĩ mô), đứng thứ 2 khu vực Đông Nam Á, gây thiệt hại ước tính lên tới 598 triệu USD.
+Trong hoạt động thực thi truyền thống, Việt Nam chủ yếu dựa vào các biện pháp hành chính liên ngành tại địa phương với vai trò nòng cốt của Quản lý thị trường, Thanh tra Khoa học & Công nghệ, Hải quan và Công an kinh tế.
+Bảng 3: Kết quả xử lý hành chính về xâm phạm quyền sở hữu công nghiệp tại địa phương (2020 - 2024)
+Năm
+Số vụ xâm phạm được xử lý
+Tổng số tiền phạt hành chính (VND)
+Đối tượng vi phạm chủ yếu
+2020
+2.457 vụ
+21.533.347.000
+Nhãn hiệu (chiếm 2.455 vụ)
+2021
+1.109 vụ
+13.294.029.000
+Nhãn hiệu
+2022
+1.430 vụ
+Trên 18.000.000.000
+Nhãn hiệu
+2023
+3.049 vụ
+36.735.363.000
+Nhãn hiệu
+2024
+Trên 3.300 vụ
+Trên 42.000.000.000
+Nhãn hiệu
+Nguồn: Tổng hợp từ báo cáo của lực lượng Quản lý thị trường và Thanh tra chuyên ngành bộ ngành.
+Số liệu Bảng 3 cho thấy xu hướng tăng mạnh của số vụ việc và số tiền phạt từ sau năm 2022, đặc biệt bùng nổ vào năm 2023 và 2024 với tổng tiền phạt vượt mốc 42 tỷ đồng. Đối tượng vi phạm chủ yếu luôn là nhãn hiệu, gắn liền với việc phân phối hàng giả, hàng nhái nhãn hiệu thông qua các mạng xã hội và sàn thương mại điện tử lớn. Để xử lý các vụ việc vi phạm này, cơ chế phối hợp Công - Công (giữa các cơ quan hành pháp địa phương và cơ quan quản lý chuyên môn chuyên sâu là Cục SHTT) đóng vai trò quyết định.
+Bảng 4: Số vụ việc phối hợp chuyên môn xác định vi phạm giữa Cục SHTT và các cơ quan thực thi (2020 - 2024)
+Đối tượng sở hữu công nghiệp
+Năm 2020 (vụ)
+Năm 2022 (vụ)
+Năm 2023 (vụ)
+Năm 2024 (vụ)
+Sáng chế / Giải pháp hữu ích
+4
+3
+6
+Không có dữ liệu lẻ
+Kiểu dáng công nghiệp
+2
+9
+7
+Không có dữ liệu lẻ
+Nhãn hiệu
+178
+196
+95
+Không có dữ liệu lẻ
+Đối tượng khác
+0
+0
+7
+Không có dữ liệu lẻ
+TỔNG SỐ VỤ VIỆC PHỐI HỢP
+184
+208
+115
+95
+Nguồn: Tổng hợp từ Báo cáo thường niên hoạt động sở hữu trí tuệ của Cục SHTT qua các năm.
+Phân tích Bảng 4 cho thấy tính chất 'bị động' và 'thủ công' của mô hình phối hợp thực thi hiện nay. Khi phát hiện các dấu hiệu vi phạm, các cơ quan thực thi (như Hải quan, Công an, Quản lý thị trường) hầu như phải gửi văn bản yêu cầu Cục SHTT cung cấp ý kiến chuyên môn xác định vi phạm trước khi tiến hành xử phạt hành chính. Quy trình này trung bình tốn từ vài tuần đến vài tháng cho một vụ việc, tạo ra sự chậm trễ nghiêm trọng khi xử lý trên môi trường trực tuyến - nơi các nội dung vi phạm có thể bị xóa bỏ hoặc chuyển dịch địa chỉ chỉ sau vài phút. Trong năm 2024, Cục SHTT đã xử lý 95 vụ việc trực tiếp cho ý kiến chuyên môn (trong đó phối hợp với Công an 28 vụ, Quản lý thị trường 20 vụ, Thanh tra Bộ 12 vụ, Tòa án 8 vụ, Hải quan 2 vụ, và các cơ quan khác 25 vụ), nhưng con số này chỉ là phần nổi của tảng băng chìm so với hàng chục ngàn vi phạm đang diễn ra hàng ngày trên các nền tảng mạng xã hội và sàn TMĐT.
+4. Vai trò của các tổ chức trung gian trong quản trị đa chủ thể
+Một trong những trụ cột cốt lõi của lý thuyết quản trị đa chủ thể là phát huy tối đa vai trò của các chủ thể trung gian phi nhà nước (chủ thể tư nhân chuyên nghiệp) để giảm bớt gánh nặng hành chính và tăng tốc độ phản ứng. Tại Việt Nam, hệ thống các tổ chức đại diện sở hữu công nghiệp (IP Agents) đang chứng minh năng lực đóng vai trò là cầu nối chủ đạo trong hệ sinh thái SHTT.
+Bảng 5: Tỷ lệ nộp đơn xác lập quyền thông qua tổ chức đại diện sở hữu công nghiệp (2020 - 2024)
+Chỉ số phát triển của Tổ chức Đại diện
+Năm 2020
+Năm 2022
+Năm 2023
+Năm 2024
+Số lượng tổ chức đại diện tích lũy
+219 tổ chức
+Không có số liệu
+Không có số liệu
+344 tổ chức
+Số cá nhân được cấp chứng chỉ hành nghề
+367 cá nhân
+Không có số liệu
+Không có số liệu
+587 cá nhân
+Tỷ lệ nộp đơn qua đại diện trên tổng số đơn
+56,22%
+57,43%
+57,59%
+63,23%
+Tỷ lệ cụ thể theo loại đơn: Sáng chế
+91,14%
+93,20%
+92,97%
+91,86%
+Tỷ lệ cụ thể theo loại đơn: Giải pháp hữu ích
+38,00%
+39,10%
+46,10%
+41,03%
+Tỷ lệ cụ thể theo loại đơn: Kiểu dáng công nghiệp
+69,78%
+70,30%
+72,43%
+76,32%
+Tỷ lệ cụ thể theo loại đơn: Nhãn hiệu
+50,83%
+51,40%
+51,47%
+58,46%
+Nguồn: Tổng hợp từ dữ liệu công bố và báo cáo thường niên của Cục SHTT.
+Số liệu Bảng 5 cho thấy vai trò áp đảo của các tổ chức đại diện trong công tác xác lập quyền, đặc biệt đối với sáng chế khi luôn duy trì ở mức trên 91% và nhãn hiệu tăng mạnh đạt 58,46% năm 2024. Sự phát triển mạnh mẽ về quy mô số lượng tổ chức (từ 219 lên 344 tổ chức) và cá nhân hành nghề (từ 367 lên 587 cá nhân) chứng minh sự sẵn sàng của khu vực tư nhân trong việc tham gia quản trị SHTT. Tuy nhiên, vai trò của một chủ thể trung gian tối quan trọng khác trên nền tảng số là các nhà cung cấp dịch vụ Internet (ISPs) và các sàn thương mại điện tử (TMĐT) vẫn chưa được khai thác hiệu quả do thiếu hành lang pháp lý gắn kết trách nhiệm.
+5. Đề xuất chuyển đổi mô hình quản lý sang mô hình quản trị đa chủ thể
+Dựa trên các phân tích định lượng về điểm nghẽn thể chế và bối cảnh vi phạm, nghiên cứu đề xuất 4 nhóm giải pháp chuyển đổi mô hình quản lý nhà nước sang mô hình quản trị đa chủ thể trên nền tảng số tại Việt Nam:
+Hoàn thiện cơ chế liên kết "Notice-and-Takedown" tự động: Cần luật hóa trách nhiệm của các ISPs và sàn TMĐT trong việc tự động rà soát, gỡ bỏ nội dung vi phạm khi nhận được thông báo hợp lệ từ chủ thể quyền, không cần phải đợi văn bản yêu cầu xử phạt hành chính rườm rà của cơ quan nhà nước.
+Xây dựng Cổng cơ sở dữ liệu số liên thông thời gian thực (Real-time Database): Thiết lập một hệ thống dữ liệu chia sẻ giữa Cục SHTT, các cơ quan thực thi (Hải quan, Công an, QLTT) và các doanh nghiệp chủ thể quyền để tra cứu nhanh thông tin, rút ngắn thời gian cho ý kiến chuyên môn từ vài tuần xuống vài phút.
+Cải cách cơ chế tên miền trực tuyến: Phối hợp với cơ quan quản lý tên miền (VNNIC) để công khai thông tin tra cứu WHOIS đối với các tên miền đăng ký kinh doanh, giúp việc xác định và truy nguyên chủ thể vi phạm trên môi trường mạng diễn ra nhanh chóng.
+Nâng cấp mô hình điều phối của Ban Chỉ đạo 389 Quốc gia: Nâng cao vai trò điều phối liên ngành của Văn phòng thường trực Ban Chỉ đạo 389 Quốc gia trong việc kết nối, chỉ đạo thống nhất và giám sát công tác thực thi quyền SHTT trực tuyến xuyên suốt từ trung ương đến địa phương.
+Tài liệu tham khảo
+1. Cục Sở hữu trí tuệ Việt Nam. (2020). Báo cáo thường niên hoạt động sở hữu trí tuệ 2020. Hà Nội.
+2. Cục Sở hữu trí tuệ Việt Nam. (2022). Báo cáo thường niên hoạt động sở hữu trí tuệ 2022. Hà Nội.
+3. Cục Sở hữu trí tuệ Việt Nam. (2023). Báo cáo thường niên hoạt động sở hữu trí tuệ 2023. Hà Nội.
+4. Cục Sở hữu trí tuệ Việt Nam. (2024). Báo cáo thường niên hoạt động sở hữu trí tuệ 2024. Hà Nội.
+5. World Intellectual Property Organization (WIPO). (2024). Global Innovation Index 2024. Geneva: WIPO.
+6. World Intellectual Property Organization (WIPO). (2025). World Intellectual Property Indicators 2025. Geneva: WIPO.
+7. Liên minh Phần mềm Doanh nghiệp (BSA). (2015). Global Software Survey 2015. Washington D.C.
