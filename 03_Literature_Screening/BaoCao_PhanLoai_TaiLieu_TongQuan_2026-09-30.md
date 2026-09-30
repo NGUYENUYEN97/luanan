@@ -84,3 +84,9 @@ Các chỗ dưới đây nên tìm thêm từ cơ sở dữ liệu. Báo cáo n�
 - Thêm Bảng 1.3: ma trận đối chiếu 33 công trình đã tổng quan với 9 yếu tố, kèm đoạn nhận xét.
 - Thêm Bảng 1.4: chủ thể khảo sát, mẫu và phương pháp của 9 công trình thực nghiệm trong nước. Số liệu mẫu đã được đối chiếu với bản gốc.
 - Điểm cần NCS thống nhất: mục 1.2.3 ("Thứ ba") nêu 3 nhóm chủ thể khảo sát (doanh nghiệp, cơ quan quản lý, tổ chức trung gian), trong khi đề cương chi tiết (`10_DeCuong.md`) nêu 4 nhóm (thêm nhà khoa học).
+
+## 7. Đã đưa vào chuyên đề (cập nhật cùng ngày)
+
+17 tài liệu nhóm B đã được viết vào các mục 1.1.1.2, 1.1.2.1, 1.1.2.2: Phạm Minh Huyền (2024), Trần Văn Hải (2021), Hứa Thị Hồng (2023), OECD (2014), Barefoot và cộng sự (2018), WIPO và Luiss (2024), UNCTAD (2017), Dahlman và cộng sự (2016), Chen và Wu (2022), Zheng và cộng sự (2023), Yuan và Li (2025), Ding và Yang (2025), Trần Thị Lan (2025), Nguyễn Phương Thảo (2024), Truong Nam Trung (2020), Ngô Hoài Sơn và Nguyễn Lê Kim Kiều (2022), Nguyễn Thị Hải Hà (2023), Nguyễn Thị Tuyết Nga (2025).
+
+Chưa đưa vào: nhóm tài liệu cho mục 1.1.1.1, đoạn thuật ngữ đầu mục 1.1.3, mục 1.1.3.1, 1.1.3.2 (18 tài liệu) và Nguyễn Hồ Bích Hằng (2025) vì chưa đối chiếu được tên bài tiếng Việt.

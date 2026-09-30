@@ -2,7 +2,7 @@
 
 ## Sản phẩm cuối (tách thành 2 file theo yêu cầu NCS)
 
-- `ChuyenDe_TongQuan_FINAL.docx` (+ .pdf): Chuyên đề tổng quan gồm bìa, mục lục, Mở đầu, tổng quan 1.1-1.3, Kết luận, 95 tài liệu tham khảo. Phần chính 30 trang.
+- `ChuyenDe_TongQuan_FINAL.docx` (+ .pdf): Chuyên đề tổng quan gồm bìa, mục lục, Mở đầu, tổng quan 1.1-1.3, Kết luận, 113 tài liệu tham khảo. Phần chính 30 trang.
 - `DeCuong_ChiTiet_FINAL.docx` (+ .pdf): Đề cương chi tiết gồm Mở đầu viết theo `DeCuong_FINAL_2026-09-30.md` (bản NCS thích), kết cấu chi tiết 4 chương theo mẫu trường, 20 tài liệu viện dẫn. Dài 19 trang.
 - Đoạn "Tính cấp thiết" dùng chung cho cả hai file: `ChuyenDe_TongQuan_FINAL/00_TinhCapThiet.md`.
 - Không còn dùng: `ChuyenDe_TongQuan_va_DeCuong_FINAL.docx/.pdf` (bản gộp), `Đề cương NCS Uyen_FINAL_2026-09-30.docx`, `ChuyenDe_TongQuan_FINAL/06_Phan2.md`.
@@ -59,3 +59,12 @@ So với file `DeCuong_FINAL_2026-09-30.md`, Mở đầu của đề cương ch�
 1. Điền thông tin trên trang bìa: cơ sở đào tạo, họ tên NCS, người hướng dẫn.
 2. Rà lại hai nguồn chưa đối chiếu được bản gốc: Lê Nết (2006) và Đoàn Đức Lương, Ngô Minh Tiến (2022) (tên tạp chí lấy theo bảng cũ).
 3. Nếu thầy/cô yêu cầu cỡ mẫu khác (ví dụ 100 phiếu), sửa ở `06_Phan2.md` (mục 6 và Bảng 2.2) và trong `hinh_de_cuong/ve_hinh_quy_trinh.py`.
+
+## Bổ sung ngày 30/9/2026 (sau rà soát thư mục NotebookLM)
+
+- Mục 1.1.1.2: thêm Phạm Minh Huyền (2024) vào hướng 1; Trần Văn Hải (2021), Hứa Thị Hồng (2023) vào hướng 2 (năng lực và phối hợp của bộ máy thực thi).
+- Mục 1.1.2.1: thêm OECD (2014), Barefoot và cộng sự (2018) vào hướng 1; WIPO và Luiss (2024) vào hướng 2; UNCTAD (2017), Dahlman và cộng sự (2016) vào hướng 3; thêm hướng 4 về quan hệ giữa bảo hộ quyền SHTT và kinh tế số (Chen và Wu, 2022; Zheng và cộng sự, 2023; Yuan và Li, 2025; Ding và Yang, 2025).
+- Mục 1.1.2.2: thêm Trần Thị Lan (2025), Nguyễn Phương Thảo (2024) vào hướng 1; Truong Nam Trung (2020), Ngô Hoài Sơn và Nguyễn Lê Kim Kiều (2022), Nguyễn Thị Hải Hà (2023) vào hướng 2; Nguyễn Thị Tuyết Nga (2025) vào hướng 3.
+- Mục 1.2: thêm Bảng 1.3 (ma trận công trình và yếu tố), Bảng 1.4 (phương pháp các công trình thực nghiệm trong nước); cập nhật Bảng 1.1.
+- Danh mục tài liệu tham khảo: từ 95 lên 113 tài liệu. Tệp `ChuyenDe_TongQuan_FINAL.pdf` chưa được xuất lại, cần xuất từ bản .docx sau khi cập nhật mục lục.
+- Căn cứ chọn tài liệu: `03_Literature_Screening/BaoCao_PhanLoai_TaiLieu_TongQuan_2026-09-30.md`.
