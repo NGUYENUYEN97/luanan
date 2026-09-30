@@ -2,7 +2,7 @@
 
 ## Sản phẩm cuối (tách thành 2 file theo yêu cầu NCS)
 
-- `ChuyenDe_TongQuan_FINAL.docx` (+ .pdf): Chuyên đề tổng quan gồm bìa, mục lục, Mở đầu, tổng quan 1.1-1.3, Kết luận, 113 tài liệu tham khảo. Phần chính 30 trang.
+- `ChuyenDe_TongQuan_FINAL.docx` (+ .pdf): Chuyên đề tổng quan gồm bìa, mục lục, Mở đầu, tổng quan 1.1-1.3, Kết luận, 129 tài liệu tham khảo. Phần chính 30 trang.
 - `DeCuong_ChiTiet_FINAL.docx` (+ .pdf): Đề cương chi tiết gồm Mở đầu viết theo `DeCuong_FINAL_2026-09-30.md` (bản NCS thích), kết cấu chi tiết 4 chương theo mẫu trường, 20 tài liệu viện dẫn. Dài 19 trang.
 - Đoạn "Tính cấp thiết" dùng chung cho cả hai file: `ChuyenDe_TongQuan_FINAL/00_TinhCapThiet.md`.
 - Không còn dùng: `ChuyenDe_TongQuan_va_DeCuong_FINAL.docx/.pdf` (bản gộp), `Đề cương NCS Uyen_FINAL_2026-09-30.docx`, `ChuyenDe_TongQuan_FINAL/06_Phan2.md`.
@@ -26,7 +26,7 @@ So với file `DeCuong_FINAL_2026-09-30.md`, Mở đầu của đề cương ch�
 ## Các lựa chọn đã chốt với NCS
 
 - Tên đề tài giữ nguyên: Quản lý nhà nước về quyền sở hữu trí tuệ trong nền kinh tế số ở Việt Nam; phạm vi giới hạn ở QLNN đối với khai thác quyền SHTT. Hai dự thảo 20/8 và 15/9 đề xuất đổi tên thành "QLNN về khai thác quyền SHTT...", nhưng không áp dụng vì NCS đã chốt giữ tên.
-- Phương pháp: hỗn hợp, định lượng mô tả kết hợp định tính giải thích; 150-180 phiếu (3 nhóm chủ thể), 15-20 phỏng vấn sâu; không dùng EFA và hồi quy.
+- Phương pháp: hỗn hợp, định lượng mô tả kết hợp định tính giải thích; 150-180 phiếu (4 nhóm chủ thể), 15-20 phỏng vấn sâu; không dùng EFA và hồi quy.
 - Mốc giải pháp: đến năm 2030, tầm nhìn đến năm 2045.
 - Kết cấu: bám mẫu của cơ sở đào tạo.
 
@@ -66,5 +66,8 @@ So với file `DeCuong_FINAL_2026-09-30.md`, Mở đầu của đề cương ch�
 - Mục 1.1.2.1: thêm OECD (2014), Barefoot và cộng sự (2018) vào hướng 1; WIPO và Luiss (2024) vào hướng 2; UNCTAD (2017), Dahlman và cộng sự (2016) vào hướng 3; thêm hướng 4 về quan hệ giữa bảo hộ quyền SHTT và kinh tế số (Chen và Wu, 2022; Zheng và cộng sự, 2023; Yuan và Li, 2025; Ding và Yang, 2025).
 - Mục 1.1.2.2: thêm Trần Thị Lan (2025), Nguyễn Phương Thảo (2024) vào hướng 1; Truong Nam Trung (2020), Ngô Hoài Sơn và Nguyễn Lê Kim Kiều (2022), Nguyễn Thị Hải Hà (2023) vào hướng 2; Nguyễn Thị Tuyết Nga (2025) vào hướng 3.
 - Mục 1.2: thêm Bảng 1.3 (ma trận công trình và yếu tố), Bảng 1.4 (phương pháp các công trình thực nghiệm trong nước); cập nhật Bảng 1.1.
-- Danh mục tài liệu tham khảo: từ 95 lên 113 tài liệu. Tệp `ChuyenDe_TongQuan_FINAL.pdf` chưa được xuất lại, cần xuất từ bản .docx sau khi cập nhật mục lục.
+- Danh mục tài liệu tham khảo: từ 95 lên 129 tài liệu (đợt một 113, đợt hai 129). Tệp `ChuyenDe_TongQuan_FINAL.pdf` chưa được xuất lại, cần xuất từ bản .docx sau khi cập nhật mục lục.
 - Căn cứ chọn tài liệu: `03_Literature_Screening/BaoCao_PhanLoai_TaiLieu_TongQuan_2026-09-30.md`.
+- Đợt hai: bổ sung mục 1.1.1.1 (hướng 1, 2, 3), đoạn làm rõ thuật ngữ khai thác đầu mục 1.1.3, mục 1.1.3.1 (hướng 2, 3, 4), mục 1.1.3.2 (Phạm Thị Thúy Hằng, 2021); cập nhật Bảng 1.3, Bảng 1.4 và luận điểm "Thứ nhất" ở mục 1.2.3.
+- Thống nhất đối tượng khảo sát gồm 4 nhóm (doanh nghiệp và chủ sở hữu quyền, cơ quan QLNN, tổ chức trung gian, nhà khoa học) ở mục 1.2.3 cho khớp với đề cương.
+- Zotero: chạy `python ChuyenDe_TongQuan_FINAL/xuat_zotero.py` để xuất `Zotero_ChuyenDe_TongQuan.json` (CSL JSON, khuyến nghị) và `Zotero_ChuyenDe_TongQuan.ris`; nhập vào Zotero bằng File > Import. Mỗi mục có ghi chú khóa refs.py và số thứ tự [n] trong danh mục.

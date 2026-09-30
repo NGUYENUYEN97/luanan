@@ -89,4 +89,6 @@ Các chỗ dưới đây nên tìm thêm từ cơ sở dữ liệu. Báo cáo n�
 
 18 tài liệu nhóm B đã được viết vào các mục 1.1.1.2, 1.1.2.1, 1.1.2.2: Phạm Minh Huyền (2024), Trần Văn Hải (2021), Hứa Thị Hồng (2023), OECD (2014), Barefoot và cộng sự (2018), WIPO và Luiss (2024), UNCTAD (2017), Dahlman và cộng sự (2016), Chen và Wu (2022), Zheng và cộng sự (2023), Yuan và Li (2025), Ding và Yang (2025), Trần Thị Lan (2025), Nguyễn Phương Thảo (2024), Truong Nam Trung (2020), Ngô Hoài Sơn và Nguyễn Lê Kim Kiều (2022), Nguyễn Thị Hải Hà (2023), Nguyễn Thị Tuyết Nga (2025).
 
-Chưa đưa vào: nhóm tài liệu cho mục 1.1.1.1, đoạn thuật ngữ đầu mục 1.1.3, mục 1.1.3.1, 1.1.3.2 (17 tài liệu) và Nguyễn Hồ Bích Hằng (2025) vì chưa đối chiếu được tên bài tiếng Việt.
+Đợt hai (cùng ngày): 16 tài liệu còn lại được viết vào mục 1.1.1.1 (WIPO 2024 về mô hình quản trị cơ quan SHTT; Fink, Maskus và Qian 2016; Drahos 1996), đoạn làm rõ thuật ngữ đầu mục 1.1.3 (Kamiyama, Sheehan và Martinez 2006; Liu Haibo và Liu Liang 2016), mục 1.1.3.1 (Shane 2004; Thursby và Kemp 2002; Siegel, Veugelers và Wright 2007; Holgersson và Aaboen 2019; Goldfarb và Henrekson 2003; UNECE 2011; APEC 2023; UNCTAD 2024; Lee 2026; Fu và cộng sự 2026) và mục 1.1.3.2 (Phạm Thị Thúy Hằng 2021). Như vậy 34/35 tài liệu nhóm B đã được sử dụng; riêng Nguyễn Hồ Bích Hằng (2025) chưa đưa vào vì chưa đối chiếu được tên bài tiếng Việt.
+
+Lưu ý sửa số liệu: báo cáo trước ghi phần còn lại là 17 tài liệu, trong đó 11 tài liệu cho mục 1.1.3.1; con số đúng là 16, trong đó 10 tài liệu cho mục 1.1.3.1.
