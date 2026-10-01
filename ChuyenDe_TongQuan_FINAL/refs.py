@@ -284,4 +284,10 @@ REFS = {
         "Lee T. (2026), “Governing digital innovation ecosystems under risk and uncertainty: IP circulation, platform dependency, and policy orchestration in Korean content industries”, *Technology in Society*, 88, 103495."),
     "fu2026": ("en", "Fu 2026",
         "Fu X., Zhang J., Ai C., Fu X.M. (2026), “Digitalisation of international trade in intellectual properties: An approach based on the utility theory of technology value”, *The World Economy*, 49, 852-866."),
+    "wipo2020": ("en", "World Intellectual Property Organization 2020",
+        "World Intellectual Property Organization (2020), *What is Intellectual Property?*, WIPO Publication No. 450E/20, WIPO, Geneva."),
+    "wipo2025gii": ("en", "World Intellectual Property Organization 2025 gii",
+        "World Intellectual Property Organization (2025), *Global Innovation Index 2025: Innovation at a Crossroads*, WIPO, Geneva."),
+    "wto1994": ("en", "World Trade Organization 1994",
+        "World Trade Organization (1994), *Agreement on Trade-Related Aspects of Intellectual Property Rights* (as amended by the 2005 Protocol Amending the TRIPS Agreement), Annex 1C, Marrakesh Agreement Establishing the World Trade Organization, WTO, Geneva."),
 }

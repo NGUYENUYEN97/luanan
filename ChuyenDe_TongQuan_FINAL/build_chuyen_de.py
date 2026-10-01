@@ -19,13 +19,17 @@ ROOT = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 from refs import REFS  # noqa: E402
 
-# Chạy: python build_chuyen_de.py chuyende   (hoặc)   python build_chuyen_de.py decuong
+# Chạy: python build_chuyen_de.py chuyende | decuong | chuong2
 DOC = sys.argv[1] if len(sys.argv) > 1 else "chuyende"
 if DOC == "chuyende":
     MD_FILES = ["01_MoDau.md", "02_Phan1_111.md", "03_Phan1_112.md", "04_Phan1_113.md",
                 "05_Phan1_12_13.md", "07_KetLuan.md"]
     OUT = os.path.join(ROOT, "ChuyenDe_TongQuan_FINAL.docx")
     REF_TITLE = "TÀI LIỆU THAM KHẢO"
+elif DOC == "chuong2":
+    MD_FILES = ["20_Chuong2_21.md"]
+    OUT = os.path.join(ROOT, "Chuong2_CoSoLyLuan_Muc2.1.docx")
+    REF_TITLE = "TÀI LIỆU THAM KHẢO MỤC 2.1"
 else:
     MD_FILES = ["10_DeCuong.md"]
     OUT = os.path.join(ROOT, "DeCuong_ChiTiet_FINAL.docx")
