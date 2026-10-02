@@ -1,4 +1,4 @@
-# Ghi chú xác minh nguồn Chương 2 (mục 2.1-2.6), cập nhật 02/10/2026
+# Ghi chú xác minh nguồn Chương 2 (toàn bộ Chương 2), cập nhật 02/10/2026
 
 Nguyên tắc: mọi luận điểm gắn với một tài liệu cụ thể. Bảng dưới ghi mức độ đối chiếu với bản gốc.
 
@@ -23,4 +23,16 @@ Số trang ghi trong ngoặc là vị trí thường gặp ở bản in gốc; c
 ## Lưu ý nội dung
 - Điều 11 Luật SHTT (VBHN) vẫn ghi Bộ Nông nghiệp và Phát triển nông thôn; khi hoàn thiện cần cập nhật tên bộ theo cơ cấu Chính phủ hiện hành nếu văn bản hợp nhất mới đã điều chỉnh.
 - Bảng 2.6 đối chiếu với Bảng 1.2 của chuyên đề; bốn yếu tố đánh dấu Bổ sung là yếu tố thuộc về hoạt động QLNN, không có trong Bảng 1.2.
-- Mục 2.7 chưa viết; 2.7 (kinh nghiệm quốc tế) cần đọc tài liệu trong các thư mục 07, 08, 10.
+
+
+## Mục 2.7 (kinh nghiệm quốc tế)
+Đã đối chiếu bản gốc trong thư mục 01_NotebookLM_Inputs:
+- Hàn Quốc: KIPO Annual Report 2024 (tr. 32-33, 37-38, 42-48, 63, 98); Invention Promotion Act (Điều 1, Điều 55-5); UNCTAD 2024.
+- Trung Quốc: 知识产权强国建设纲要（2021－2035年） (bản HTML từ gov.cn); 2026年知识产权强国建设推进计划 (mục 18, 19, 50, 68-70, 103); WIPO 2023 China's Journey (tr. 4, 6, 8-9, 18); bản tin về Luật Chống cạnh tranh không lành mạnh sửa đổi (15/10/2025).
+- Singapore: Singapore IP Strategy 2030 Report (tr. 3-5, 8-9); Intangibles Disclosure Framework 2023 (tr. 2, 5).
+
+Chưa đọc được toàn văn (mạng của môi trường làm việc chặn wipo.int, ipkorea.go.kr, ipos.gov.sg); thông tin lấy từ kết quả tìm kiếm, NCS cần mở bản gốc để kiểm tra:
+- korea2011: Framework Act on Intellectual Property, Act No. 10629 (19/5/2011), hiệu lực 20/7/2011; Presidential Council on Intellectual Property thành lập 28/7/2011. Nguồn: www.ipkorea.go.kr/english/about/Background.do; WIPO Lex.
+- moip2025: KIPO nâng cấp thành Ministry of Intellectual Property (MOIP) trực thuộc Thủ tướng từ 01/10/2025. Nguồn: tin của Tổng giám đốc WIPO năm 2025 (wipo.int). Tài liệu Description of MOIP's Authority File (15/12/2025) trong thư mục 08 xác nhận tên gọi MOIP.
+- wipo2021sg: chương trình IP Financing Scheme thí điểm năm 2014. Nguồn: wipo-rn2021-15 Singapore's Journey; bài WIPO Magazine (bản lưu trong thư mục 10 là bản dịch máy, không dùng làm nguồn trích).
+- cn2026: cơ quan ban hành ghi theo văn phòng hội nghị liên tịch được nêu trong kế hoạch; cần kiểm tra lại tên cơ quan ban hành trên bản công bố chính thức.

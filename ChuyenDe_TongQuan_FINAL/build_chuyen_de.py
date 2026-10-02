@@ -27,7 +27,7 @@ if DOC == "chuyende":
     OUT = os.path.join(ROOT, "ChuyenDe_TongQuan_FINAL.docx")
     REF_TITLE = "TÀI LIỆU THAM KHẢO"
 elif DOC == "chuong2":
-    MD_FILES = ["20_Chuong2_21.md", "21_Chuong2_22.md", "22_Chuong2_23.md", "23_Chuong2_24_26.md"]
+    MD_FILES = ["20_Chuong2_21.md", "21_Chuong2_22.md", "22_Chuong2_23.md", "23_Chuong2_24_26.md", "24_Chuong2_27_KL.md"]
     OUT = os.path.join(ROOT, "Chuong2_CoSoLyLuan.docx")
     REF_TITLE = "TÀI LIỆU THAM KHẢO CHƯƠNG 2"
 else:
